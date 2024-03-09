@@ -28,10 +28,10 @@ for i in alpha/genbook/**/*.conf; do # Whitespace-safe and recursive
     cp alpha/genbook/$base_name/*.jpeg build/alpha/sword/genbook/rawgenbook/$base_name/
     # make zip genbook
     cd build/alpha/sword/
-    zip -r $base_name.zip mods.d/$base_name.conf genbook/rawgenbook/$base_name/*
+    zip -r ${base_name:3}.zip mods.d/$base_name.conf genbook/rawgenbook/$base_name/*
     cd -
     # move zip file
-    mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
+    mv build/alpha/sword/${base_name:3}.zip build/alpha/sword/packages/
 done
 
 # build alpha bible texts
@@ -74,10 +74,10 @@ for i in alpha/lexdict/**/*.conf; do # Whitespace-safe and recursive
     cp alpha/lexdict/$base_name/*.jpeg build/alpha/sword/lexdict/rawld4/$base_name/
     # make zip file
     cd build/alpha/sword/
-    zip -r $base_name.zip mods.d/$base_name.conf lexdict/rawld4/$base_name/*
+    zip -r ${base_name:3}.zip mods.d/$base_name.conf lexdict/rawld4/$base_name/*
     cd -
     # move zip file
-    mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
+    mv build/alpha/sword/${base_name:3}.zip build/alpha/sword/packages/
 done
 # build mods.d.tar.gz
 cd build/alpha/sword/
@@ -102,10 +102,10 @@ for i in beta/genbook/**/*.conf; do # Whitespace-safe and recursive
     cp beta/genbook/$base_name/*.jpeg build/beta/sword/genbook/rawgenbook/$base_name/
     # make zip file
     cd build/beta/sword/
-    zip -r $base_name.zip mods.d/$base_name.conf genbook/rawgenbook/$base_name/*
+    zip -r ${base_name:3}.zip mods.d/$base_name.conf genbook/rawgenbook/$base_name/*
     cd -
     # move zip file
-    mv build/beta/sword/$base_name.zip build/beta/sword/packages/
+    mv build/beta/sword/${base_name:3}.zip build/beta/sword/packages/
 done
 # build mods.d.tar.gz
 cd build/beta/sword/
