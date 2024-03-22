@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+      
+<osisText osisIDWork="WSB-Titus" osisRefWork="book" xml:lang="de">
+    <header>
+
+      <work osisWork="WorkID">
+      <title>Guthe Bibelatlas</title>
+      <creator role="aut">Hermann Guthe</creator>
+      </work>
+
+      <work osisWork="Bible">
+      <refSystem>Bible</refSystem>
+      </work>
+
+    </header>
+    
+    
+<div type="majorSection" osisID="Cover ">
+    
+ <p>BIBELATLAS
+ </p><p> IN 21 HAUPT- und 30 NEBENKARTEN
+ </p>
+ <p>von</p>
+<p>HERMANN GUTHE</p><p>
+     </p><p>DR. THEOL. UND PHIL.,
+</p><p>PROFESSOR AN DER UNIVERSITÄT LEIPZIG</p>
+<p>ZWEITE, VERMEHRTE UND UMGEARBEITETE AUFLAGE</p>
+<p>H. WAGNER &amp; E. DEBES, LEIPZIG 1926</p>
+</div>
+
+<div type="majorSection" osisID="VORWORT ZUR ZWEITEN AUFLAGE">
+<title>VORWORT ZUR ZWEITEN AUFLAGE</title>
+<p>Die Arbeiten an der zweiten Auflage des Bibelatlas haben sehr mit den Hemmungen der Nachkriegszeit zu kämpfen gehabt. Zunächst war die Literatur des Auslandes oft nur schwer oder überhaupt nicht zur rechten Zeit zu erhalten. Aus diesem Grunde mußten manche Teile der Karten, die schon als erledigt galten, nach den neu zugänglich gewordenen Forschungen mehr als einmal umgearbeitet werden. Das wertvolle Werk von G. A. Smith, Atlas for the historical geography of the Holy Land 1915, kam mir, was ich sehr bedaure, erst im Sommer 1925 in die Hände, zu einer Zeit, in der die schwarzen Platten für die Karten so gut wie abgeschlossen waren. Wenn nach dieser Seite hin nicht Alles benutzt worden ist, was dem Atlas zum Vorteil gedient hätte, so liegt der Grund in nichts Anderem als in der ungerechtfertigten Sperre, die einige unserer Kriegsgegner noch Jahre lang nach dem Kriege über die deutsche wissenschaftliche Arbeit verhängt haben.
+Sodann haben es die gegenwärtigen Arbeitsverhältnisse im Deutschen Reiche mit sich gebracht, daß die Verlagsfirma nicht in der Lage war, die zahlreichen Änderungen rasch nach einander auszuführen und den Druck der Karten sofort nach ihrer Bearbeitung in Angriff zu nehmen.
+Durch diese erschwerenden Umstände ist das Erscheinen des Atlas stark verzögert worden. Jetzt, am langersehnten Ende der Arbeit, freue ich mich sagen zu können, daß der Bibelatlas in seiner neuen Auflage trotz vieler Schwierigkeiten eine bedeutend verbesserte Gestalt gewonnen hat.</p>
+<p>
+Die zweite Auflage ist der ersten gegenüber durch das Blatt 2a vermehrt worden, das in Karte I den Boden Jerusalems vor der Besiedelung im Maßstabe von 1:14000 darstellt und in Karte II und III die Umgebung von Sichem und Samaria zur Anschauung bringt.
+Die Karten H und III sind nichts anderes als Versuche, die der Ergänzung bedürfen; sie wollen aber zugleich die Erforscher Palästinas dazu anregen, uns reichlicher als bisher und über Jerusalem hinaus mit zuverlässigen Plänen der alten Ortslagen und ihrer Umgebung zu versehen.</p>
+<p>
+N Mit der zweiten Auflage ist erreicht worden, daß zum erstenmal das ganze Gelände Palästinas, abgesehen von zwei gleich zu besprechenden Ausnahmen, nach wirklichen Aufnahmen gezeichnet werden konnte. Welche Bedeutung dieser Umstand für die Bestimmung der alten Ortslagen und Wege hat, liegt auf der Hand. Für den Negeb wurde die englische Karte „Sinai“ in vier Blättern vom Jahre 1915 verwertet und für die Gegend zwischen dem Hermon und Jabbok die Karte des Östjordanlandes, deren Herausgabe der Deutsche PalästinaVerein 1924 vollendet hat. Nur ein schmaler Streifen Landes südlich vom Jabbok entbehrt noch immer der Vermessung. Sie war bereits 1911 zwischen dem Deutschen Palästina-Verein und dem kürzlich verstorbenen Dr. phil. G. Schumacher in Haifä verabredet worden, konnte aber wegen des Krieges nicht ausgeführt werden. Professor Dr. G. Dalman hatte wohl freundlichst eine von ihm angefertigte Skizze des östlichen Teils dieses Streifens zur Verfügung gestellt; sie ist auch sorgfältig benutzt worden, konnte aber nicht alle Unsicherheiten beseitigen, die noch für die Umgegend des alten Ortes Gilead vorhanden sind. Dies ist die erste der oben erwähnten Ausnahmen. Die zweite betrifft das Gebiet des alten Moab vom Wädi Zerkä Mäin bis zum Wädi el-Hesä- Doch haben hier Professor Dr. R. Brünnow und Professor Dr.
+Al. Musil eine ziemlich gesicherte Grundlage geschaffen, die kaum noch erhebliche Änderungen erfahren wird.</p>
+<p>
+Was die übrigen Neuzeichnungen des Geländes betrifft, so muß ich einige Worte zu dem Mündungsgebiete des Euphrat und Tigris auf Blatt 5 und 7 bemerken. Es ist ein Irrtum von Professor Dr. H. Greßmann, wenn er in seinem Buche „Mose und seine Zeit“ (1913) S. 410 Anm. 6 schreibt, der Persische Meerbusen sei in der ersten Auflage (1911) „nach Hypothesen rekonstruiert, die heute als überwunden gelten dürfen“. Die tertiäre Barre, die dort in der Gegend des heutigen Basra eingetragen ist, ist durchaus keine „überwundene Hypothese*, sondern ein festes Ergebnis der neueren Forschung (vgl. F. Sarre und E. Herzfeld, Archäologische Reise im Euphrat- und Tigrisgebiet 1, 1911, S. 248). Obgleich eine sichere Lösung dieser ganzen Frage schwerlich jemals gelingen wird, so hat sich Dr. Hans Fischer doch zu einer Umzeichnung entschlossen, die er kurz mit folgenden Worten erläutert:</p>
+<p>
+„Die Lagune an der Mündung des Euphrat und Tigris habe ich als Binnensee dargestellt, und zwar so, daß das Vorrücken der Meeresküste seit dem Altertum weniger bedeutend erscheint, als bisher angenommen wurde; vgl. A. Wilson im Geogr. Journal (London), Bd. 65 (1925), S. 225fff.“</p>
+<p>
+Der neue geschichtliche Inhalt der Karten muß für sich selbst sprechen; wollte ich über diesen Teil meiner Arbeit nähere Auskunft geben, so könnte ich damit mehr als ein Buch füllen. Auch meine Auffassung von der früheren Gestalt des Busens von Suez kann ich hier nicht gegen H. Greßmann a. a. O. verteidigen. Die Pläne zur Geschichte Jerusalems habe ich unverändert gelassen, weil die Herausgabe des Atlas nicht so lange hinausgeschoben werden konnte, bis die zu erwartenden Ausgrabungsberichte vollständig vorliegen. Aus dem gleichen Grunde konnte auch Blatt 2a, I auf die letzten Ausgrabungen bei Jerusalem keine Rücksicht nehmen; die Zeichnung war bereits vollendet, als die ersten Nachrichten darüber hier eintrafen.</p>
+<p>
+Die Bemerkungen meiner sachkundigen Kritiker habe ich gewissenhaft erwogen und dankbar verwertet, wenn ich sie für richtig hielt. Professor Dr. J. J. Heß in Zürich hat mich in dem Bestreben, eine verbesserte zweite Auflage zu liefern, in der liebenswürdigsten Weise unterstützt, indem er mir zahlreiche Berichtigungen zur Umschrift der heutigen Namen zur Verfügung stellte. Ihm verdanke ich auch den erneuten Hinweis auf die schon früher vermutete Gleichung Meluhha und Meros, die jetzt auf Blatt 1 ihren Platz gefunden hat.
+Für alle seine Bemühungen spreche ich ihm meinen herzlichsten Dank aus. Die Professoren Alt, Steindorff und Weißbach hier haben meine Arbeiten in der freundlichsten Weise gefördert. Gern gebe ich an dieser Stelle meinem lebhaftesten Danke dafür Ausdruck.</p>
+<p>
+Den kartographischen Anteil an dieser Auflage hat Dr. phil. Hans Fischer hier besorgt. Für seine kenntnisreiche und sorgfältige Mitarbeit danke ich ihm aufs wärmste und darf dabei nicht unerwähnt lassen, daß die wertvollen Register am Ende des Atlas unter seiner Leitung entstanden sind, teils von ihm selbst, teils von Stud. theol. G. Schindler angefertigt.</p>
+<p>
+Die Geographische Anstalt von H. Wagner und E. Debes hat trotz der genannten Schwierigkeiten den Neudruck des Atlas in schöner und sorgfältiger Ausstattung zu Ende geführt. Jeder Benutzer wird sich sicherlich dankbar daran erfreuen.</p>
+<p>
+Leipzig, März 1936 HERMANN GUTHE </p>
+</div>
+
+<div type="majorSection" osisID="1 Syrien und Ägypten um 1400-1250 vor Chr">
+<title>1. Syrien und Ägypten um 1400-1250 vor Chr.</title>
+<p><figure src="karte1.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="2 Palästina zur Zeit Sauls">
+<title>2. Palästina zur Zeit Sauls</title>
+<p><figure src="karte2.jpg"/></p>
+<div type="chapter" osisID="2a">
+<title>2a</title>
+<p>2a. I. Der Boden Jerusalems vor der Besiedlung 1:14000;  I. Umgebung von Sichem 1:60000; III. Umgebung von Samaria 1:60000.</p>
+<p><figure src="karte3.jpg"/></p>
+</div>
+</div>
+
+<div type="majorSection" osisID="3 Palästina um 1000—750 vor Chr">
+<title>3. Palästina um 1000—750 vor Chr.</title>
+<p>Nebenkarten: I. Das Reich Davids und Salomos 1:2800000; II. Jerusalem und die Residenz der davidischen Könige nach den Bauten Davids und Salomos 1:14000.
+</p>
+<p><figure src="karte4.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="4 Palästina im 7 Jahrh vor Chr">
+<title>4. Palästina im 7. Jahrh. vor Chr. (650 vor Chr.)</title>
+<p>Nebenkarten: I. Palästina um 732 vor Chr. 1:2800000; II. Jerusalem im 7. Jahrh. vor Chr. 1:14000.</p>
+<p><figure src="karte6.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="5 Das Assyrische und Babylonische Reich">
+<title>5. Das Assyrische und Babylonische Reich im 8. und 7. Jahrh. vor Chr.</title>
+<p>Nebenkarten: I. Umgebung von Ninive 1:500000; II. Ruinenfeld von Ninive 1:100000; III. Das alte Tyrus 1:40000; IV. Umgebung von Babylon 1:500000; V. Ruinenfeld von Babylon 1:100000; VI. Das alte Babylon 1: 100000.</p>
+<p><figure src="karte7.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="6 Die Völkertafel">
+<title>6. Die Völkertafel: a) nach dem Jahwisten in Gen. 10 und verwandten Angaben (Gen. 22, 20—24)</title>
+<p>Die Völkertafel: a) nach dem Jahwisten in Gen. 10 und verwandten Angaben (Gen. 22, 20—24) 1:17000000; b) nach dem Priesterkodex in Gen. 10 und verwandten Angaben (Gen. 25, 12—18) 1: 25000000.</p>
+<p>Nebenkarten: I. Erdtafel des alten Testaments (1. Mos. 2, 10); II. Das Weltbild Herodots 5. Jahrh. vor Chr. 1: 150000000.</p>
+<p><figure src="karte9.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="7 Das Persische Reich um 500 vor Chr">
+<title>7. Das Persische Reich um 500 vor Chr.</title>
+<p>Nebenkarten: I. Jerusalem mit dem Neubau der Ringmauer durch Nehemia (Neh. 3) 1:14000; II. Das Gebiet der jüdischen Religionsgemeinde um 430 vor Chr. (Neh. 7, Esra 2) 1: 700000; III. Das judäische Gebiet unter dem persischen Statthalter Nehemia (Neh. 3) 1: 700000.</p>
+<p><figure src="karte10.jpg"/></p>
+</div>
+
+
+<div type="majorSection" osisID="8-10 Die Reiche der Seleueiden und Ptolemäer nach dem Tode Antiochus III (187 vor Chr), Palästina zur Zeit der Makkabäer und zur Zeit des Pompeius">
+<title>8. Die Reiche der Seleueiden und Ptolemäer nach dem Tode Antiochus III. (187 vor Chr.) </title>
+<title>9. Palästina zur Zeit der Makkabäer</title>
+<title>10. Palästina zur Zeit des Pompeius </title>
+<p><figure src="karte11.jpg"/></p>
+</div>
+
+
+<div type="majorSection" osisID="11-13 Palästina zur Zeit des Mareus Antonius (40—31 vor Chr) und  zur Zeit Herodes des Großen (30—4 vor Chr), Galiläa ">
+<title>11. Palästina zur Zeit des Mareus Antonius (40—31 vor Chr.)</title>
+<title>12. Palästina zur Zeit Herodes des Großen (30—4 vor Chr.)</title>
+<title>13. Galiläa</title>
+<p><figure src="karte12.jpg"/></p>
+</div>
+
+
+<div type="majorSection" osisID="14 Palästina zur Zeit Christi">
+<title>14. Palästina zur Zeit Christi </title>
+	<p>Nebenkarten: I. Heutige Umgebung von Jerusalem 1:150000; II. Jerusalem vor der Zerstörung im Jahre 70 nach Chr. 1: 14000.</p>
+<p><figure src="karte13.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="15-18 Palästina nach dem Tode Herodes des Großen (4 vor Chr bis 6 nach Chr), unter Agrippa I (37—44 nach Chr), unter römischen Procuratoren (44—66 nach Chr) und zur Zeit des Aufstandes (66—70 nach Chr)">
+<title>15. Palästina nach dem Tode Herodes des Großen (4 vor Chr. bis 6 nach Chr.) </title>
+<title>16. Palästina unter Agrippa I. (37—44 nach Chr.)</title>
+<title>17. Palästina unter römischen Procuratoren (44—66 nach Chr.)</title>
+<title>18. Palästina zur Zeit des Aufstandes (66—70 nach Chr.) </title>
+<p><figure src="karte15.jpg"/></p>
+</div>
+
+
+
+<div type="majorSection" osisID="19 Die Mittelmeerländer im 1 Jahrh nach Chr">
+<title>19. Die Mittelmeerländer im 1. Jahrh. nach Chr. </title>
+<p>Nebenkarten: I. Die Paulusbucht von Malta 1:250000; II. Palästina nach 70 nach Chr. 1:3000000; III. Jerusalems Belagerung durch die Römer = 1:25000; IV. Alexandria im 1. Jahrh. nach Chr. 1: 75000; V. Athen zur Zeit des Paulus 1:30000; VI. Rom zur Zeit Neros 1:40000. </p>
+<p><figure src="karte16.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="20 Das heutige Palästina">
+<title>20. Das heutige Palästina</title>
+<p>Nebenkarten: I. Das Hochland von Judäa 1:400000; II. Gegend zwischen Nazareth und Tiberias 1:400000; III. Jerusalem 1: 20000.</p>
+<p><figure src="karte18.jpg"/></p>
+</div>
+
+
+</osis>
+
