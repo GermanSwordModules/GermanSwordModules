@@ -39,7 +39,7 @@ This repository contains a build script (``buildAll.sh``) which builds all modul
 
 Original: https://archive.org/details/bibelatlasin21ha0000guth
 
-Todo: Better Scan available at https://opendata.uni-halle.de/handle/1981185920/41567
+Done: Better Scan available at https://opendata.uni-halle.de/handle/1981185920/41567
 
 ## Books
 
