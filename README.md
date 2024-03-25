@@ -13,7 +13,7 @@ This repository contains the sources for these modules. Feel free to raise an is
 To use the modules, include the following url to you application:
 
 ```
-https://euler.uber.space/sword-german/[stable/alpha/beta]
+https://elch.uber.space/sword/[stable/alpha/beta]
 ```
 
 # Helfen?
