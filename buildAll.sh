@@ -35,6 +35,29 @@ for i in alpha/genbook/**/*.conf; do # Whitespace-safe and recursive
     mv build/alpha/sword/${base_name:3}.zip build/alpha/sword/packages/
 done
 
+# build alpha comments
+for i in alpha/comments/**/*.conf; do # Whitespace-safe and recursive
+	base_name=$(basename -s .conf ${i})
+	xml_file=${i%.conf}.xml
+    echo "Processing $base_name"
+    mkdir -p build/alpha/sword/comments/zcom/$base_name
+    cp $i build/alpha/sword/mods.d
+    # osis2mod
+    cd build/alpha/sword/comments/zcom/$base_name
+    osis2mod . - < ../../../../../../$xml_file   -v German
+    cd -
+    # copy figures 
+    #cp alpha/texts/$base_name/*.png build/alpha/sword/texts/ztext/$base_name/
+    #cp alpha/texts/$base_name/*.jpg build/alpha/sword/texts/ztext/$base_name/
+    #cp alpha/texts/$base_name/*.jpeg build/alpha/sword/texts/ztext/$base_name/
+    # make zip genbook
+    cd build/alpha/sword/
+    zip -r $base_name.zip mods.d/$base_name.conf comments/zcom/$base_name/*
+    cd -
+    # move zip file
+    mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
+done
+
 # build alpha bible texts
 #for i in alpha/texts/**/*.conf; do # Whitespace-safe and recursive
 	#base_name=$(basename -s .conf ${i})
