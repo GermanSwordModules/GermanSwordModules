@@ -46,6 +46,8 @@ This repository contains a build script (``buildAll.sh``) which builds all modul
 | deuCalvinKommentare        | Calvin Kommentare                        | https://lesekammer.de/2023/06/09/jean-calvin/ |    ✓    | Not all OT and NT books       | Gemeinfrei                                                                   |
 | deuStreitenbergerKommentar | NT Kommentar von Peter M. Streitenberger | Sermon                                        |    ✓    | Only NT and Robinson-Pierpont | Die Arbeit ist frei verfügbar und kann kostenlos genutzt und kopiert werden. |
 | deuMacDonaldKommentar | Kommentar zum Alten und Neuen Testament (William MacDonald)| CrossLoad                                        |    ✓    |  | CC BY-NC-ND  |
+| deuGaebeleinAltesTestament | Kommentar zum Alten Testament(Arno C. Gaebelein) | CrossLoad                                        |        | Only OT | CC BY-NC-ND  |
+
 
 
 ## Bible Texts
