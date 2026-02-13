@@ -44,12 +44,12 @@ for i in alpha/comments/**/*.conf; do # Whitespace-safe and recursive
     cp $i build/alpha/sword/mods.d
     # osis2mod
     cd build/alpha/sword/comments/zcom/$base_name
-    osis2mod . - < ../../../../../../$xml_file   -v German
+    timeout 120 osis2mod . - < ../../../../../../$xml_file   -v German
     cd -
     # copy figures 
-    #cp alpha/texts/$base_name/*.png build/alpha/sword/texts/ztext/$base_name/
-    #cp alpha/texts/$base_name/*.jpg build/alpha/sword/texts/ztext/$base_name/
-    #cp alpha/texts/$base_name/*.jpeg build/alpha/sword/texts/ztext/$base_name/
+    cp alpha/comments/$base_name/*.png build/alpha/sword/comments/zcom/$base_name/
+    cp alpha/comments/$base_name/*.jpg build/alpha/sword/comments/zcom/$base_name/
+    cp alpha/comments/$base_name/*.jpeg build/alpha/sword/comments/zcom/$base_name/
     # make zip genbook
     cd build/alpha/sword/
     zip -r $base_name.zip mods.d/$base_name.conf comments/zcom/$base_name/*
@@ -58,28 +58,28 @@ for i in alpha/comments/**/*.conf; do # Whitespace-safe and recursive
     mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
 done
 
-# build alpha bible texts
-#for i in alpha/texts/**/*.conf; do # Whitespace-safe and recursive
-	#base_name=$(basename -s .conf ${i})
-	#xml_file=${i%.conf}.xml
-    #echo "Processing $base_name"
-    #mkdir -p build/alpha/sword/texts/ztext/$base_name
-    #cp $i build/alpha/sword/mods.d
-    ## osis2mod
-    #cd build/alpha/sword/texts/ztext/$base_name
-    #osis2mod . - < ../../../../../../$xml_file   -v German
-    #cd -
-    ## copy figures 
-    #cp alpha/texts/$base_name/*.png build/alpha/sword/texts/ztext/$base_name/
-    #cp alpha/texts/$base_name/*.jpg build/alpha/sword/texts/ztext/$base_name/
-    #cp alpha/texts/$base_name/*.jpeg build/alpha/sword/texts/ztext/$base_name/
-    ## make zip genbook
-    #cd build/alpha/sword/
-    #zip -r $base_name.zip mods.d/$base_name.conf texts/ztext/$base_name/*
-    #cd -
-    ## move zip file
-    #mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
-#done
+ build alpha bible texts
+for i in alpha/texts/**/*.conf; do # Whitespace-safe and recursive
+	base_name=$(basename -s .conf ${i})
+	xml_file=${i%.conf}.xml
+    echo "Processing $base_name"
+    mkdir -p build/alpha/sword/texts/ztext/$base_name
+    cp $i build/alpha/sword/mods.d
+    # osis2mod
+    cd build/alpha/sword/texts/ztext/$base_name
+    timeout 120 osis2mod . - < ../../../../../../$xml_file   -v German
+    cd -
+    # copy figures 
+    cp alpha/texts/$base_name/*.png build/alpha/sword/texts/ztext/$base_name/
+    cp alpha/texts/$base_name/*.jpg build/alpha/sword/texts/ztext/$base_name/
+    cp alpha/texts/$base_name/*.jpeg build/alpha/sword/texts/ztext/$base_name/
+    # make zip genbook
+    cd build/alpha/sword/
+    zip -r $base_name.zip mods.d/$base_name.conf texts/ztext/$base_name/*
+    cd -
+    # move zip file
+    mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
+done
 
 # build alpha lexdict
 for i in alpha/lexdict/**/*.conf; do # Whitespace-safe and recursive
