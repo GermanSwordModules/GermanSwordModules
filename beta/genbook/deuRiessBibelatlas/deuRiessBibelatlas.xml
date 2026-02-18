@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+      
+<osisText osisIDWork="deuRiessBibelatlas" osisRefWork="book" xml:lang="de">
+    <header>
+
+      <work osisWork="WorkID">
+      <title>Bibel-Atlas</title>
+      <creator role="aut">Richard v. Riess</creator>
+      </work>
+
+      <work osisWork="Bible">
+      <refSystem>Bible</refSystem>
+      </work>
+
+    </header>
+    
+    
+<div type="majorSection" osisID="Cover ">
+    
+ <p>BIBEL-ATLAS  IN ZEHN KARTEN NEBST GEOGRAPHISCHEM INDEX VON DR. RICHARD v. RIESS, DOMKAPITULAR IN ROTTENBURG. DRITTE, IN TYPOGRAPHISCHEM FARBENDRUCK HERGESTELLTE AUFLAGE. FREIBURG IM BREISGAU. HERDER'SCHE VERLAGSBUCHHANDLUNG, 1895.</p>
+</div>
+
+<div type="majorSection" osisID="Vorwort zur zweiten Auflage">
+<title>Vorwort zur zweiten Auflage.</title>
+ <p>VORLIEGENDE Auflage des Bibel-Atlas hat gegenüber der vorhergehenden nach zwei Richtungen eine Erweiterung erfahren; einerseits durch die Aufnahme von Blatt I und IV: Karte von Aegypten zur Zeit der Pharaonen und Karte der Euphrat- und Tigris-Länder nach den assyrischen Berichten; andererseits durch die Aufnahme von Blatt VIII: Vergleichende Uebersicht über die Topographie Jerusalems von der ältesten Zeit seiner Gründung bis Mitte des 7. Jahrhunderts der christlichen Aera, nebst einer Darstellung des sogen. Eremus (Solitudo) der Heiligen Stadt und des Jordan zur Zeit der höchsten Blüthe des christlichen Lebens und des Mönchthums in Palästina. Die erstgenannte Erweiterung bedarf für jeden, der sich mit der biblischen Geographie als einer für die Geschichte der christlichen Offenbarung unentbehrlichen Hilfswissenschaft zu beschäftigen berufen ist, kaum einer Rechtfertigung, seitdem sich infolge des in den letzten Jahrzehnten durch die Bemühungen und Studien der Aegyptologen und Assyriologen angehäuften immensen historischen, archäologischen und geographischen Materials vielfach ein neues überraschendes Licht über sämtliche Perioden der Geschichte des israelitischen Volkes verbreitet hat, durch welches zugleich die in den biblischen Berichten gegebene Darstellung in überraschender Weise beleuchtet, ergänzt oder bestätigt wird. Kann sich infolgedessen die biblische Archäologie, Exegese und Geschichte der Kenntnissnahme und dem Studium der Archäologie und Geschichte der ältesten Culturvölker am Nil, am Euphrat und Tigris fernerhin nicht entziehen, so dürften die in vorliegenden Bibel-Atlas aufgenommenen Blätter I und IV ein nicht unwillkommenes Hilfsmittel hierzu bieten, wenn auch anerkannt werden muss, dass nach den bisherigen Forschungen die geographischen Positionen einzelner Orte und Gebiete nicht als genau abgeschlossen und allseitig festgestellt angesehen werden dürfen.</p>
+<p>Durch die Erweiterung des Bibel-Atlas in Blatt VIII soll ein anschauliches Bild über die Veränderungen geboten werden, welche Jerusalem von der ältesten Zeit unter König David bis herab in die nachchristliche Zeit im 7. Jahrhundert erlitten hat. Bei dem regen Interesse, welches sich in der abendländischen wie morgenländischen Christenheit für die heiligen Stätten in erneuerter Weise bekundet, darf die Darstellung der heiligen Orte innerhalb der Heiligen Stadt, sowie der klösterlichen Anlagen ihres Eremus, wie sie zur Zeit der‚ Blüthe des Christenthums im Heiligen Lande bestanden, nur, willkommen erscheinen. Dieselbe zeigt zugleich, wie viele Stätten des christlichen Lebens, welche insbesondere durch die heiligen Väter Chariton, Euthymius, Sabas und Theodosius und deren Schüler in der Wüste zur schönsten Blüthe gelangten, infolge des Einbruchs der Araber und der gewaltsamen Ausbreitung des Islam vernichtet wurden.</p>
+<p>Das dem Bibel-Atlas beigegebene Namen-Verzeichniss enthält ausser den eigentlich biblisch-geographischen Namen auch die für die Geographie Palästinas wichtigen Ortsbezeichnungen aus den griechischen und römischen Profanschriftstellern, aus Josephus Flavius, aus den Talmudisten sowie aus den christlichen Schriftstellern der ersten sechs Jahrhunderte bis zur Zeit der arabischen Herrschaft. </p>
+<p>[VI] Die biblischen Ortsnamen sind ebensowohl nach der Schreibung des Textes wie der Vulgata alphabetisch geordnet unter Verweisung der letztern auf die Schreibung des Textes.</p>
+<p>Nebst der geographischen Qualität ist aus den biblischen Verweisungen in der Regel nur ein Citat beigefügt, gewöhnlich nur die Stelle, an welcher der Ort erstmals in der Reihenfolge des Canons erwähnt ist. In betreff aller übrigen biblischen und aus den Profanschriftstellern entnommenen Referenzen sowie der auf die Geschichte der Orte bezüglichen Angaben und Nachweisungen darf auf die vom Verfasser zur ersten Auflage des Bibel- Atlas gefertigte ausführliche „Biblische Geographie“ verwiesen werden. Einzelne strittige Aufstellungen, welche infolge neuer Untersuchungen eine abweichende Darstellung erheischten, sind nebst den nöthigen Ergänzungen in thunlichst prägnanter Begründung dem Verzeichniss einverleibt.</p>
+<p>Schliesslich spricht Verf. gegen Herrn Dr. Zimmermann in Basel seinen Dank aus für die freundliche Gestattung der in verkleinertem Massstab gehaltenen Aufnahme des von ihm und Herrn Baurath C. Schick hergestellten Planes des heutigen Jerusalem. </p>
+<p>Rottenburg a. N., April 1897.  <hi type="bold">Der Verfasser.</hi> </p>
+   </div>
+           <div type="majorSection" osisID="Vorwort zur dritten Auflage">
+<title>Vorwort zur dritten Auflage</title>
+   <p>BEI Herstellung vorliegender dritten Auflage des Bibel-Atlas ist die in der zweiten B Auflage enthaltene allgemeine Anordnung, betreffend die Kartenbilder und Index, > beibehalten worden. Indessen wurde die geographische Darstellung einiger Gebiete des transjordanischen Landes auf Blatt III, VI und X nach Massgabe der im Laufe der letzten Jahre gemachten genauern Vermessungen und Forschungen einer angemessenen Correctur unterworfen. Die dem heutigen Zustand entsprechenden Vervollständigungen sind in den Stadtplan von Jerusalem (Blatt IX) eingetragen worden, wie auch einzelne von seiten der Kritik ausgesprochene Wünsche gerne eine thunliche Berücksichtigung gefunden haben.</p>
+<p>Vom Verfasser vertretene Aufstellungen über mehrere zweifelhafte oder strittige Ortslagen konnten mit Rücksicht auf die nothwendige Beschränkung des dem Index zugewiesenen Raumes nur in gedrängter Kürze gerechtfertigt oder angedeutet werden. Gelegentlich der anerkennenden und freundlichen Aufnahme, welche der Bibel-Atlas im Inlande wie im Auslande gefunden, wurde mehrfach dem Wunsche Ausdruck verliehen, es möchte derselbe in lateinischem Idiom und unter Zugrundelegung des Textes der Vulgata hergestellt werden. Verfasser hat diesem Wunsche gerne Rechnung getragen in dem in demselben Verlage demnächst erscheinenden „Atlas Seripturae sacrae. Decem, tabulae geographieae cum Indice locorum seripturae sacrae Vulgatae edit."</p>
+<p>Rottenburg a. N., August 1895. Der Verfasser.</p>
+</div>
+
+
+
+<div type="majorSection" osisID="Blatt I Karte von Aegypten in der Zeit Moses’ und der Patriarchen">
+<title>Blatt I. Karte von Aegypten in der Zeit Moses’ und der Patriarchen.</title>
+<figure src="Blatt1.jpg"/>
+</div>
+
+<div type="majorSection" osisID="Blatt II Karte der Peträischen Halbinsel und Kanaans zur Zeit der Rückkehr der Israeliten aus Aegypten — Umgebung des D Serbal und des D Musa (Sinai) — Höhenprofile vom Sinai bis Jerusalem">
+<title>Blatt II. Karte der Peträischen Halbinsel und Kanaans zur Zeit der Rückkehr der Israeliten aus Aegypten. — Umgebung des D. Serbal und des D. Musa (Sinai). — Höhenprofile vom Sinai bis Jerusalem.</title>   
+<figure src="Blatt2.jpg"/>
+</div>
+
+<div type="majorSection" osisID="Blatt II Palästina zur Zeit der Richter und der Könige — Bereich der Herrschaft Davids und Salomos">
+<title>Blatt II. Palästina zur Zeit der Richter und der Könige. — Bereich der Herrschaft Davids und Salomos.</title>
+</div>
+
+<div type="majorSection" osisID="Blatt IV Karte von Kanaan, Syrien nebst den Euphrat- und Tigris-Ländern, nach den assyrischen Berichten">
+<title>Blatt IV. Karte von Kanaan, Syrien nebst den Euphrat- und Tigris-Ländern, nach den assyrischen Berichten.</title>
+</div>
+
+<div type="majorSection" osisID="Blatt V Karte von Assyrien und Babylonien nebst den Uebersichtskarten über die Ruinenfelder von Babel und Ninive">
+<title>Blatt V. Karte von Assyrien und Babylonien nebst den Uebersichtskarten über die Ruinenfelder von Babel und Ninive.</title>
+</div>
+
+<div type="majorSection" osisID="Blatt VI Palästina zur Zeit Jesu — Umgebung des Sees Genesareth">
+<title>Blatt VI. Palästina zur Zeit Jesu. — Umgebung des Sees Genesareth.</title>
+</div>
+
+<div type="majorSection" osisID="Blatt VII Karte zur Geschichte des apostolischen Zeitalters und der Reisen des heiligen Apostels Paulus">
+<title>Blatt VII. Karte zur Geschichte des apostolischen Zeitalters und der Reisen des heiligen Apostels Paulus.</title>
+</div>
+
+<div type="majorSection" osisID="Blatt VII Jerusalem zur Zeit der Zerstörung durch die Chaldäer, 588 v Chr — Jerusalem nach der Wiederherstellung durch Nehemia und zur Zeit der Herrschaft der Hasmonäer — Jerusalem zur Zeit der Belagerung und Zerstörung durch Titus, 70 n Chr — Aelia Capitolina Hadriani, 117 n Chr — Jerusalem zur Zeit Konstantins d Gr nach dem Itinerarium Burdigal,, 333 n Chr — Jerusalem vom 5 bis 7 Jahrhundert und zur Zeit der Eroberung durch die Perser und Araber, 614 u 632 n Chr — Der Eremus der Heiligen Stadt und des Jordan mit den klösterlichen Anlagen in den ersten christlichen Jahrhunderten">
+<title>Blatt VII. Jerusalem zur Zeit der Zerstörung durch die Chaldäer, 588 v. Chr. — Jerusalem nach der Wiederherstellung durch Nehemia und zur Zeit der Herrschaft der Hasmonäer. — Jerusalem zur Zeit der Belagerung und Zerstörung durch Titus, 70 n. Chr. — Aelia Capitolina Hadriani, 117 n. Chr. — Jerusalem zur Zeit Konstantins d. Gr. nach dem Itinerarium Burdigal,, 333 n. Chr. — Jerusalem vom 5. bis 7. Jahrhundert und zur Zeit der Eroberung durch die Perser und Araber, 614 u. 632 n. Chr. — Der Eremus der Heiligen Stadt und des Jordan mit den klösterlichen Anlagen in den ersten christlichen Jahrhunderten.</title>
+
+</div>
+
+<div type="majorSection" osisID="Blatt IX Karte der Umgebung von Jerusalem und Bethlehem — Plan des heutigen Jerusalem">
+<title>Blatt IX. Karte der Umgebung von Jerusalem und Bethlehem. — Plan des heutigen Jerusalem.</title>
+</div>
+
+<div type="majorSection" osisID="Blatt X Karte von Palästina in seinem heutigen Zustande — Profil des Weges von Jafa über Jerusalem zum Todten Meere">
+<title>Blatt X. Karte von Palästina in seinem heutigen Zustande. — Profil des Weges von Jafa über Jerusalem zum Todten Meere.</title>
+</div>
+
+
+</osis>
+

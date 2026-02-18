@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace
+      http://www.bibletechnologies.net/osisCore.2.1.1.xsd">
+      
+<osisText osisIDWork="deuMenkeTheodorBibelatlas" osisRefWork="book" xml:lang="de">
+    <header>
+
+      <work osisWork="WorkID">
+      <title>Bibelatlas</title>
+      <creator role="aut">Theodor Menke</creator>
+      </work>
+
+      <work osisWork="Bible">
+      <refSystem>Bible</refSystem>
+      </work>
+
+    </header>
+    
+    
+<div type="majorSection" osisID="Cover">
+    
+ <p>Dr. Theodor Menke.</p>
+ <p>BIBELATLAS</p>
+ <p>in</p>
+<p>ACHT BLÄTTERN.</p>
+<p></p>
+<p>1868</p>
+<p>GOTHA: JUSTUS PERTHES.</p>
+</div>
+
+<div type="majorSection" osisID="VORWORT">
+<title>VORWORT</title>
+<p>In der biblischen Geographie liegen einerseits noch so bedeutende CGontroversen vor und andererseits ist in der neuesten Zeit in der Herausgabe der für die Behandlung derselben besonders wichtigen älteren Beschreibungen des heiligen Landes und in einer Reihe von Detailfragen so Tüchtiges geleistet, dass eine Revision des gesammten Materials nicht überflüssig erscheinen möchte. Ich habe seit einer Reihe von Jahren mich diesem Studium mit Vorliebe gewidmet, und als Frucht dieser Arbeiten treten die folgenden acht Karten hiermit vor das öffentliche Urtheil, während ein gleichzeitig in seinen Hauptpartien druckfertig ausgearbeitetes Handbuch der biblischen Geographie vorläufig von mir bei Seite gelegt ist.</p>
+<p>Für die ausserpalästinische Geographie des alten Testaments, die auf den ersten beiden Blättern veranschaulicht wird, ist die Völkertafel der Genesis Hauptquelle. Man kann, glaube ich, noch einen Schritt weiter gehen, als der beste Gommentator dieses wichtigen Actenstückes, Knobel, und die Abfassung desselben in das siebente Jahrhundert vor Christo, die Zeit der Kimmerier- und Skythenzüge, setzen. Nur bei dieser Annahme möchten die in ihr vorkommenden Völkernamen eine genügende Erklärung finden. Ob die Ansetzungen auf der Karte, die von diesem Gesichtspunkte ausgehen, im Übrigen sich vielfach auf Knobel stützen, die Aufgabe gelöst haben, darüber mögen Kenner entscheiden. Der Gesichtskreis der biblischen ethnographischen Tabelle ist, auch abgesehen von der in ihr enthaltenen Kunde von den arabischen und vorderasiatischen Völkern, etwas weiter als die homerische Ethnographie, die auf einer Nebenkarte dargestellt ist. Die Ethnographie der Zendavesta mit ihrem historischen Ausgangspunkte auf der Hochebene Pamir, in deren Nähe auch nicht bloss die biblische, sondern auch die chinesische Überlieferung die Ursprünge des Menschengeschlechts verlegt, ist mit besonderer Schrift verzeichnet. </p>
+<p>Die übrigen zur Aufklärung der biblischen Ethnoeraphie dienenden Notizen der beiden Hauptkarten haben Haarschrift. Zu demselben Zwecke ist der Ausschnitt aus Ptolemaeus beigefügt. Für die geographische Anschauung der Hebräer wurden die Aufsätze von Bertheau und Kiepert verelichen. Die Gründe für die Lage des Paradieses im Osten scheinen mir gewichtiger als die von Bertheau, der für Ansetzung im Norden plaidiiert. </p>
+<p>In der Sinai-Frage (Karte III) stimme ich im Wesentlichen Lepsius bei. Wenigstens in den ersten Jahrhunderten der christlichen Zeitrechnung identificierte man den Berg der Gesetzgebung mit dem Serbäl, und erst im sechsten scheint die schon zu des H. Hieronymus Zeit hervortretende Concurrenz des das Local derselben Begebenheit für sich beanspruchende G’ebel Müsa den endlichen Sieg davon getragen zu haben.</p>
+<p>Was das Land der zwölf Stämme Israel betrifft, so wurden für die Zeichnung der Situation namentlich die Karten von Van de Velde, Kiepert-Robinson, Kiepert-Wetzstein, Tobler, Zimmermann, Lynch, Rosen, de Sauley, Beke und Dörgens benutzt. Die Längenund Breitenbestimmungen jenseit des Jordans von Dörgens kamen mir erst, nachdem die Situationen theilweise gestochen waren, zu. Sie widersprechen, wenigstens was die Lage von Mzerib betrifft, der Construction, die ich mir, da Van de Velde’s Karte, deren bedeutende Vorzüge im Übrigen ich gern anerkenne, im Distrikte G'ebel Aglûn sich als unbrauchbar erwies, nach den Routiers von Seetzen, Burckhardt, Buckingham, Mangles und Irby, Wetzstein, Porter, Rey und Beke von einem Theile der Transiordanensis entworfen hatte, und es schien mir um so weniger empfehlenswerth, ihretwegen die Kosten der Zeichnung und des Stichs um ein Erhebliches zu vermehren, als eine eigentliche Aufnahme (des Landes jene Berechnungen doch noch wesentlich modificieren könnte.</p>
+<p>Das Fluss- und Wädi-Netz konnte da, wo Van de Velde nicht aus eigenem Augenschein eingetragen hat, auch im diesseitigen Lande, nach positiven Angaben [rüherer und späterer Augenzeugen mehrfach berichtigt werden. Zum ersten Male ist hier auch, soviel ich weiss, nach den gesammelten Zeugnissen der Augenzeugen der Unterschied von Fluss und Wädi in einem, wie ich glaube der Wirklichkeit ziemlich entsprechendien Bilde dargestellt. </p>
+<p>Bei der Ansetzung der Namen auf den die biblische Zeit darstellenden Nummern (III. IV. V.), sowie auf der kartographischen Darstellung des Onomasticons (VI) und der Kreuzzüge (VII) hat mir das Quellenmaterial, soweit es mittelbar oder unmittelbar für den /weck dieses Atlas zu berücksichtigen war, ziemlich . vollständig vorgelegen. Den von Tobler, dem ersten Kenner in diesem Fache, in seiner kürzlich herausgegebenen Bibliographia geographica Palaestinae bis zu Burchardus Zeit aufgezählten Schriftstellern könnte ich wenigstens noch eine Reihe ausser jenen von mir benutzter Quellenschriftsteller zufügen. Auch den Münzen, den für die Eintheilung der römischen Provinzen in Stadtgebiete sehr wichtigen Acta conciliorum, den Inschriften, sowie den Urkunden der Venetianer, der Hospitaliter und des Heiligen Grabes habe ich Aufmerksamkeit geschenkt. Was aus den Abschriften der Urkunden über die Besitzungen des Deutschen Ordens in Palästina, die früher Consul Schultz besass, geworden ist, habe ich zu meinem Belauern nicht ermitteln können. Von Commentaren des alten Testaments zog ich insbesondere die von v.Bohlen, Knobel, Bertheau, Thenius und Hitzig zu Rathe.</p>
+<p>Das die Städtegruppen des Buches Josua einheitliche, nicht durch Encelaven zerrissene Complexe sind, wird sich, obgleich noch immer dieser Annahme widersprechende Ortsansetzungen hervortauchen, füglich nicht mehr bestreiten lassen. Im Grunde glaubt dies auch wol Jeder, der mit der Sache sich beschäftigt hat, und wenn eine gegentheilige Ansicht ausgesprochen wurde, so fehlte nur die kartographische Probe, die bei geographischen Arbeiten dieser Art nun einmal unerlässlich ist.</p>
+<p>Meine Ansichten über die Topographie von Jerusalem auseinander zu setzen, genügt nicht der Raum weniger Spalten, der mir hier gestattet ist. Dieser Theil der biblischen Geographie liegt bekanntlich noch sehr im Argen; auch Rosen’s kürzlich erschienene treffliche</p>
+<p>Abhandlung hat das Problem nicht gelöst. Hupfeld wusste keinen andern Ausweg als den sehr misslichen der Annahme, Josephus habe in der Beschreibung die-. ser Stadt, bei deren Vertheidigung er eine so wichtige Rolle spielte, geradezu geschwindelt. Man legt oftenbar der Tradition, welche Sion auf den westlichen Hügel versetzt, ein Gewicht bei, das ihr nicht gebührt. Bricht man mit dieser Tradition. und recurriert unbefangen auf das alte Testament und die Bücher der. Maccabäer, so bietet sich von selber die Lösung, die ich kartographisch dargestellt habe. Es war mir, nachdem ich meine Ansichten darüber ausführlich zu Papier gebracht hatte, eine erfreuliche Überraschung, in dem Buche des Engländers Thrupp zum Theil dieselben Argumente und Resultate wiederzufinden. Auch die Confusion, die man der Tempelbeschreibung des Josephus bis jetzt allgemein vorgeworfen hat, löst sich, wie ich bereits an einem andern Orte bemerkt habe, meiner Ansicht nach einfach. durch Setzung zweier Klammern in der betreffenden Stelle Jenes Autors. Für das traditionelle heilige Grab folgert aus meinen Ansetzungen, dass es an einer topographisch durchaus angemessenen Stelle steht und die Frage nach seiner Echtheit sich lediglich nach dem Werthe oder Unwerthe der nicht topographischen Argumente, die Kaiser Constantin und seine Zeitgenossen für die Identität des damals aufgefundenen Grabes mit dem Grabe Christi haben konnten, richtet. </p>
+<p>Meiner Darstellung von Jerusalem habe ich in kleinerem Mässstabe die Pläne der wichtigsten Vertreter anderer Ansichten zur Seite gestellt. Die Herren Dr. Titus Tobler und Professor Sepp hatten die Güte, in den ihrigen selber einige Punkte mir aufzuklären. Herr Dr. Tobler hatte dabei seine früher vorgelegte Auffassung etwas modificiert nach neuen Ausgrabungen, von denen durch die Gefälligkeit eines verdienten Palästinaforschers, Herrn Konrad Schick zu Jerusalem, mir damals eine Skizze vorlag und in denen auch ich einen Theil der alten Stadtmauern zu erkennen glaubte. </p>
+<p>Wegen einiger Zweifel, die ich bei der Bearbeitung von Jerusalem hatte, gaben mir Herr Dr. Tobler und Herr Consul Rosen bereitwilligst die gewünschten Mittheilungen, die dankbar benutzt sind.</p>
+<p>Für die Begründung der biblischen Geographie lassen sich kartographische Darstellungen des heiligen Landes nach den römischen Provincialeinrichtungen in ihren verschiedenen Phasen und nach den römischen Stadtterritorien, sowie zur Zeit der Kreuzzüge und in der Gegenwart nicht eentbehren. Sie liegen in No. VI. VI. VII. bei.</p>
+<p>Bei der ersten verdiente die wichtige Schrift des Eusebius über die Orte Palästina’s, welche uns im Original und in der lateinischen Übersetzung des H. Hieronymus erhalten ist, ganz besondere Berücksichtigung. Manche Irrthümer widerlegen sich definitiv durch sie; viele noch unerledigte Fragen haben zunächst von ihr auszugehen.</p>
+<p>In der Zeit der Kreuzzüge findet sich noch dieselbe naive und gesunde Tradition wie im Onomasticon; daneben aber wucherte die schon im vierten Jahrhundert nachweislich unechte, die für jede Überlieferung ein bestimmtes Local haben wollte, in unzähligen Schösslingen weiter. Erst im dreizehnten Jahrhundert machte jenen alten Traditionen gegenüber eine klügelnde Kritik sich geltend, die jene theilweise bis auf den heutigen Tag verdrängt hat. Ich habe, um dies zu veran'schaulichen, ein wichtiges Beispiel aus Burchardus in einer Nebenkarte beigefügt, die zugleich den Commentar Laurents ergänzen und berichtigen möchte. Der Ort Syrin liegt an der angegebenen Stelle nach Esthori ha Parchi, Abulfeda’s Zeitgenossen, von dem Dr. Zunz Auszüge publiciert hat. Das Castellum regium des Bur‚chardus ist das Schloss von Sukhmäta zwischen Janüh und Kefr Birim, Sangeor el Khadr. Die Position einer keihe anderer auf diesem Blatte zum’ ersten Male .angesetzter Namen ergiebt sich zum grösseren Theil aus dem genauen Vergleiche der fränkischen und arabischen Quellenschriftsteller. Culiat, in einer anderen fränkischen Quelle Culicath genannt, ist das heutige Kalaat, dessen Lage die englische Küstenkarte anzeigt.</p>
+<p>In der Darstellung der neuesten Zeit sind die Districtsgrenzen nach Robinsons erster Reise angesetzt. Mag seit der Zeit sich Einiges in ihnen geändert haben ; für den Forscher ist es, bis jetzt wenigstens, nicht so wichtig, diese Änderungen zu kennen als das kartographische Bild, auf das jenes bahnbrechende Werk Bezug nimmt. </p>
+<p>Gotha, Geographische Anstalt von J. Perthes, im November 1867.</p>
+<p><hi type="bold">Dr. Theodor Menke.</hi></p>
+</div>
+
+<div type="majorSection" osisID="I VÖLKERTAFEL DER GENESIS ">
+<title>I. VÖLKERTAFEL DER GENESIS. </title>
+<p><figure src="karte1.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="III DIE NÖRDLICHEN SEMITEN UND DIE ÖSTLICHE HÄLFTE DES MITTELMEERES">
+<title>III. DIE NÖRDLICHEN SEMITEN UND DIE ÖSTLICHE HÄLFTE DES MITTELMEERES.</title>  
+<p><figure src="karte2.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="III DIE GEBIETE DER ZWÖLF STÄMME ISRAEL’S VOR DEM EXIL">
+<title>III. DIE GEBIETE DER ZWÖLF STÄMME ISRAEL’S VOR DEM EXIL.</title>  
+<p><figure src="karte3.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="IV SYRIA UND PHOENICE ZUR ZEIT DES PERSISCHEN REICHS">
+<title>IV. SYRIA UND PHOENICE ZUR ZEIT DES PERSISCHEN REICHS.</title>  
+<p><figure src="karte4.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="V JUDAEA UND NACHBARLÄNDER ZU CHRISTI UND DER APOSTEL ZEIT">
+<title>V. JUDAEA UND NACHBARLÄNDER ZU CHRISTI UND DER APOSTEL ZEIT.</title>
+<p><figure src="karte5.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="VI PALAESTINA NACH DEM ONOMASTICON DES EUSEBIUS UND HIERONYMUS">
+<title>VI. PALAESTINA NACH DEM ONOMASTICON DES EUSEBIUS UND HIERONYMUS.</title> 
+<p><figure src="karte6.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="VII DAS HEILIGE LAND ZUR ZEIT DER KREUZZÜGE">
+<title>VII. DAS HEILIGE LAND ZUR ZEIT DER KREUZZÜGE.</title>    
+<p><figure src="karte7.jpg"/></p>
+</div>
+
+<div type="majorSection" osisID="VIII PALAESTINA IN DER GEGENWART">
+<title>VIII. PALAESTINA IN DER GEGENWART.</title>     
+<p><figure src="karte8.jpg"/></p>
+</div>
+
+
+
+
+</osis>
+
