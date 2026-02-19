@@ -70,7 +70,8 @@ This repository contains a build script (``buildAll.sh``) which builds all modul
 | deuPapeWilhelmGriechisch             | Wilhelm Pape: Griechisch-deutsches Handwörterbuch (1914) | http://www.zeno.org/Pape-1880                       |    ✓    |         | Public Domain, Source: http://www.zeno.org - Contumax GmbH & Co. KG |
 | deuCalwerBibellexikon1912            | Calwer Bibellexikon 1912                          | https://crossload.org/bibellexikon                  |    ✓    |         | PD                                                                  |
 | deuMenzelWolfgangChristlicheSymbolik | Christliche Symbolik. (Wolfgang Menzel, 1856)           | https://de.wikisource.org/wiki/Christliche_Symbolik |    ✓    |         | PD                                                                  |
-
+| deuMuhlHebrew | Hebräisches Wortverzeichnis (Daniel Muhl)          | https://bibelwissen.ch |    ✓    |         | -      
+| deuMuhlGreek | Griechisches Wortverzeichnis (Daniel Muhl)           | https://bibelwissen.ch |    ✓    |         | -      
 ## Books
 
 | Name                                         | Year | Titel                                                                                                          | Source                        | Quality | Remarks | License |
