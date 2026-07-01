@@ -72,6 +72,73 @@ This repository contains a build script (``buildAll.sh``) which builds all modul
 | deuMenzelWolfgangChristlicheSymbolik | Christliche Symbolik. (Wolfgang Menzel, 1856)           | https://de.wikisource.org/wiki/Christliche_Symbolik |    ✓    |         | PD                                                                  |
 | deuMuhlHebrew | Hebräisches Wortverzeichnis (Daniel Muhl)          | https://bibelwissen.ch |    ✓    |         | -      
 | deuMuhlGreek | Griechisches Wortverzeichnis (Daniel Muhl)           | https://bibelwissen.ch |    ✓    |         | -      
+
+## Greek Patristic Texts (grc)
+
+OSIS GenBook modules in ancient Greek with Strong's G-numbers and Robinson morphology tagging (via spaCy `grc_proiel_lg`). Sources: [Bibliothek der Kirchenväter](https://bkv.unifr.ch). Tools for regeneration in `tools/`.
+
+### Apostolic Fathers
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grBarnabas | Epistula Barnabae | cpg-1050 | J. B. Lightfoot ed. – bkv.unifr.ch | Public Domain |
+| grClemensEpistulaAdCorinthios | Clemens Rom – Epistula ad Corinthios (1 Clem) | cpg-1001 | Kirsopp Lake, Loeb 1912 – bkv.unifr.ch | Public Domain |
+| grClemensEpistulaAltera | II Clemens – Epistula altera ad Corinthios | cpg-1003 | Kirsopp Lake, Loeb 1912 – bkv.unifr.ch | Public Domain |
+| grDidache | Didache – Διδαχὴ τῶν δώδεκα ἀποστόλων | cpg-1753 | bkv.unifr.ch | Public Domain |
+| grEpistulaAdDiognetum | Epistula ad Diognetum | cpg-1112 | bkv.unifr.ch | Public Domain |
+| grEpistulaEcclesiaeSmyrnensis | Martyrium Polycarpi | cpg-1045 | Kirsopp Lake, Loeb 1913 – bkv.unifr.ch | Public Domain |
+| grIgnatiusEpistulae | Ignatius Antiochenus – Epistulae VII genuinae | cpg-1025 | Kirsopp Lake, Loeb 1912 – bkv.unifr.ch | Public Domain |
+| grPastorHermae | Pastor Hermae | cpg-1052 | Kirsopp Lake, Loeb 1913 – bkv.unifr.ch | Public Domain |
+| grPolycarpusEpistulaAdPhilippenses | Polycarpus – Epistula ad Philippenses | cpg-1040 | Kirsopp Lake, Loeb 1913 – bkv.unifr.ch | Public Domain |
+
+### Apologists (2nd century)
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grJustinusApologiaPrima | Justinus Martyr – Apologia prima | cpg-1073a | bkv.unifr.ch | Public Domain |
+| grJustinusApologiaSecunda | Justinus Martyr – Apologia secunda | cpg-1073b | bkv.unifr.ch | Public Domain |
+| grJustinusDialogusCumTryphone | Justinus Martyr – Dialogus cum Tryphone | cpg-1076 | bkv.unifr.ch | Public Domain |
+| grTatianusOratioAdGraecos | Tatianus – Oratio ad Graecos | cpg-1104 | bkv.unifr.ch | Public Domain |
+| grTheophilusAdAutolycum | Theophilus Antiochenus – Ad Autolycum | cpg-1107 | bkv.unifr.ch | Public Domain |
+
+### Alexandrian Fathers
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grClemensAlexandrinusQuidDives | Clemens Alexandrinus – Quis dives salvetur? | cpg-1397 | bkv.unifr.ch | Public Domain |
+| grOrigenContraCelsum | Origenes – Contra Celsum | cpg-1476 | bkv.unifr.ch | Public Domain |
+
+### Eusebius of Caesarea
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grEusebiusHistoriaEcclesiastica | Eusebius – Historia Ecclesiastica | cpg-3495 | bkv.unifr.ch | Public Domain |
+| grEusebiusVitaConstantini | Eusebius – Vita Constantini et Oratio | cpg-3496 | bkv.unifr.ch | Public Domain |
+
+### Epiphanius of Salamis
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grEpiphaniusAnakephalaiosis | Epiphanius – Anakephalaiosis | cpg-3765 | bkv.unifr.ch | Public Domain |
+| grEpiphaniusAncoratus | Epiphanius – Ancoratus | cpg-3744 | bkv.unifr.ch | Public Domain |
+
+### Pseudo-Dionysius Areopagita
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grDionysiusCaelestisHierarchia | Dionysius Areopagita – De caelesti hierarchia | cpg-6600 | bkv.unifr.ch | Public Domain |
+| grDionysiusDivinisNominibus | Dionysius Areopagita – De divinis nominibus | cpg-6602 | bkv.unifr.ch | Public Domain |
+| grDionysiusMysticaTheologia | Dionysius Areopagita – De mystica theologia | cpg-6603 | bkv.unifr.ch | Public Domain |
+
+### Other Greek Patristic Works
+
+| Name | Titel | CPG | Source | License |
+|------|-------|-----|--------|---------|
+| grCyrillusAlexandrinus | Cyrillus Alexandrinus / Maximus Confessor – Ep. 55 Ad Anastasium | cpg-5355 | bkv.unifr.ch | Public Domain |
+| grCyrilusScythopolisHistoriaEcclesiastica | Cyrilus Scythopolitanus – Historia Ecclesiastica | cpg-6222-2 | bkv.unifr.ch | Public Domain |
+| grMakariosApocriticus | Makarios Magnes – Apocriticus (Kritik des NT) | x-48 | Ed. A. Harnack 1911 – bkv.unifr.ch | Public Domain |
+| grNemesiusDeNaturaHominis | Nemesius Emesae – De natura hominis | cpg-3550 | Ed. C. F. Matthaei 1802 – bkv.unifr.ch | Public Domain |
+
 ## Books
 
 | Name                                         | Year | Titel                                                                                                          | Source                        | Quality | Remarks | License |

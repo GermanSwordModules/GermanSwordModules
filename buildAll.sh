@@ -25,10 +25,11 @@ for i in alpha/genbook/**/*.conf; do # Whitespace-safe and recursive
     cd build/alpha/sword/modules/genbook/rawgenbook/$base_name
     xml2gbs $home/$xml_file $base_name
     cd -
-    # copy figures 
-    cp alpha/genbook/$base_name/*.png build/alpha/sword/modules/genbook/rawgenbook/$base_name/
-    cp alpha/genbook/$base_name/*.jpg build/alpha/sword/modules/genbook/rawgenbook/$base_name/
-    cp alpha/genbook/$base_name/*.jpeg build/alpha/sword/modules/genbook/rawgenbook/$base_name/
+    # copy figures (use dirname of conf so grouped-author folders work too)
+    img_dir=$(dirname "$i")
+    cp "$img_dir"/*.png build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    cp "$img_dir"/*.jpg build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    cp "$img_dir"/*.jpeg build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
     # make zip genbook
     cd build/alpha/sword/
     zip -r ${base_name:3}.zip mods.d/$base_name.conf modules/genbook/rawgenbook/$base_name/*
@@ -128,10 +129,11 @@ for i in beta/genbook/**/*.conf; do # Whitespace-safe and recursive
     cd build/beta/sword/modules/genbook/rawgenbook/$base_name
     xml2gbs $home/$xml_file $base_name
     cd -
-    # copy figures 
-    cp beta/genbook/$base_name/*.png build/beta/sword/modules/genbook/rawgenbook/$base_name/
-    cp beta/genbook/$base_name/*.jpg build/beta/sword/modules/genbook/rawgenbook/$base_name/
-    cp beta/genbook/$base_name/*.jpeg build/beta/sword/modules/genbook/rawgenbook/$base_name/
+    # copy figures (use dirname of conf so grouped-author folders work too)
+    img_dir=$(dirname "$i")
+    cp "$img_dir"/*.png build/beta/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    cp "$img_dir"/*.jpg build/beta/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    cp "$img_dir"/*.jpeg build/beta/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
     # make zip file
     cd build/beta/sword/
     zip -r ${base_name:3}.zip mods.d/$base_name.conf modules/genbook/rawgenbook/$base_name/*

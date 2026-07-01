@@ -1,0 +1,3169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/2003/OSIS/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="cpg6603.de-mystica-theologia" xml:lang="grc" canonical="false">
+    <header>
+      <work osisWork="cpg6603.de-mystica-theologia">
+        <title>Dionysius Areopagita, ps. 520</title>
+        <identifier type="OSIS">cpg6603.de-mystica-theologia</identifier>
+        <refSystem>Book.cpg6603.de-mystica-theologia</refSystem>
+        <language type="SIL">grc</language>
+        <source>Bibliothek der Kirchenväter – bkv.unifr.ch</source>
+        <rights type="x-copyright">Public domain</rights>
+      </work>
+    </header>
+    <div type="book" osisID="cpg6603.de-mystica-theologia">
+      <title>Dionysius Areopagita, ps. 520</title>
+      <div type="chapter" osisID="προς_Τιμοϑεον_περι_μυστικης_ϑεολογιας">
+        <title>πρὸς Τιμόϑεον περὶ μυστικής ϑεολογίας</title>
+        <title type="sub">1.</title>
+        <p>
+          <w lemma="strong:G20646" morph="robinson:I">Τριὰς</w>
+           
+          <w lemma="strong:G20647" morph="robinson:N-VSM">ὑπερούσιε</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G20648" morph="robinson:N-GPF">ὑπέρθεε</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G20649" morph="robinson:N-GSF">ὑπεράγαθε</w>
+          , 
+          <w lemma="strong:G3588" morph="robinson:P-GSF">τῆς</w>
+           
+          <w lemma="strong:G5546" morph="robinson:N-VPM">Χριστιανῶν</w>
+           
+          <w lemma="strong:G20651" morph="robinson:V-PAI-3S">ἔφορε</w>
+           
+          <w lemma="strong:G20652" morph="robinson:N-GSN">θεοσοφίας</w>
+          , 
+          <w lemma="strong:G20653" morph="robinson:N-ASM">ἴθυνον</w>
+           
+          <w lemma="strong:G2248" morph="robinson:N-DPF">ἡμᾶς</w>
+           
+          <w lemma="strong:G1909" morph="robinson:V-PAI-1S">ἐπὶ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-ASF">τὴν</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-ASF">τῶν</w>
+           
+          <w lemma="strong:G20654" morph="robinson:N-ASM">μυστικῶν</w>
+           
+          <w lemma="strong:G3051" morph="robinson:N-GSM">λογίων</w>
+           
+          <w lemma="strong:G20655" morph="robinson:N-ASN">ὑπεράγνωστον</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VPM">καὶ</w>
+           
+          <w lemma="strong:G20656" morph="robinson:N-NPF">ὑπερφαῆ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+           
+          <w lemma="strong:G20658" morph="robinson:P-GPN">ἀκροτάτην</w>
+           
+          <w lemma="strong:G20659" morph="robinson:A-NPF">κορυφήν·</w>
+           
+          <w lemma="strong:G14772" morph="robinson:N-NSF">ἔνθα</w>
+           
+          <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+           
+          <w lemma="strong:G20660" morph="robinson:ADV">ἁπλᾶ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NPN">καὶ</w>
+           
+          <w lemma="strong:G20661" morph="robinson:A-NSF">ἀπόλυτα</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+            
+          <w lemma="strong:G20662" morph="robinson:A-NSF">ἄτρεπτα</w>
+           
+          <w lemma="strong:G3588" morph="robinson:N-GPF">τῆς</w>
+           
+          <w lemma="strong:G20664" morph="robinson:V-PAI-2S">θεολογίας</w>
+           
+          <w lemma="strong:G13833" morph="robinson:V-PPI-P">μυστήρια</w>
+           
+          <w lemma="strong:G2596" morph="robinson:PREP">κατὰ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:V-PAI-S">τὸν</w>
+           
+          <w lemma="strong:G20665" morph="robinson:N-ASM">ὑπέρφωτον</w>
+           
+          <w lemma="strong:G20666" morph="robinson:V-PMI-3S">ἐγκεκάλυπται</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-DPN">τῆς</w>
+           
+          <w lemma="strong:G20667" morph="robinson:A-GSM">κρυφιομύστου</w>
+           
+          <w lemma="strong:G4602" morph="robinson:ADV">σιγῆς</w>
+           
+          <w lemma="strong:G1105" morph="robinson:N-ASM">γνόφον</w>
+          , 
+          <w lemma="strong:G1722">ἐν</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-GSM">τῷ</w>
+           
+          <w lemma="strong:G20669" morph="robinson:I">σκοτεινοτάτῳ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:P-NSM">τὸ</w>
+           
+          <w lemma="strong:G20670" morph="robinson:N-ASN">ὑπερφανέστατον</w>
+           
+          <w lemma="strong:G20671" morph="robinson:V-PAI-P">ὑπερλάμποντα</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+           
+          <w lemma="strong:G1722">ἐν</w>
+           
+          <w lemma="strong:G3588" morph="robinson:P-DSN">τῷ</w>
+           
+          <w lemma="strong:G20673" morph="robinson:ADV">πάμπαν</w>
+           
+          <w lemma="strong:G20674" morph="robinson:V-PAI-2S">ἀναφεῖ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+           
+          <w lemma="strong:G517" morph="robinson:ADV">ἀοράτῳ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-ASM">τῶν</w>
+           
+          <w lemma="strong:G20675" morph="robinson:N-GPF">ὑπερκάλων</w>
+           
+          <w lemma="strong:G20676" morph="robinson:A-ASF">ἀγλαϊῶν</w>
+           
+          <w lemma="strong:G20677" morph="robinson:N-APN">ὑπερπληροῦντα</w>
+           
+          <w lemma="strong:G3588" morph="robinson:A-NSF">τοὺς</w>
+           
+          <w lemma="strong:G20679" morph="robinson:T-APM">ἀνομμάτους</w>
+           
+          <w lemma="strong:G20681" morph="robinson:N-APF">νόας</w>
+          . 
+        </p>
+        <p>
+          Ἐμοὶ 
+          <w lemma="strong:G3303" morph="robinson:N-NSN">μὲν</w>
+           
+          <w lemma="strong:G3767" morph="robinson:ADV">οὖν</w>
+           
+          <w lemma="strong:G5023" morph="robinson:N-NPN">ταῦτα</w>
+           
+          <w lemma="strong:G20682" morph="robinson:V-PAM-2P">ηὔχθω·</w>
+           
+          <w lemma="strong:G4771" morph="robinson:PREP">σὺ</w>
+           
+          <w lemma="strong:G1161" morph="robinson:N-NSM">δέ</w>
+          , 
+          <w lemma="strong:G5599" morph="robinson:N-VSM">ὦ</w>
+           
+          <w lemma="strong:G20684" morph="robinson:V-PAM-2S">φίλε</w>
+           
+          <w lemma="strong:G20685" morph="robinson:ADV">Τιμόθεε</w>
+          , 
+          <w lemma="strong:G3588" morph="robinson:P-NSF">τῇ</w>
+           
+          <w lemma="strong:G4012" morph="robinson:PREP">περὶ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:V-PAM-2S">τὰ</w>
+           μυστικὰ 
+          <w lemma="strong:G20686" morph="robinson:N-APN">θεάματα</w>
+           
+          <w lemma="strong:G20687" morph="robinson:CONJ">συντόνῳ</w>
+           
+          <w lemma="strong:G20688" morph="robinson:N-VPF">διατριβῇ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:P-DSF">τὰς</w>
+           
+          <w lemma="strong:G20689" morph="robinson:V-PAI-2S">αἰσθήσεις</w>
+           
+          <w lemma="strong:G20690" morph="robinson:V-PAI-3S">ἀπόλειπε</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-DSF">τὰς</w>
+           
+          <w lemma="strong:G20691" morph="robinson:A-ASM">νοερὰς</w>
+           
+          <w lemma="strong:G1753" morph="robinson:V-PAI-2P">ἐνεργείας</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+           
+          <w lemma="strong:G20692" morph="robinson:ADV">αἰσθητὰ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G20693" morph="robinson:A-VSM">νοητὰ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+           
+          <w lemma="strong:G3756" morph="robinson:CONJ">οὐκ</w>
+           
+          <w lemma="strong:G13533" morph="robinson:V-PAI-P">ὄντα</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G13533" morph="robinson:V-PAI-S">ὄντα</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+           
+          <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+           
+          <w lemma="strong:G15662" morph="robinson:N-ASF">ἕνωσιν</w>
+          , 
+          <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+           
+          <w lemma="strong:G20694" morph="robinson:N-ASF">ἐφικτόν</w>
+          , 
+          <w lemma="strong:G20695" morph="robinson:ADV">ἀγνώστως</w>
+           
+          <w lemma="strong:G20696" morph="robinson:V-PAM-2S">ἀνατάθητι</w>
+           
+          <w lemma="strong:G3588" morph="robinson:P-NSF">τοῦ</w>
+           
+          <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+           
+          <w lemma="strong:G3956" morph="robinson:V-PAI-S">πᾶσαν</w>
+           
+          <w lemma="strong:G3776" morph="robinson:ADV">οὐσίαν</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+           
+          <w lemma="strong:G14144" morph="robinson:N-GPF">γνῶσιν·</w>
+           
+          <w lemma="strong:G3588" morph="robinson:P-DSF">τῇ</w>
+           
+          <w lemma="strong:G1063" morph="robinson:N-NSF">γὰρ</w>
+           
+          <w lemma="strong:G1438" morph="robinson:V-PPI-3S">ἑαυτοῦ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+           
+          <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+           
+          <w lemma="strong:G20697" morph="robinson:ADV">ἀσχέτῳ</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+           ἀπολύτῳ 
+          <w lemma="strong:G14132" morph="robinson:A-NSM">καθαρῶς</w>
+           
+          <w lemma="strong:G20699" morph="robinson:ADV">ἐκστάσει</w>
+           
+          <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+           
+          <w lemma="strong:G3588" morph="robinson:P-ASN">τὸν</w>
+           
+          <w lemma="strong:G20700" morph="robinson:N-ASN">ὑπερούσιον</w>
+           
+          <w lemma="strong:G3588" morph="robinson:A-NSF">τοῦ</w>
+           
+          <w lemma="strong:G2304" morph="robinson:N-GSM">θείου</w>
+           
+          <w lemma="strong:G4655" morph="robinson:N-APM">σκότους</w>
+           
+          <w lemma="strong:G20701" morph="robinson:A-NPN">ἀκτῖνα</w>
+          , 
+          <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+           
+          <w lemma="strong:G20702" morph="robinson:V-PAI-S">ἀφελὼν</w>
+           
+          <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+           
+          <w lemma="strong:G1537" morph="robinson:PREP">ἐκ</w>
+           
+          <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+           
+          <w lemma="strong:G20703" morph="robinson:V-PMM-2S">ἀπολυθείς</w>
+          , 
+          <w lemma="strong:G20704" morph="robinson:V-PMM-2S">ἀναχθήσῃ.</w>
+                
+        </p>
+        <div type="section" osisID="I">
+          <title>I.</title>
+          <title type="sub">1.</title>
+          <p>
+            <w lemma="strong:G20646" morph="robinson:I">Τριὰς</w>
+             
+            <w lemma="strong:G20647" morph="robinson:N-VSM">ὑπερούσιε</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G20648" morph="robinson:N-GPF">ὑπέρθεε</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G20649" morph="robinson:N-GSF">ὑπεράγαθε</w>
+            , 
+            <w lemma="strong:G3588" morph="robinson:P-GSF">τῆς</w>
+             
+            <w lemma="strong:G5546" morph="robinson:N-VPM">Χριστιανῶν</w>
+             
+            <w lemma="strong:G20651" morph="robinson:V-PAI-3S">ἔφορε</w>
+             
+            <w lemma="strong:G20652" morph="robinson:N-GSN">θεοσοφίας</w>
+            , 
+            <w lemma="strong:G20653" morph="robinson:N-ASM">ἴθυνον</w>
+             
+            <w lemma="strong:G2248" morph="robinson:N-DPF">ἡμᾶς</w>
+             
+            <w lemma="strong:G1909" morph="robinson:V-PAI-1S">ἐπὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASF">τὴν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASF">τῶν</w>
+             
+            <w lemma="strong:G20654" morph="robinson:N-ASM">μυστικῶν</w>
+             
+            <w lemma="strong:G3051" morph="robinson:N-GSM">λογίων</w>
+             
+            <w lemma="strong:G20655" morph="robinson:N-ASN">ὑπεράγνωστον</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VPM">καὶ</w>
+             
+            <w lemma="strong:G20656" morph="robinson:N-NPF">ὑπερφαῆ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+             
+            <w lemma="strong:G20658" morph="robinson:P-GPN">ἀκροτάτην</w>
+             
+            <w lemma="strong:G20659" morph="robinson:A-NPF">κορυφήν·</w>
+             
+            <w lemma="strong:G14772" morph="robinson:N-NSF">ἔνθα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G20660" morph="robinson:ADV">ἁπλᾶ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPN">καὶ</w>
+             
+            <w lemma="strong:G20661" morph="robinson:A-NSF">ἀπόλυτα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+              
+            <w lemma="strong:G20662" morph="robinson:A-NSF">ἄτρεπτα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:N-GPF">τῆς</w>
+             
+            <w lemma="strong:G20664" morph="robinson:V-PAI-2S">θεολογίας</w>
+             
+            <w lemma="strong:G13833" morph="robinson:V-PPI-P">μυστήρια</w>
+             
+            <w lemma="strong:G2596" morph="robinson:PREP">κατὰ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PAI-S">τὸν</w>
+             
+            <w lemma="strong:G20665" morph="robinson:N-ASM">ὑπέρφωτον</w>
+             
+            <w lemma="strong:G20666" morph="robinson:V-PMI-3S">ἐγκεκάλυπται</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-DPN">τῆς</w>
+             
+            <w lemma="strong:G20667" morph="robinson:A-GSM">κρυφιομύστου</w>
+             
+            <w lemma="strong:G4602" morph="robinson:ADV">σιγῆς</w>
+             
+            <w lemma="strong:G1105" morph="robinson:N-ASM">γνόφον</w>
+            , 
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GSM">τῷ</w>
+             
+            <w lemma="strong:G20669" morph="robinson:I">σκοτεινοτάτῳ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSM">τὸ</w>
+             
+            <w lemma="strong:G20670" morph="robinson:N-ASN">ὑπερφανέστατον</w>
+             
+            <w lemma="strong:G20671" morph="robinson:V-PAI-P">ὑπερλάμποντα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-DSN">τῷ</w>
+             
+            <w lemma="strong:G20673" morph="robinson:ADV">πάμπαν</w>
+             
+            <w lemma="strong:G20674" morph="robinson:V-PAI-2S">ἀναφεῖ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G517" morph="robinson:ADV">ἀοράτῳ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASM">τῶν</w>
+             
+            <w lemma="strong:G20675" morph="robinson:N-GPF">ὑπερκάλων</w>
+             
+            <w lemma="strong:G20676" morph="robinson:A-ASF">ἀγλαϊῶν</w>
+             
+            <w lemma="strong:G20677" morph="robinson:N-APN">ὑπερπληροῦντα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSF">τοὺς</w>
+             
+            <w lemma="strong:G20679" morph="robinson:T-APM">ἀνομμάτους</w>
+             
+            <w lemma="strong:G20681" morph="robinson:N-APF">νόας</w>
+            . 
+          </p>
+          <p>
+            Ἐμοὶ 
+            <w lemma="strong:G3303" morph="robinson:N-NSN">μὲν</w>
+             
+            <w lemma="strong:G3767" morph="robinson:ADV">οὖν</w>
+             
+            <w lemma="strong:G5023" morph="robinson:N-NPN">ταῦτα</w>
+             
+            <w lemma="strong:G20682" morph="robinson:V-PAM-2P">ηὔχθω·</w>
+             
+            <w lemma="strong:G4771" morph="robinson:PREP">σὺ</w>
+             
+            <w lemma="strong:G1161" morph="robinson:N-NSM">δέ</w>
+            , 
+            <w lemma="strong:G5599" morph="robinson:N-VSM">ὦ</w>
+             
+            <w lemma="strong:G20684" morph="robinson:V-PAM-2S">φίλε</w>
+             
+            <w lemma="strong:G20685" morph="robinson:ADV">Τιμόθεε</w>
+            , 
+            <w lemma="strong:G3588" morph="robinson:P-NSF">τῇ</w>
+             
+            <w lemma="strong:G4012" morph="robinson:PREP">περὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PAM-2S">τὰ</w>
+             μυστικὰ 
+            <w lemma="strong:G20686" morph="robinson:N-APN">θεάματα</w>
+             
+            <w lemma="strong:G20687" morph="robinson:CONJ">συντόνῳ</w>
+             
+            <w lemma="strong:G20688" morph="robinson:N-VPF">διατριβῇ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-DSF">τὰς</w>
+             
+            <w lemma="strong:G20689" morph="robinson:V-PAI-2S">αἰσθήσεις</w>
+             
+            <w lemma="strong:G20690" morph="robinson:V-PAI-3S">ἀπόλειπε</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-DSF">τὰς</w>
+             
+            <w lemma="strong:G20691" morph="robinson:A-ASM">νοερὰς</w>
+             
+            <w lemma="strong:G1753" morph="robinson:V-PAI-2P">ἐνεργείας</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+             
+            <w lemma="strong:G20692" morph="robinson:ADV">αἰσθητὰ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G20693" morph="robinson:A-VSM">νοητὰ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+             
+            <w lemma="strong:G3756" morph="robinson:CONJ">οὐκ</w>
+             
+            <w lemma="strong:G13533" morph="robinson:V-PAI-P">ὄντα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G13533" morph="robinson:V-PAI-S">ὄντα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+             
+            <w lemma="strong:G15662" morph="robinson:N-ASF">ἕνωσιν</w>
+            , 
+            <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+             
+            <w lemma="strong:G20694" morph="robinson:N-ASF">ἐφικτόν</w>
+            , 
+            <w lemma="strong:G20695" morph="robinson:ADV">ἀγνώστως</w>
+             
+            <w lemma="strong:G20696" morph="robinson:V-PAM-2S">ἀνατάθητι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSF">τοῦ</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-S">πᾶσαν</w>
+             
+            <w lemma="strong:G3776" morph="robinson:ADV">οὐσίαν</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+             
+            <w lemma="strong:G14144" morph="robinson:N-GPF">γνῶσιν·</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-DSF">τῇ</w>
+             
+            <w lemma="strong:G1063" morph="robinson:N-NSF">γὰρ</w>
+             
+            <w lemma="strong:G1438" morph="robinson:V-PPI-3S">ἑαυτοῦ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G20697" morph="robinson:ADV">ἀσχέτῳ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             ἀπολύτῳ 
+            <w lemma="strong:G14132" morph="robinson:A-NSM">καθαρῶς</w>
+             
+            <w lemma="strong:G20699" morph="robinson:ADV">ἐκστάσει</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASN">τὸν</w>
+             
+            <w lemma="strong:G20700" morph="robinson:N-ASN">ὑπερούσιον</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSF">τοῦ</w>
+             
+            <w lemma="strong:G2304" morph="robinson:N-GSM">θείου</w>
+             
+            <w lemma="strong:G4655" morph="robinson:N-APM">σκότους</w>
+             
+            <w lemma="strong:G20701" morph="robinson:A-NPN">ἀκτῖνα</w>
+            , 
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+             
+            <w lemma="strong:G20702" morph="robinson:V-PAI-S">ἀφελὼν</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G1537" morph="robinson:PREP">ἐκ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G20703" morph="robinson:V-PMM-2S">ἀπολυθείς</w>
+            , 
+            <w lemma="strong:G20704" morph="robinson:V-PMM-2S">ἀναχθήσῃ.</w>
+                  
+          </p>
+          <div type="subSection" osisID="1">
+            <title>1.</title>
+            <title type="sub">1.</title>
+            <p>
+              <w lemma="strong:G20646" morph="robinson:I">Τριὰς</w>
+               
+              <w lemma="strong:G20647" morph="robinson:N-VSM">ὑπερούσιε</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20648" morph="robinson:N-GPF">ὑπέρθεε</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20649" morph="robinson:N-GSF">ὑπεράγαθε</w>
+              , 
+              <w lemma="strong:G3588" morph="robinson:P-GSF">τῆς</w>
+               
+              <w lemma="strong:G5546" morph="robinson:N-VPM">Χριστιανῶν</w>
+               
+              <w lemma="strong:G20651" morph="robinson:V-PAI-3S">ἔφορε</w>
+               
+              <w lemma="strong:G20652" morph="robinson:N-GSN">θεοσοφίας</w>
+              , 
+              <w lemma="strong:G20653" morph="robinson:N-ASM">ἴθυνον</w>
+               
+              <w lemma="strong:G2248" morph="robinson:N-DPF">ἡμᾶς</w>
+               
+              <w lemma="strong:G1909" morph="robinson:V-PAI-1S">ἐπὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASF">τὴν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASF">τῶν</w>
+               
+              <w lemma="strong:G20654" morph="robinson:N-ASM">μυστικῶν</w>
+               
+              <w lemma="strong:G3051" morph="robinson:N-GSM">λογίων</w>
+               
+              <w lemma="strong:G20655" morph="robinson:N-ASN">ὑπεράγνωστον</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VPM">καὶ</w>
+               
+              <w lemma="strong:G20656" morph="robinson:N-NPF">ὑπερφαῆ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+               
+              <w lemma="strong:G20658" morph="robinson:P-GPN">ἀκροτάτην</w>
+               
+              <w lemma="strong:G20659" morph="robinson:A-NPF">κορυφήν·</w>
+               
+              <w lemma="strong:G14772" morph="robinson:N-NSF">ἔνθα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+               
+              <w lemma="strong:G20660" morph="robinson:ADV">ἁπλᾶ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPN">καὶ</w>
+               
+              <w lemma="strong:G20661" morph="robinson:A-NSF">ἀπόλυτα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+                
+              <w lemma="strong:G20662" morph="robinson:A-NSF">ἄτρεπτα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:N-GPF">τῆς</w>
+               
+              <w lemma="strong:G20664" morph="robinson:V-PAI-2S">θεολογίας</w>
+               
+              <w lemma="strong:G13833" morph="robinson:V-PPI-P">μυστήρια</w>
+               
+              <w lemma="strong:G2596" morph="robinson:PREP">κατὰ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:V-PAI-S">τὸν</w>
+               
+              <w lemma="strong:G20665" morph="robinson:N-ASM">ὑπέρφωτον</w>
+               
+              <w lemma="strong:G20666" morph="robinson:V-PMI-3S">ἐγκεκάλυπται</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-DPN">τῆς</w>
+               
+              <w lemma="strong:G20667" morph="robinson:A-GSM">κρυφιομύστου</w>
+               
+              <w lemma="strong:G4602" morph="robinson:ADV">σιγῆς</w>
+               
+              <w lemma="strong:G1105" morph="robinson:N-ASM">γνόφον</w>
+              , 
+              <w lemma="strong:G1722">ἐν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-GSM">τῷ</w>
+               
+              <w lemma="strong:G20669" morph="robinson:I">σκοτεινοτάτῳ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-NSM">τὸ</w>
+               
+              <w lemma="strong:G20670" morph="robinson:N-ASN">ὑπερφανέστατον</w>
+               
+              <w lemma="strong:G20671" morph="robinson:V-PAI-P">ὑπερλάμποντα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+               
+              <w lemma="strong:G1722">ἐν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSN">τῷ</w>
+               
+              <w lemma="strong:G20673" morph="robinson:ADV">πάμπαν</w>
+               
+              <w lemma="strong:G20674" morph="robinson:V-PAI-2S">ἀναφεῖ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+               
+              <w lemma="strong:G517" morph="robinson:ADV">ἀοράτῳ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τῶν</w>
+               
+              <w lemma="strong:G20675" morph="robinson:N-GPF">ὑπερκάλων</w>
+               
+              <w lemma="strong:G20676" morph="robinson:A-ASF">ἀγλαϊῶν</w>
+               
+              <w lemma="strong:G20677" morph="robinson:N-APN">ὑπερπληροῦντα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NSF">τοὺς</w>
+               
+              <w lemma="strong:G20679" morph="robinson:T-APM">ἀνομμάτους</w>
+               
+              <w lemma="strong:G20681" morph="robinson:N-APF">νόας</w>
+              . 
+            </p>
+            <p>
+              Ἐμοὶ 
+              <w lemma="strong:G3303" morph="robinson:N-NSN">μὲν</w>
+               
+              <w lemma="strong:G3767" morph="robinson:ADV">οὖν</w>
+               
+              <w lemma="strong:G5023" morph="robinson:N-NPN">ταῦτα</w>
+               
+              <w lemma="strong:G20682" morph="robinson:V-PAM-2P">ηὔχθω·</w>
+               
+              <w lemma="strong:G4771" morph="robinson:PREP">σὺ</w>
+               
+              <w lemma="strong:G1161" morph="robinson:N-NSM">δέ</w>
+              , 
+              <w lemma="strong:G5599" morph="robinson:N-VSM">ὦ</w>
+               
+              <w lemma="strong:G20684" morph="robinson:V-PAM-2S">φίλε</w>
+               
+              <w lemma="strong:G20685" morph="robinson:ADV">Τιμόθεε</w>
+              , 
+              <w lemma="strong:G3588" morph="robinson:P-NSF">τῇ</w>
+               
+              <w lemma="strong:G4012" morph="robinson:PREP">περὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:V-PAM-2S">τὰ</w>
+               μυστικὰ 
+              <w lemma="strong:G20686" morph="robinson:N-APN">θεάματα</w>
+               
+              <w lemma="strong:G20687" morph="robinson:CONJ">συντόνῳ</w>
+               
+              <w lemma="strong:G20688" morph="robinson:N-VPF">διατριβῇ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSF">τὰς</w>
+               
+              <w lemma="strong:G20689" morph="robinson:V-PAI-2S">αἰσθήσεις</w>
+               
+              <w lemma="strong:G20690" morph="robinson:V-PAI-3S">ἀπόλειπε</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-DSF">τὰς</w>
+               
+              <w lemma="strong:G20691" morph="robinson:A-ASM">νοερὰς</w>
+               
+              <w lemma="strong:G1753" morph="robinson:V-PAI-2P">ἐνεργείας</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+               
+              <w lemma="strong:G20692" morph="robinson:ADV">αἰσθητὰ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20693" morph="robinson:A-VSM">νοητὰ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+               
+              <w lemma="strong:G3756" morph="robinson:CONJ">οὐκ</w>
+               
+              <w lemma="strong:G13533" morph="robinson:V-PAI-P">ὄντα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G13533" morph="robinson:V-PAI-S">ὄντα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+               
+              <w lemma="strong:G15662" morph="robinson:N-ASF">ἕνωσιν</w>
+              , 
+              <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+               
+              <w lemma="strong:G20694" morph="robinson:N-ASF">ἐφικτόν</w>
+              , 
+              <w lemma="strong:G20695" morph="robinson:ADV">ἀγνώστως</w>
+               
+              <w lemma="strong:G20696" morph="robinson:V-PAM-2S">ἀνατάθητι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-NSF">τοῦ</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πᾶσαν</w>
+               
+              <w lemma="strong:G3776" morph="robinson:ADV">οὐσίαν</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+               
+              <w lemma="strong:G14144" morph="robinson:N-GPF">γνῶσιν·</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSF">τῇ</w>
+               
+              <w lemma="strong:G1063" morph="robinson:N-NSF">γὰρ</w>
+               
+              <w lemma="strong:G1438" morph="robinson:V-PPI-3S">ἑαυτοῦ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G20697" morph="robinson:ADV">ἀσχέτῳ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               ἀπολύτῳ 
+              <w lemma="strong:G14132" morph="robinson:A-NSM">καθαρῶς</w>
+               
+              <w lemma="strong:G20699" morph="robinson:ADV">ἐκστάσει</w>
+               
+              <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-ASN">τὸν</w>
+               
+              <w lemma="strong:G20700" morph="robinson:N-ASN">ὑπερούσιον</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NSF">τοῦ</w>
+               
+              <w lemma="strong:G2304" morph="robinson:N-GSM">θείου</w>
+               
+              <w lemma="strong:G4655" morph="robinson:N-APM">σκότους</w>
+               
+              <w lemma="strong:G20701" morph="robinson:A-NPN">ἀκτῖνα</w>
+              , 
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+               
+              <w lemma="strong:G20702" morph="robinson:V-PAI-S">ἀφελὼν</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G1537" morph="robinson:PREP">ἐκ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G20703" morph="robinson:V-PMM-2S">ἀπολυθείς</w>
+              , 
+              <w lemma="strong:G20704" morph="robinson:V-PMM-2S">ἀναχθήσῃ.</w>
+                    
+            </p>
+          </div>
+          <div type="subSection" osisID="2">
+            <title>2.</title>
+            <title type="sub">2.</title>
+            <p>
+              <w lemma="strong:G5130" morph="robinson:N-VPN">Τούτων</w>
+               
+              <w lemma="strong:G1161" morph="robinson:N-NSN">δὲ</w>
+               
+              <w lemma="strong:G18173" morph="robinson:A-ASF">ὅρα</w>
+              , 
+              <w lemma="strong:G3704" morph="robinson:ADV">ὅπως</w>
+               
+              <w lemma="strong:G3367" morph="robinson:ADV">μηδεὶς</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+               
+              <w lemma="strong:G20705" morph="robinson:V-PAI-S">ἀμυήτων</w>
+               
+              <w lemma="strong:G20706" morph="robinson:ADV">ἐπακούσῃ·</w>
+               
+              <w lemma="strong:G5128" morph="robinson:T-APM">τούτους</w>
+               
+              <w lemma="strong:G1161" morph="robinson:N-ASM">δέ</w>
+               
+              <w lemma="strong:G5346" morph="robinson:V-PAI-1S">φημι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:ADV">τοὺς</w>
+               
+              <w lemma="strong:G1722" morph="robinson:ADV">ἐν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NSM">τοῖς</w>
+               
+              <w lemma="strong:G3775" morph="robinson:N-DPM">οὖσιν</w>
+               
+              <w lemma="strong:G20707" morph="robinson:A-APF">ἐνισχημένους</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3761" morph="robinson:ADV">οὐδὲν</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+               
+              <w lemma="strong:G13533" morph="robinson:T-APN">ὄντα</w>
+               
+              <w lemma="strong:G20708" morph="robinson:N-DPM">ὑπερουσίως</w>
+               
+              <w lemma="strong:G1511" morph="robinson:V-PAI">εἶναι</w>
+               
+              <w lemma="strong:G5324" morph="robinson:A-APM">φανταζομένους</w>
+              , 
+              <w lemma="strong:G235" morph="robinson:P-ASF">ἀλλ</w>
+              ’ 
+              <w lemma="strong:G3633" morph="robinson:P-APM">οἰομένους</w>
+               
+              <w lemma="strong:G13014">εἰδέναι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSF">τῇ</w>
+               
+              <w lemma="strong:G2596" morph="robinson:ADV">καθ’</w>
+               
+              <w lemma="strong:G846" morph="robinson:A">αὑτοὺς</w>
+               
+              <w lemma="strong:G18491" morph="robinson:V-FAI-3S">γνώσει</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASF">τὸν</w>
+               
+              <w lemma="strong:G20710" morph="robinson:V-PMI-S">θέμενον</w>
+               "
+              <w lemma="strong:G4655" morph="robinson:A-NSM">σκότος</w>
+               
+              <w lemma="strong:G20712" morph="robinson:ADV">ἀποκρυφὴν</w>
+               
+              <w lemma="strong:G846" morph="robinson:ADV">αὐτοῦ".</w>
+               
+              <w lemma="strong:G1487" morph="robinson:V-PAI-S">Εἰ</w>
+               
+              <w lemma="strong:G1161" morph="robinson:P-GSF">δὲ</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+               
+              <w lemma="strong:G5128" morph="robinson:T-APM">τούτους</w>
+               
+              <w lemma="strong:G1526" morph="robinson:ADV">εἰσὶν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+               
+              <w lemma="strong:G20713" morph="robinson:A-NPF">θεῖαι</w>
+               
+              <w lemma="strong:G20714" morph="robinson:V-PMM-2S">μυσταγωγίαι</w>
+              , 
+              <w lemma="strong:G11672" morph="robinson:T-ASF">τί</w>
+               
+              <w lemma="strong:G302" morph="robinson:N-ASF">ἄν</w>
+               
+              <w lemma="strong:G5100" morph="robinson:T-NSF">τις</w>
+               
+              <w lemma="strong:G20715" morph="robinson:N-NSF">φαίη</w>
+               
+              <w lemma="strong:G4012" morph="robinson:PREP">περὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASF">τῶν</w>
+               
+              <w lemma="strong:G3123" morph="robinson:N-ASM">μᾶλλον</w>
+               
+              <w lemma="strong:G20716" morph="robinson:V-PAI-P">ἀμύστων</w>
+              , 
+              <w lemma="strong:G3745" morph="robinson:A-NPM">ὅσοι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G20718" morph="robinson:N-ASM">ὑπερκειμένην</w>
+               
+              <w lemma="strong:G156" morph="robinson:P-NPF">αἰτίαν</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPN">καὶ</w>
+               
+              <w lemma="strong:G1537" morph="robinson:PREP">ἐκ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:PREP">τῶν</w>
+               
+              <w lemma="strong:G1722" morph="robinson:ADV">ἐν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NSM">τοῖς</w>
+               
+              <w lemma="strong:G3775" morph="robinson:N-ASM">οὖσιν</w>
+               
+              <w lemma="strong:G2078" morph="robinson:V-PAI-P">ἐσχάτων</w>
+               
+              <w lemma="strong:G20720" morph="robinson:V-PAI-3P">χαρακτηρίζουσιν</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+               
+              <w lemma="strong:G3761" morph="robinson:ADV">οὐδὲν</w>
+               
+              <w lemma="strong:G846" morph="robinson:ADV">αὐτὴν</w>
+               
+              <w lemma="strong:G19978" morph="robinson:V-PAI">ὑπερέχειν</w>
+               
+              <w lemma="strong:G20721" morph="robinson:V-PAI-3P">φασὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+               
+              <w lemma="strong:G20722" morph="robinson:ADV">πλαττομένων</w>
+               
+              <w lemma="strong:G846" morph="robinson:A-ASF">αὐτοῖς</w>
+               
+              <w lemma="strong:G112" morph="robinson:ADV">ἀθέων</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20724" morph="robinson:A-NSN">πολυειδῶν</w>
+               
+              <w lemma="strong:G20726" morph="robinson:N-GPM">μορφωμάτων</w>
+              ; 
+              <w lemma="strong:G14992" morph="robinson:N-ASF">Δέον</w>
+               
+              <w lemma="strong:G1909" morph="robinson:PREP">ἐπ</w>
+              ’ αὐτῇ 
+              <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάσας</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-APM">τὰς</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-ASN">τῶν</w>
+               
+              <w lemma="strong:G19731" morph="robinson:V-PAI-P">ὄντων</w>
+               
+              <w lemma="strong:G20727" morph="robinson:N-DSN">τιθέναι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20729" morph="robinson:V-PAI">καταφάσκειν</w>
+               
+              <w lemma="strong:G17543" morph="robinson:N-APF">θέσεις</w>
+              , 
+              <w lemma="strong:G5613" morph="robinson:N-GSF">ὡς</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G156" morph="robinson:I">αἰτίᾳ</w>
+              , 
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάσας</w>
+               
+              <w lemma="strong:G846" morph="robinson:ADV">αὐτὰς</w>
+               
+              <w lemma="strong:G15501" morph="robinson:A-ASN">κυριώτερον</w>
+               
+              <w lemma="strong:G20732" morph="robinson:V-PAI">ἀποφάσκειν</w>
+              , 
+              <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-FAI-S">πάντα</w>
+               
+              <w lemma="strong:G20733" morph="robinson:N">ὑπερούσῃ</w>
+              , 
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3361" morph="robinson:N-DSF">μὴ</w>
+               
+              <w lemma="strong:G20734" morph="robinson:V-PPI">οἴεσθαι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:N-NPF">τὰς</w>
+               
+              <w lemma="strong:G20735" morph="robinson:V-FAI-2S">ἀποφάσεις</w>
+               
+              <w lemma="strong:G20737" morph="robinson:V-PAI-P">ἀντικειμένας</w>
+               
+              <w lemma="strong:G1511" morph="robinson:V-PAI">εἶναι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-GSF">ταῖς</w>
+               
+              <w lemma="strong:G20739" morph="robinson:N-DPF">καταφάσεσιν</w>
+              , 
+              <w lemma="strong:G235" morph="robinson:T-NSF">ἀλλὰ</w>
+               
+              <w lemma="strong:G13558" morph="robinson:ADV">πολὺ</w>
+               
+              <w lemma="strong:G4386" morph="robinson:A-ASN">πρότερον</w>
+               
+              <w lemma="strong:G846" morph="robinson:A-ASN">αὐτὴν</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSF">ὑπὲρ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-GSF">τὰς</w>
+               
+              <w lemma="strong:G20740" morph="robinson:V-PAI-2S">στερήσεις</w>
+               
+              <w lemma="strong:G1511" morph="robinson:V-PAI">εἶναι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:V-PAI-S">τὴν</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-APF">ὑπὲρ</w>
+               
+              <w lemma="strong:G3956">πᾶσαν</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20742" morph="robinson:V-PAI-3P">ἀφαίρεσιν</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+               
+              <w lemma="strong:G17543" morph="robinson:N-ASF">θέσιν</w>
+              .     
+            </p>
+          </div>
+          <div type="subSection" osisID="3">
+            <title>3.</title>
+            <title type="sub">3.</title>
+            <p>
+              <w lemma="strong:G3779" morph="robinson:V-PAM-3S">Οὕτω</w>
+               
+              <w lemma="strong:G20744" morph="robinson:V-PAM-2S">γοῦν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:ADV">ὁ</w>
+               
+              <w lemma="strong:G2304" morph="robinson:A-NSF">θεῖος</w>
+               
+              <w lemma="strong:G918" morph="robinson:I">Βαρθολομαῖός</w>
+               
+              <w lemma="strong:G5346" morph="robinson:V-PAI-3S">φησι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G12817" morph="robinson:ADV">πολλὴν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+               
+              <w lemma="strong:G20747" morph="robinson:V-PMI-2S">θεολογίαν</w>
+               
+              <w lemma="strong:G1511">εἶναι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+               
+              <w lemma="strong:G20748" morph="robinson:A-ASF">ἐλαχίστην</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPM">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSF">τὸ</w>
+               
+              <w lemma="strong:G2098" morph="robinson:N">Εὐαγγέλιον</w>
+               
+              <w lemma="strong:G20749" morph="robinson:PREP">πλατὺ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+               
+              <w lemma="strong:G11803" morph="robinson:A-NSN">μέγα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+               
+              <w lemma="strong:G20750" morph="robinson:P-DPF">αὖθις</w>
+               
+              <w lemma="strong:G20751" morph="robinson:V-PAI-S">συντετμημένον</w>
+              , 
+              <w lemma="strong:G1698" morph="robinson:A-NPN">ἐμοὶ</w>
+               
+              <w lemma="strong:G16924" morph="robinson:V-PAI-S">δοκεῖν</w>
+               
+              <w lemma="strong:G12809" morph="robinson:V-PAI-3S">ἐκεῖνο</w>
+               
+              <w lemma="strong:G20752" morph="robinson:N-APN">ὑπερφυῶς</w>
+               
+              <w lemma="strong:G20753" morph="robinson:V-PAI-S">ἐννοήσας</w>
+              , 
+              <w lemma="strong:G3754" morph="robinson:ADV">ὅτι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G20754" morph="robinson:ADV">πολύλογός</w>
+               
+              <w lemma="strong:G2076">ἐστιν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NSF">ἡ</w>
+               
+              <w lemma="strong:G20755" morph="robinson:ADV">ἀγαθὴ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G156" morph="robinson:ADV">αἰτία</w>
+               
+              <w lemma="strong:G2532" morph="robinson:ADV">καὶ</w>
+               
+              <w lemma="strong:G20756" morph="robinson:A-GSM">βραχύλεκτος</w>
+               
+              <w lemma="strong:G260" morph="robinson:N-NSN">ἅμα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G249" morph="robinson:N-GSN">ἄλογος</w>
+              , 
+              <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+               
+              <w lemma="strong:G3777" morph="robinson:A-VSM">οὔτε</w>
+               
+              <w lemma="strong:G3056" morph="robinson:N-ASM">λόγον</w>
+               
+              <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+               
+              <w lemma="strong:G20758" morph="robinson:N-ASF">νόησιν</w>
+               
+              <w lemma="strong:G2192" morph="robinson:V-PAI-S">ἔχουσα</w>
+              , 
+              <w lemma="strong:G1223" morph="robinson:ADV">διὰ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-APN">τὸ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G846" morph="robinson:ADV">αὐτὴν</w>
+               
+              <w lemma="strong:G20708" morph="robinson:N-GSF">ὑπερουσίως</w>
+               
+              <w lemma="strong:G20717" morph="robinson:V-PPI-S">ὑπερκειμένην</w>
+               
+              <w lemma="strong:G1511" morph="robinson:V-PAI">εἶναι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+               
+              <w lemma="strong:G3441" morph="robinson:N-DPM">μόνοις</w>
+               
+              <w lemma="strong:G20759" morph="robinson:ADV">ἀπερικαλύπτως</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+               ἀληθῶς 
+              <w lemma="strong:G20761" morph="robinson:ADV">ἐκφαινομένην</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-VPM">τοῖς</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+               
+              <w lemma="strong:G20762" morph="robinson:V-PAI-1S">ἐναγῆ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάντα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+               
+              <w lemma="strong:G17662" morph="robinson:ADV">καθαρὰ</w>
+               
+              <w lemma="strong:G1224" morph="robinson:V-PAI-3P">διαβαίνουσι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-3P">πᾶσαν</w>
+               
+              <w lemma="strong:G18661" morph="robinson:N-ASF">πασῶν</w>
+               
+              <w lemma="strong:G40" morph="robinson:V-PMI-1P">ἁγίων</w>
+               
+              <w lemma="strong:G20764" morph="robinson:P-GPN">ἀκροτήτων</w>
+               
+              <w lemma="strong:G20766" morph="robinson:A">ἀνάβασιν</w>
+               
+              <w lemma="strong:G20767" morph="robinson:V-PAI-3P">ὑπερβαίνουσι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάντα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:V-PAM-2S">τὰ</w>
+               
+              <w lemma="strong:G20768" morph="robinson:V-PAM-2S">θεῖα</w>
+               
+              <w lemma="strong:G20769" morph="robinson:N-APN">φῶτα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G2279" morph="robinson:A-ASF">ἤχους</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+               
+              <w lemma="strong:G3056" morph="robinson:N-APM">λόγους</w>
+               
+              <w lemma="strong:G3770" morph="robinson:P-DPN">οὐρανίους</w>
+               
+              <w lemma="strong:G20771" morph="robinson:V-PAI-3P">ἀπολιμπάνουσι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               "εἰς 
+              <w lemma="strong:G3588" morph="robinson:V-PAM-2P">τὸν</w>
+               
+              <w lemma="strong:G1105" morph="robinson:N-VSM">γνόφον</w>
+              " 
+              <w lemma="strong:G20773" morph="robinson:N-DPF">εἰσδυομένοις</w>
+              , "
+              <w lemma="strong:G3739" morph="robinson:ADV">οὗ</w>
+              " 
+              <w lemma="strong:G3689" morph="robinson:ADV">ὄντως</w>
+               
+              <w lemma="strong:G2076" morph="robinson:PREP">ἐστίν</w>
+              , 
+              <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-APN">τὰ</w>
+               
+              <w lemma="strong:G3048" morph="robinson:P-APN">λόγιά</w>
+               
+              <w lemma="strong:G5346" morph="robinson:V-PAI-3S">φησιν</w>
+              , 
+              <w lemma="strong:G3588" morph="robinson:ADV">ὁ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+               
+              <w lemma="strong:G1900" morph="robinson:V-PAI-3S">ἐπέκεινα</w>
+              . 
+              <w lemma="strong:G2532" morph="robinson:A-VSM">Καὶ</w>
+               
+              <w lemma="strong:G1063" morph="robinson:N-VSM">γὰρ</w>
+               
+              <w lemma="strong:G3756" morph="robinson:ADV">οὐχ</w>
+               ἁπλῶς 
+              <w lemma="strong:G3588" morph="robinson:ADV">ὁ</w>
+               
+              <w lemma="strong:G2304" morph="robinson:A-NSM">θεῖος</w>
+               
+              <w lemma="strong:G3475" morph="robinson:N-GPN">Μωϋσῆς</w>
+               
+              <w lemma="strong:G20775" morph="robinson:V-PAI">ἀποκαθαρθῆναι</w>
+               
+              <w lemma="strong:G4412" morph="robinson:A-AS">πρῶτον</w>
+               
+              <w lemma="strong:G846" morph="robinson:ADV">αὐτὸς</w>
+               
+              <w lemma="strong:G2753" morph="robinson:V-PMI-3S">κελεύεται</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+               
+              <w lemma="strong:G20750" morph="robinson:P-DPF">αὖθις</w>
+               
+              <w lemma="strong:G3588" morph="robinson:V-PPI-P">τῶν</w>
+               
+              <w lemma="strong:G3361" morph="robinson:V-PMI-2S">μὴ</w>
+               
+              <w lemma="strong:G5108" morph="robinson:P-GSM">τοιούτων</w>
+               
+              <w lemma="strong:G20777" morph="robinson:N-NPF">ἀφορισθῆναι</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+               
+              <w lemma="strong:G3326" morph="robinson:PREP">μετὰ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-3P">πᾶσαν</w>
+               
+              <w lemma="strong:G20779" morph="robinson:V-PAI-3P">ἀποκάθαρσιν</w>
+               
+              <w lemma="strong:G20780" morph="robinson:N-DSF">ἀκούει</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-ASF">τῶν</w>
+               
+              <w lemma="strong:G20781" morph="robinson:T-GP">πολυφώνων</w>
+               
+              <w lemma="strong:G20782" morph="robinson:N-GPF">σαλπίγγων</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+               
+              <w lemma="strong:G20783" morph="robinson:ADV">ὁρᾷ</w>
+               
+              <w lemma="strong:G20769" morph="robinson:V-PAI-S">φῶτα</w>
+               
+              <w lemma="strong:G12830" morph="robinson:A-NSF">πολλὰ</w>
+               
+              <w lemma="strong:G20784" morph="robinson:A-NSF">καθαρὰς</w>
+               
+              <w lemma="strong:G20785" morph="robinson:V-PAI-P">ἀπαστράπτοντα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+               
+              <w lemma="strong:G20787" morph="robinson:A-APM">πολυχύτους</w>
+               
+              <w lemma="strong:G20788" morph="robinson:ADV">ἀκτῖνας·</w>
+               
+              <w lemma="strong:G1534" morph="robinson:V-PAS-3S">εἶτα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+               
+              <w lemma="strong:G13974" morph="robinson:A-ASM">πολλῶν</w>
+               
+              <w lemma="strong:G20789" morph="robinson:V-PPI-3S">ἀφορίζεται</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G3326" morph="robinson:ADV">μετὰ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τῶν</w>
+               
+              <w lemma="strong:G20791" morph="robinson:A-GPM">ἐκκρίτων</w>
+               
+              <w lemma="strong:G20792" morph="robinson:A">ἱερέων</w>
+               
+              <w lemma="strong:G1909" morph="robinson:V-PAI-3P">ἐπὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+               
+              <w lemma="strong:G20794" morph="robinson:N-ASF">ἀκρότητα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-ASM">τῶν</w>
+               
+              <w lemma="strong:G2303" morph="robinson:N-GSM">θείων</w>
+               
+              <w lemma="strong:G20796" morph="robinson:N-GPN">ἀναβάσεων</w>
+               
+              <w lemma="strong:G5348" morph="robinson:V-PAI-3S">φθάνει</w>
+              . 
+              <w lemma="strong:G2579" morph="robinson:ADV">Κἀν</w>
+               
+              <w lemma="strong:G3778" morph="robinson:A-DPN">τούτοις</w>
+               
+              <w lemma="strong:G846" morph="robinson:V-PAM-2P">αὐτῷ</w>
+               
+              <w lemma="strong:G3303" morph="robinson:A-ASN">μὲν</w>
+               
+              <w lemma="strong:G3756" morph="robinson:P-NSN">οὐ</w>
+               
+              <w lemma="strong:G20799" morph="robinson:V-PPI-3S">συγγίνεται</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NPN">τῷ</w>
+               
+              <w lemma="strong:G2316" morph="robinson:I">θεῷ</w>
+              , 
+              <w lemma="strong:G20800" morph="robinson:V-PAM-2S">θεωρεῖ</w>
+               
+              <w lemma="strong:G1161" morph="robinson:A-ASN">δὲ</w>
+               
+              <w lemma="strong:G3756" morph="robinson:N-VSM">οὐκ</w>
+               αὐτόν 
+              <w lemma="strong:G20801" morph="robinson:N-GSN">ἀθέατος</w>
+               
+              <w lemma="strong:G1063" morph="robinson:N-NSF">γάρ</w>
+              , 
+              <w lemma="strong:G235" morph="robinson:T-NSF">ἀλλὰ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASF">τὸν</w>
+               
+              <w lemma="strong:G5117" morph="robinson:N-ASM">τόπον</w>
+              , 
+              <w lemma="strong:G3739" morph="robinson:A-NSM">οὗ</w>
+               
+              <w lemma="strong:G20803" morph="robinson:V-PAI-3S">ἔστη</w>
+              . 
+              <w lemma="strong:G5124" morph="robinson:V-PAI-3S">Τοῦτο</w>
+               
+              <w lemma="strong:G1161" morph="robinson:N-NSF">δὲ</w>
+               
+              <w lemma="strong:G13603" morph="robinson:V-PMI-1S">οἶμαι</w>
+               
+              <w lemma="strong:G4591" morph="robinson:V-PAI">σημαίνειν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-APN">τὸ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:V-PAI-P">τὰ</w>
+               
+              <w lemma="strong:G20805" morph="robinson:N-NPN">θειότατα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G20806" morph="robinson:ADV">ἀκρότατα</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSF">τῶν</w>
+               
+              <w lemma="strong:G20807" morph="robinson:V-PAI-S">ὁρωμένων</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+               
+              <w lemma="strong:G20808" morph="robinson:V-PAI-P">νοουμένων</w>
+               
+              <w lemma="strong:G20809" morph="robinson:N-NPM">ὑποθετικούς</w>
+               
+              <w lemma="strong:G5101" morph="robinson:T-APM">τινας</w>
+               
+              <w lemma="strong:G1511">εἶναι</w>
+               
+              <w lemma="strong:G3056" morph="robinson:N-APM">λόγους</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τῶν</w>
+               
+              <w lemma="strong:G20810" morph="robinson:N-ASM">ὑποβεβλημένων</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-ASM">τῷ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάντα</w>
+               
+              <w lemma="strong:G20811" morph="robinson:N-DPM">ὑπερέχοντι</w>
+              , 
+              <w lemma="strong:G1223" morph="robinson:PREP">δι’</w>
+               
+              <w lemma="strong:G3739" morph="robinson:N-ASM">ὧν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-GSM">ἡ</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:PREP">πᾶσαν</w>
+               
+              <w lemma="strong:G1963" morph="robinson:N-ASF">ἐπίνοιαν</w>
+               
+              <w lemma="strong:G846" morph="robinson:T-NSF">αὐτοῦ</w>
+               
+              <w lemma="strong:G3952" morph="robinson:PREP">παρουσία</w>
+               
+              <w lemma="strong:G1166" morph="robinson:V-PMI-3S">δείκνυται</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-NSF">ταῖς</w>
+               
+              <w lemma="strong:G20812" morph="robinson:V-PPI-S">νοηταῖς</w>
+               
+              <w lemma="strong:G20794" morph="robinson:N-DPF">ἀκρότησι</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-GP">τῶν</w>
+               
+              <w lemma="strong:G20814" morph="robinson:N-GPN">ἁγιωτάτων</w>
+               
+              <w lemma="strong:G846" morph="robinson:T-APN">αὐτοῦ</w>
+               
+              <w lemma="strong:G5117" morph="robinson:N-GPM">τόπων</w>
+               
+              <w lemma="strong:G20816" morph="robinson:V-PAI-S">ἐπιβατεύουσα</w>
+              . 
+              <w lemma="strong:G2532" morph="robinson:N">Καὶ</w>
+               
+              <w lemma="strong:G5119" morph="robinson:P-ASF">τότε</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G846" morph="robinson:N-ASF">αὐτῶν</w>
+               
+              <w lemma="strong:G20818" morph="robinson:V-PPI-3S">ἀπολύεται</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-GSM">τῶν</w>
+               
+              <w lemma="strong:G20807" morph="robinson:V-PAI-S">ὁρωμένων</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A">τῶν</w>
+               
+              <w lemma="strong:G20819" morph="robinson:V-PAI-P">ὁρώντων</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPM">καὶ</w>
+               
+              <w lemma="strong:G1519" morph="robinson:V-PPI-3P">εἰς</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A">τὸν</w>
+               
+              <w lemma="strong:G1105" morph="robinson:N-ASM">γνόφον</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-DPM">τῆς</w>
+               
+              <w lemma="strong:G56" morph="robinson:V-PAI-2S">ἀγνωσίας</w>
+               
+              <w lemma="strong:G20821" morph="robinson:V-PAI-3S">εἰσδύνει</w>
+               
+              <w lemma="strong:G3588" morph="robinson:N-ASM">τὸν</w>
+               
+              <w lemma="strong:G3689" morph="robinson:ADV">ὄντως</w>
+               
+              <w lemma="strong:G20822" morph="robinson:V-PAI-S">μυστικόν</w>
+              , 
+              <w lemma="strong:G2596" morph="robinson:ADV">καθ’</w>
+               
+              <w lemma="strong:G3739" morph="robinson:P-ASM">ὃν</w>
+               
+              <w lemma="strong:G20824" morph="robinson:ADV">ἀπομύει</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάσας</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-APF">τὰς</w>
+               
+              <w lemma="strong:G20825" morph="robinson:V-PMI-P">γνωστικὰς</w>
+               
+              <w lemma="strong:G20827" morph="robinson:ADV">ἀντιλήψεις</w>
+              , 
+              <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+               
+              <w lemma="strong:G1722" morph="robinson:CONJ">ἐν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSN">τῷ</w>
+               
+              <w lemma="strong:G20673" morph="robinson:A-ASN">πάμπαν</w>
+               
+              <w lemma="strong:G20674" morph="robinson:V-PAI-2S">ἀναφεῖ</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+               
+              <w lemma="strong:G517" morph="robinson:P-NPF">ἀοράτῳ</w>
+               
+              <w lemma="strong:G10498" morph="robinson:V-PMS-3S">γίγνεται</w>
+              , 
+              <w lemma="strong:G3956" morph="robinson:A-NSM">πᾶς</w>
+               
+              <w lemma="strong:G3739" morph="robinson:I">ὢν</w>
+               
+              <w lemma="strong:G3588" morph="robinson:A-ASN">τοῦ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάντων</w>
+               
+              <w lemma="strong:G1900" morph="robinson:PREP">ἐπέκεινα</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G20829" morph="robinson:N-NSM">οὐδενός</w>
+              , 
+              <w lemma="strong:G3777" morph="robinson:A-APF">οὔτε</w>
+               
+              <w lemma="strong:G1438">ἑαυτοῦ</w>
+               
+              <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+               
+              <w lemma="strong:G2087" morph="robinson:V-PMM-2S">ἑτέρου</w>
+              , 
+              <w lemma="strong:G3588" morph="robinson:T-GSM">τῷ</w>
+               
+              <w lemma="strong:G19398" morph="robinson:A-DSN">παντελῶς</w>
+               
+              <w lemma="strong:G1161" morph="robinson:A-ASN">δὲ</w>
+               
+              <w lemma="strong:G57" morph="robinson:ADV">ἀγνώστῳ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:P-DSF">τῇ</w>
+               
+              <w lemma="strong:G3956" morph="robinson:T-GSF">πάσης</w>
+               
+              <w lemma="strong:G1108" morph="robinson:N-GSF">γνώσεως</w>
+               
+              <w lemma="strong:G20830" morph="robinson:ADV">ἀνενεργησίᾳ</w>
+               
+              <w lemma="strong:G2596" morph="robinson:ADV">κατὰ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-APN">τὸ</w>
+               
+              <w lemma="strong:G20832" morph="robinson:A-ASN">κρεῖττον</w>
+               
+              <w lemma="strong:G20833" morph="robinson:V-PMI-S">ἑνούμενος</w>
+               
+              <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+               
+              <w lemma="strong:G3588" morph="robinson:T-DSN">τῷ</w>
+               
+              <w lemma="strong:G3366" morph="robinson:A-ASM">μηδὲν</w>
+               
+              <w lemma="strong:G1097" morph="robinson:V-PAI">γινώσκειν</w>
+               
+              <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+               
+              <w lemma="strong:G13990" morph="robinson:N-VSM">νοῦν</w>
+               
+              <w lemma="strong:G1097" morph="robinson:V-PAI-S">γινώσκων</w>
+              .
+            </p>
+          </div>
+        </div>
+        <div type="section" osisID="II">
+          <title>II.</title>
+          <title type="sub">II.</title>
+          <p>
+            <w lemma="strong:G2596" morph="robinson:PREP">Κατὰ</w>
+             
+            <w lemma="strong:G5126" morph="robinson:V-PMI-S">τοῦτον</w>
+             
+            <w lemma="strong:G2249" morph="robinson:A-NSM">ἡμεῖς</w>
+             
+            <w lemma="strong:G13389" morph="robinson:V-PMI">γενέσθαι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASF">τὸν</w>
+             
+            <w lemma="strong:G20665" morph="robinson:N-ASM">ὑπέρφωτον</w>
+             
+            <w lemma="strong:G2172" morph="robinson:V-PPI-1P">εὐχόμεθα</w>
+             
+            <w lemma="strong:G1105" morph="robinson:V-PAI-S">γνόφον</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G1223" morph="robinson:PREP">δι’</w>
+             
+            <w lemma="strong:G20834" morph="robinson:V-PMM-2S">ἀβλεψίας</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G56" morph="robinson:P-NPF">ἀγνωσίας</w>
+             
+            <w lemma="strong:G13896" morph="robinson:V-PMO-3P">ἰδεῖν</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VPF">καὶ</w>
+             
+            <w lemma="strong:G20835" morph="robinson:V-PAI">γνῶναι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:I">τὸν</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+             
+            <w lemma="strong:G2299" morph="robinson:A-ASF">θέαν</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G1108" morph="robinson:V-PPI-P">γνῶσιν</w>
+             
+            <w lemma="strong:G846" morph="robinson:V-PAI-2P">αὐτῷ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GSM">τῷ</w>
+             
+            <w lemma="strong:G3361" morph="robinson:V-PMI-2S">μὴ</w>
+             
+            <w lemma="strong:G13896" morph="robinson:V-PAI-2S">ἰδεῖν</w>
+             
+            <w lemma="strong:G3366" morph="robinson:T-GSM">μηδὲ</w>
+             
+            <w lemma="strong:G20835" morph="robinson:V-PAI">γνῶναι</w>
+             — 
+            <w lemma="strong:G5124" morph="robinson:T-NSF">τοῦτο</w>
+             
+            <w lemma="strong:G1063" morph="robinson:N-NSF">γάρ</w>
+             
+            <w lemma="strong:G2076" morph="robinson:V-PAI-3S">ἐστι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-GSM">τὸ</w>
+             
+            <w lemma="strong:G3689" morph="robinson:ADV">ὄντως</w>
+             
+            <w lemma="strong:G13896" morph="robinson:V-PAI-P">ἰδεῖν</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G20835" morph="robinson:V-PAI">γνῶναι</w>
+             — 
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASN">τὸν</w>
+             
+            <w lemma="strong:G20700" morph="robinson:N-ASM">ὑπερούσιον</w>
+             
+            <w lemma="strong:G20708" morph="robinson:N-GSF">ὑπερουσίως</w>
+             
+            <w lemma="strong:G20836" morph="robinson:N-NPF">ὑμνῆσαι</w>
+             
+            <w lemma="strong:G1223" morph="robinson:ADV">διὰ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-NSN">τῆς</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASN">τῶν</w>
+             
+            <w lemma="strong:G19731" morph="robinson:V-PAI-P">ὄντων</w>
+             
+            <w lemma="strong:G20838" morph="robinson:V-PMI-S">ἀφαιρέσεως</w>
+            , 
+            <w lemma="strong:G5618" morph="robinson:ADV">ὥσπερ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:N-NPM">οἱ</w>
+             
+            <w lemma="strong:G20839" morph="robinson:A-GSM">αὐτοφυὲς</w>
+             
+            <w lemma="strong:G20840" morph="robinson:N-ASN">ἄγαλμα</w>
+             
+            <w lemma="strong:G20841" morph="robinson:V-PAI-P">ποιοῦντες</w>
+             
+            <w lemma="strong:G20842" morph="robinson:V-PAI-P">ἐξαιροῦντες</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-S">πάντα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G20843" morph="robinson:V-PAI-S">ἐπιπροσθοῦντα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:CONJ">τῇ</w>
+             
+            <w lemma="strong:G13131" morph="robinson:A-NSM">καθαρᾷ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PPI-2P">τοῦ</w>
+             
+            <w lemma="strong:G20845" morph="robinson:ADV">κρυφίου</w>
+             
+            <w lemma="strong:G2299" morph="robinson:V-PAI">θέᾳ</w>
+             
+            <w lemma="strong:G20846" morph="robinson:N-NPN">κωλύματα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G846" morph="robinson:N-NPF">αὐτὸ</w>
+             
+            <w lemma="strong:G1909" morph="robinson:N-NSF">ἐφ</w>
+            ’ 
+            <w lemma="strong:G1438" morph="robinson:V-PPI-S">ἑαυτοῦ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-DSF">τῇ</w>
+             
+            <w lemma="strong:G20742" morph="robinson:ADV">ἀφαιρέσει</w>
+             
+            <w lemma="strong:G3438" morph="robinson:A-NPF">μόνῃ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASM">τὸ</w>
+             
+            <w lemma="strong:G20848" morph="robinson:A-ASN">ἀποκεκρυμμένον</w>
+             
+            <w lemma="strong:G398" morph="robinson:V-PAI-P">ἀναφαίνοντες</w>
+             
+            <w lemma="strong:G11635" morph="robinson:ADV">κάλλος</w>
+            . 
+            <w lemma="strong:G5534" morph="robinson:V-PMI-3S">Χρὴ</w>
+             
+            <w lemma="strong:G1161" morph="robinson:N-NSM">δέ</w>
+            , 
+            <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+             
+            <w lemma="strong:G13603" morph="robinson:V-PMS-1S">οἶμαι</w>
+            , 
+            <w lemma="strong:G3588" morph="robinson:A-ASM">τὰς</w>
+             
+            <w lemma="strong:G20851" morph="robinson:V-PAI-2S">ἀφαιρέσεις</w>
+             
+            <w lemma="strong:G20852" morph="robinson:PREP">ἐναντίως</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSM">ταῖς</w>
+             
+            <w lemma="strong:G20854" morph="robinson:N-DPF">θέσεσιν</w>
+             
+            <w lemma="strong:G20836" morph="robinson:N-DPF">ὑμνῆσαι·</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+             
+            <w lemma="strong:G1063" morph="robinson:N-NSF">γὰρ</w>
+             
+            <w lemma="strong:G20855" morph="robinson:V-PAI-2S">ἐκείνας</w>
+             
+            <w lemma="strong:G3303" morph="robinson:N-VSM">μὲν</w>
+             
+            <w lemma="strong:G575" morph="robinson:V-PAI-P">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASM">τῶν</w>
+             
+            <w lemma="strong:G20856" morph="robinson:N-GPN">πρωτίστων</w>
+             
+            <w lemma="strong:G756" morph="robinson:V-PMI-P">ἀρχόμενοι</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+             
+            <w lemma="strong:G1223" morph="robinson:ADV">διὰ</w>
+             
+            <w lemma="strong:G3319" morph="robinson:V-PAI-S">μέσων</w>
+             
+            <w lemma="strong:G1909" morph="robinson:V-PPM-2S">ἐπὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G16729" morph="robinson:A-APN">ἔσχατα</w>
+             
+            <w lemma="strong:G20857" morph="robinson:V-PAI-P">κατιόντες</w>
+             
+            <w lemma="strong:G20858" morph="robinson:ADV">ἐτίθεμεν·</w>
+             
+            <w lemma="strong:G1759" morph="robinson:A-DSN">ἐνταῦθα</w>
+             
+            <w lemma="strong:G1161" morph="robinson:N-DSF">δὲ</w>
+             
+            <w lemma="strong:G575" morph="robinson:A-NPN">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+             
+            <w lemma="strong:G2078" morph="robinson:N-GPN">ἐσχάτων</w>
+             
+            <w lemma="strong:G1909" morph="robinson:V-PPI-S">ἐπὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PAM-2S">τὰ</w>
+             
+            <w lemma="strong:G20859" morph="robinson:A">ἀρχικώτατα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-GSM">τὰς</w>
+             
+            <w lemma="strong:G20860" morph="robinson:V-PAI-1P">γνῶμεν</w>
+             
+            <w lemma="strong:G13361" morph="robinson:PREP">ἐκείνην</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GPF">τὴν</w>
+             
+            <w lemma="strong:G56" morph="robinson:N-ASF">ἀγνωσίαν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+             
+            <w lemma="strong:G5259" morph="robinson:ADV">ὑπὸ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GPF">τῶν</w>
+             
+            <w lemma="strong:G1110" morph="robinson:A-ASF">γνωστῶν</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G3956" morph="robinson:N-DPF">πᾶσι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PPI-S">τοῖς</w>
+             οὖσι 
+            <w lemma="strong:G20861" morph="robinson:I">περικεκαλυμμένην</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSM">τὸν</w>
+             
+            <w lemma="strong:G20700" morph="robinson:N-ASM">ὑπερούσιον</w>
+             
+            <w lemma="strong:G1565" morph="robinson:V-PAI-S">ἐκεῖνον</w>
+             
+            <w lemma="strong:G20040" morph="robinson:N-VSM">ἴδωμεν</w>
+             
+            <w lemma="strong:G1105" morph="robinson:V-PAI-S">γνόφον</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASN">τὸν</w>
+             
+            <w lemma="strong:G5259" morph="robinson:ADV">ὑπὸ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:A-APF">παντὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PPI-S">τοῦ</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSM">τοῖς</w>
+             οὖσι 
+            <w lemma="strong:G20862" morph="robinson:N-GSN">φωτὸς</w>
+             
+            <w lemma="strong:G613" morph="robinson:V-PPI-S">ἀποκρυπτόμενον</w>
+            .
+          </p>
+        </div>
+        <div type="section" osisID="III">
+          <title>III.</title>
+          <title type="sub">III.</title>
+          <p>
+            Ἐν 
+            <w lemma="strong:G3303" morph="robinson:N-NSM">μὲν</w>
+             
+            <w lemma="strong:G3767" morph="robinson:ADV">οὖν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSM">ταῖς</w>
+             
+            <w lemma="strong:G20863" morph="robinson:V-PMI-S">Θεολογικαῖς</w>
+             
+            <w lemma="strong:G20864" morph="robinson:N-DPF">Ὑποτυπώσεσι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPN">τὰ</w>
+             
+            <w lemma="strong:G20866" morph="robinson:N-NPN">κυριώτατα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GSF">τῆς</w>
+             
+            <w lemma="strong:G20867" morph="robinson:N-ASF">καταφατικῆς</w>
+             
+            <w lemma="strong:G20664" morph="robinson:A-GS">θεολογίας</w>
+             
+            <w lemma="strong:G5214" morph="robinson:N-VSM">ὑμνήσαμεν</w>
+            , 
+            <w lemma="strong:G4459" morph="robinson:N-GSF">πῶς</w>
+             ἡ 
+            <w lemma="strong:G13455" morph="robinson:A-NPN">θεία</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPM">καὶ</w>
+             
+            <w lemma="strong:G20755" morph="robinson:A-NSF">ἀγαθὴ</w>
+             
+            <w lemma="strong:G5449" morph="robinson:N-NSF">φύσις</w>
+             
+            <w lemma="strong:G20868" morph="robinson:A-NSF">ἑνικὴ</w>
+             
+            <w lemma="strong:G3004" morph="robinson:V-PPI-3S">λέγεται</w>
+            , 
+            <w lemma="strong:G4459" morph="robinson:N-NSM">πῶς</w>
+             
+            <w lemma="strong:G20870" morph="robinson:N-ASF">τριαδική·</w>
+             
+            <w lemma="strong:G5101" morph="robinson:A-NSM">τίς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">ἡ</w>
+             
+            <w lemma="strong:G2596" morph="robinson:ADV">κατ’</w>
+             
+            <w lemma="strong:G846" morph="robinson:ADV">αὐτὴν</w>
+             
+            <w lemma="strong:G3004" morph="robinson:N-NSF">λεγομένη</w>
+             
+            <w lemma="strong:G20871" morph="robinson:V-PMI-3S">πατρότης</w>
+             
+            <w lemma="strong:G5037" morph="robinson:CONJ">τε</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G20872" morph="robinson:N-ASM">υἱότης·</w>
+             
+            <w lemma="strong:G11672" morph="robinson:A-ASF">τί</w>
+             
+            <w lemma="strong:G14109" morph="robinson:V-PMI-3S">βούλεται</w>
+             
+            <w lemma="strong:G20873" morph="robinson:V-PAI-1S">δηλοῦν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:N-GSN">ἡ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-NSF">τοῦ</w>
+             
+            <w lemma="strong:G4151" morph="robinson:N-GSN">πνεύματος</w>
+             
+            <w lemma="strong:G20747" morph="robinson:A-ASF">θεολογία·</w>
+             
+            <w lemma="strong:G4459" morph="robinson:V-PAI-S">πῶς</w>
+             
+            <w lemma="strong:G1537" morph="robinson:V-PAI-2S">ἐκ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PAI-3S">τοῦ</w>
+             
+            <w lemma="strong:G836" morph="robinson:V-PMM-2S">ἀΰλου</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSF">καὶ</w>
+             
+            <w lemma="strong:G20874" morph="robinson:N-VSM">ἀμεροῦς</w>
+             
+            <w lemma="strong:G18" morph="robinson:V-PMI-P">ἀγαθοῦ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G20875" morph="robinson:PREP">ἐγκάρδια</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSF">τῆς</w>
+             
+            <w lemma="strong:G13210" morph="robinson:N-GSN">ἀγαθότητος</w>
+             ἐξέφυ 
+            <w lemma="strong:G20769" morph="robinson:V-PAI-S">φῶτα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-GSF">τῆς</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G846" morph="robinson:P-DPF">αὐτῷ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+             
+            <w lemma="strong:G1722" morph="robinson:CONJ">ἐν</w>
+             
+            <w lemma="strong:G13168" morph="robinson:A-NPM">ἑαυτοῖς</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G12894" morph="robinson:A-DPN">ἀλλήλοις</w>
+             
+            <w lemma="strong:G20876" morph="robinson:A-DSN">συναϊδίου</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-NSF">τῇ</w>
+             
+            <w lemma="strong:G20878" morph="robinson:ADV">ἀναβλαστήσει</w>
+             
+            <w lemma="strong:G3438" morph="robinson:A-NSM">μονῆς</w>
+             
+            <w lemma="strong:G20879" morph="robinson:ADV">ἀπομεμένηκεν</w>
+             
+            <w lemma="strong:G20880" morph="robinson:ADV">ἀνεκφοίτητα·</w>
+             
+            <w lemma="strong:G4459" morph="robinson:A-NSM">πῶς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:I">ὁ</w>
+             
+            <w lemma="strong:G20881" morph="robinson:N-NSM">ὑπερούσιος</w>
+             
+            <w lemma="strong:G2424" morph="robinson:N-GPM">Ἰησοῦς</w>
+             
+            <w lemma="strong:G20882" morph="robinson:ADV">ἀνθρωποφυϊκαῖς</w>
+             
+            <w lemma="strong:G20884" morph="robinson:P-DPF">ἀληθείαις</w>
+             
+            <w lemma="strong:G20885" morph="robinson:V-PPI-3P">οὐσίωται</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+             
+            <w lemma="strong:G12772" morph="robinson:V-PAI-P">ὅσα</w>
+             
+            <w lemma="strong:G235" morph="robinson:A-NPN">ἄλλα</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASM">τῶν</w>
+             
+            <w lemma="strong:G3051" morph="robinson:N-GSM">λογίων</w>
+             
+            <w lemma="strong:G20887" morph="robinson:N-ASF">ἐκπεφασμένα</w>
+             
+            <w lemma="strong:G2596" morph="robinson:ADV">κατὰ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASM">τὰς</w>
+             
+            <w lemma="strong:G20888" morph="robinson:A-GS">Θεολογικὰς</w>
+             
+            <w lemma="strong:G20889" morph="robinson:N-APF">Ὑποτυπώσεις</w>
+             
+            <w lemma="strong:G20890" morph="robinson:V-PPI-3S">ὕμνηται</w>
+            . Ἐν 
+            <w lemma="strong:G1161" morph="robinson:ADV">δὲ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PAI-P">τῷ</w>
+             
+            <w lemma="strong:G4012" morph="robinson:N-GSN">Περὶ</w>
+             
+            <w lemma="strong:G2303" morph="robinson:N-GPM">Θείων</w>
+             
+            <w lemma="strong:G3686" morph="robinson:V-PAI-P">Ὀνομάτων</w>
+            , 
+            <w lemma="strong:G4459" morph="robinson:N-NSM">πῶς</w>
+             
+            <w lemma="strong:G18" morph="robinson:A-ASF">ἀγαθὸς</w>
+             
+            <w lemma="strong:G20891" morph="robinson:V-PPI-3S">ὀνομάζεται</w>
+            , 
+            <w lemma="strong:G4459" morph="robinson:A-NSM">πῶς</w>
+             
+            <w lemma="strong:G5607" morph="robinson:N-ASF">ὤν</w>
+            , 
+            <w lemma="strong:G4459" morph="robinson:N-GSF">πῶς</w>
+             
+            <w lemma="strong:G2222" morph="robinson:N-VSM">ζωὴ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G4678" morph="robinson:V-PAI-3S">σοφία</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G1411" morph="robinson:N-NSF">δύναμις</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G12772" morph="robinson:T-NSF">ὅσα</w>
+             
+            <w lemma="strong:G235" morph="robinson:A-NPN">ἄλλα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NSF">τῆς</w>
+             
+            <w lemma="strong:G20892" morph="robinson:N-NSF">νοητῆς</w>
+             
+            <w lemma="strong:G2076" morph="robinson:V-PAI-3S">ἐστι</w>
+             
+            <w lemma="strong:G20893" morph="robinson:N-GSN">θεωνυμίας</w>
+            . Ἐν 
+            <w lemma="strong:G1161" morph="robinson:N-NSN">δὲ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τῇ</w>
+             
+            <w lemma="strong:G20894" morph="robinson:N-NSF">Συμβολικῇ</w>
+             
+            <w lemma="strong:G20747" morph="robinson:N-DPF">Θεολογίᾳ</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NPF">αἱ</w>
+             
+            <w lemma="strong:G575" morph="robinson:V-PAI-P">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASF">τῶν</w>
+             
+            <w lemma="strong:G20895" morph="robinson:N-GPN">αἰσθητῶν</w>
+             
+            <w lemma="strong:G1909" morph="robinson:V-PAI-1S">ἐπὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G20768" morph="robinson:N-APN">θεῖα</w>
+             
+            <w lemma="strong:G20896" morph="robinson:CONJ">μετωνυμίαι</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G20713" morph="robinson:A-NPF">θεῖαι</w>
+             μορφαί, 
+            <w lemma="strong:G12776" morph="robinson:T-GPF">τίνα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G20768" morph="robinson:A-NPN">θεῖα</w>
+             
+            <w lemma="strong:G4976" morph="robinson:N-APN">σχήματα</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G17269" morph="robinson:N-NSF">μέρη</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G14623" morph="robinson:N-NPN">ὄργανα</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NPM">οἱ</w>
+             
+            <w lemma="strong:G2304" morph="robinson:N-NPM">θεῖοι</w>
+             
+            <w lemma="strong:G5117" morph="robinson:N-NPM">τόποι</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSN">καὶ</w>
+             
+            <w lemma="strong:G2889" morph="robinson:A-NPM">κόσμοι</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:A-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588">οἱ</w>
+             
+            <w lemma="strong:G2372" morph="robinson:I">θυμοί</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G3077" morph="robinson:N-NPF">λῦπαι</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G20898" morph="robinson:N-NPF">μήνιδες</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPF">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G3178" morph="robinson:V-PMI">μέθαι</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G2897" morph="robinson:N-NPF">κραιπάλαι</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588">οἱ</w>
+             
+            <w lemma="strong:G3727" morph="robinson:N-NPM">ὅρκοι</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G10033" morph="robinson:N-NPF">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G142" morph="robinson:P-NPF">ἀραί</w>
+            , 
+            <w lemma="strong:G10033" morph="robinson:N-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSF">οἱ</w>
+             
+            <w lemma="strong:G5258" morph="robinson:N-NPM">ὕπνοι</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G10033" morph="robinson:P-NPM">τίνες</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-NPF">αἱ</w>
+             
+            <w lemma="strong:G20899" morph="robinson:N-NPF">ἐγρηγόρσεις</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G20901" morph="robinson:V-PAI-P">ὅσαι</w>
+             
+            <w lemma="strong:G17080" morph="robinson:T-NPF">ἄλλαι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:N-NPF">τῆς</w>
+             
+            <w lemma="strong:G20902" morph="robinson:N-APN">συμβολικῆς</w>
+             
+            <w lemma="strong:G1526" morph="robinson:ADV">εἰσι</w>
+             
+            <w lemma="strong:G20903" morph="robinson:V-PAS-2S">θεοτυπίας</w>
+             
+            <w lemma="strong:G20904" morph="robinson:P-NSF">ἱερόπλαστοι</w>
+             
+            <w lemma="strong:G20905" morph="robinson:V-FAI-2S">μορφώσεις</w>
+            . 
+          </p>
+          <p>
+            <w lemma="strong:G2532" morph="robinson:V-PAI-1S">Καί</w>
+             
+            <w lemma="strong:G4571" morph="robinson:P-ASM">σε</w>
+             
+            <w lemma="strong:G3633" morph="robinson:V-FMI-1S">οἴομαι</w>
+             
+            <w lemma="strong:G20906" morph="robinson:N-VSF">συνεωρακέναι</w>
+            , 
+            <w lemma="strong:G4459" morph="robinson:N-NSM">πῶς</w>
+             
+            <w lemma="strong:G20908" morph="robinson:A-APM">πολυλογώτερα</w>
+             
+            <w lemma="strong:G3123" morph="robinson:CONJ">μᾶλλόν</w>
+             
+            <w lemma="strong:G2076" morph="robinson:V-PAI-3S">ἐστι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G16729" morph="robinson:A-APN">ἔσχατα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSN">τῶν</w>
+             
+            <w lemma="strong:G4412" morph="robinson:ADV">πρώτων·</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G1063" morph="robinson:N-NPF">γὰρ</w>
+             
+            <w lemma="strong:G20909" morph="robinson:ADV">ἐχρῆν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰς</w>
+             
+            <w lemma="strong:G20888" morph="robinson:A-DSN">Θεολογικὰς</w>
+             
+            <w lemma="strong:G20889" morph="robinson:V-FAI-2S">Ὑποτυπώσεις</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASM">τὴν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-DPM">τῶν</w>
+             
+            <w lemma="strong:G2303" morph="robinson:N-GPM">Θείων</w>
+             
+            <w lemma="strong:G3686" morph="robinson:V-PAI-P">Ὀνομάτων</w>
+             
+            <w lemma="strong:G20911" morph="robinson:P-DPM">ἀνάπτυξιν</w>
+             
+            <w lemma="strong:G20913" morph="robinson:A-NPN">βραχυλογώτερα</w>
+             
+            <w lemma="strong:G1511">εἶναι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PMI-P">τῆς</w>
+             
+            <w lemma="strong:G20902" morph="robinson:T-APF">Συμβολικῆς</w>
+             
+            <w lemma="strong:G20664" morph="robinson:N-APM">Θεολογίας</w>
+            . 
+            <w lemma="strong:G1897" morph="robinson:ADV">Ἐπείπερ</w>
+             
+            <w lemma="strong:G3745" morph="robinson:P-DSM">ὅσῳ</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-APN">τὸ</w>
+             
+            <w lemma="strong:G20914" morph="robinson:V-PAI-P">ἄναντες</w>
+             
+            <w lemma="strong:G20916" morph="robinson:V-PAS-1P">ἀνανεύομεν</w>
+            , 
+            <w lemma="strong:G5118" morph="robinson:A-ASN">τοσοῦτον</w>
+             
+            <w lemma="strong:G3588" morph="robinson:N-NPM">οἱ</w>
+             
+            <w lemma="strong:G3056" morph="robinson:N-NPF">λόγοι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PPI-3S">ταῖς</w>
+             
+            <w lemma="strong:G20918" morph="robinson:N-DPF">συνόψεσι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASF">τῶν</w>
+             
+            <w lemma="strong:G20919" morph="robinson:A-NSF">νοητῶν</w>
+             
+            <w lemma="strong:G20920" morph="robinson:V-PAI-3S">περιστέλλονται·</w>
+             
+            <w lemma="strong:G2509" morph="robinson:ADV">καθάπερ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSF">καὶ</w>
+             
+            <w lemma="strong:G3568" morph="robinson:V-PAI">νῦν</w>
+             εἰς 
+            <w lemma="strong:G3588" morph="robinson:V-PAI-S">τὸν</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-NPM">ὑπὲρ</w>
+             
+            <w lemma="strong:G13990" morph="robinson:N-VSM">νοῦν</w>
+             
+            <w lemma="strong:G20821" morph="robinson:V-PAI-P">εἰσδύνοντες</w>
+             
+            <w lemma="strong:G1105" morph="robinson:N-ASM">γνόφον</w>
+             
+            <w lemma="strong:G3756" morph="robinson:ADV">οὐ</w>
+             
+            <w lemma="strong:G20923" morph="robinson:ADV">βραχυλογίαν</w>
+            , 
+            <w lemma="strong:G235" morph="robinson:N">ἀλλ</w>
+            ’ 
+            <w lemma="strong:G20925" morph="robinson:ADV">ἀλογίαν</w>
+             παντελῆ 
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G20927" morph="robinson:A-NSN">ἀνοησίαν</w>
+             
+            <w lemma="strong:G12975" morph="robinson:V-FAI-1P">εὑρήσομεν</w>
+            . 
+            <w lemma="strong:G2546" morph="robinson:A-VSM">Κἀκεῖ</w>
+             
+            <w lemma="strong:G3303" morph="robinson:N-VSM">μὲν</w>
+             
+            <w lemma="strong:G575" morph="robinson:V-PMI-1P">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-APN">τοῦ</w>
+             
+            <w lemma="strong:G507" morph="robinson:V-PAI-1S">ἄνω</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G2078" morph="robinson:A-APN">ἔσχατα</w>
+             
+            <w lemma="strong:G20928" morph="robinson:PREP">κατιὼν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">ὁ</w>
+             
+            <w lemma="strong:G3056" morph="robinson:N-NSM">λόγος</w>
+             
+            <w lemma="strong:G2596" morph="robinson:PREP">κατὰ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-APN">τὸ</w>
+             
+            <w lemma="strong:G4214" morph="robinson:ADV">ποσὸν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-DPF">τῆς</w>
+             
+            <w lemma="strong:G20930" morph="robinson:ADV">καθόδου</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G20932" morph="robinson:A-AS">ἀνάλογον</w>
+             
+            <w lemma="strong:G4128" morph="robinson:N-NSN">πλῆθος</w>
+             
+            <w lemma="strong:G20933" morph="robinson:V-PPI-P">ηὐρύνετο·</w>
+             
+            <w lemma="strong:G3568" morph="robinson:V-PAM-2S">νῦν</w>
+             
+            <w lemma="strong:G1161" morph="robinson:V-PAM-2S">δὲ</w>
+             
+            <w lemma="strong:G575" morph="robinson:A-NPN">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+             
+            <w lemma="strong:G2736" morph="robinson:V-PAM-3S">κάτω</w>
+             
+            <w lemma="strong:G4314" morph="robinson:ADV">πρὸς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GSN">τὸ</w>
+             
+            <w lemma="strong:G20934" morph="robinson:N-VSN">ὑπερκείμενον</w>
+             
+            <w lemma="strong:G20936" morph="robinson:V-PAI-S">ἀνιὼν</w>
+             
+            <w lemma="strong:G2596" morph="robinson:PREP">κατὰ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GSM">τὸ</w>
+             
+            <w lemma="strong:G3358" morph="robinson:N-ASN">μέτρον</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PPI-3P">τῆς</w>
+             
+            <w lemma="strong:G20938" morph="robinson:N-GSM">ἀνόδου</w>
+             
+            <w lemma="strong:G4958" morph="robinson:V-PPI-3S">συστέλλεται</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G3326" morph="robinson:PREP">μετὰ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-3P">πᾶσαν</w>
+             
+            <w lemma="strong:G20938" morph="robinson:N-ASF">ἄνοδον</w>
+             
+            <w lemma="strong:G3654" morph="robinson:ADV">ὅλως</w>
+             
+            <w lemma="strong:G880" morph="robinson:A-GSM">ἄφωνος</w>
+             
+            <w lemma="strong:G2071" morph="robinson:V-PPI-3S">ἔσται</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G3654" morph="robinson:ADV">ὅλως</w>
+             
+            <w lemma="strong:G20942" morph="robinson:V-FPI-3S">ἑνωθήσεται</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GSM">τῷ</w>
+             
+            <w lemma="strong:G20943" morph="robinson:CONJ">ἀφθέγκτῳ.</w>
+          </p>
+          <p>
+            <w lemma="strong:G1223" morph="robinson:I">Διὰ</w>
+             
+            <w lemma="strong:G11672" morph="robinson:T-DSF">τί</w>
+             
+            <w lemma="strong:G1161" morph="robinson:N-NSN">δὲ</w>
+             
+            <w lemma="strong:G3654" morph="robinson:ADV">ὅλως</w>
+            , 
+            <w lemma="strong:G20944" morph="robinson:V-PAI-S">φῄς</w>
+            , 
+            <w lemma="strong:G575" morph="robinson:V-PMO-3S">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSM">τοῦ</w>
+             
+            <w lemma="strong:G20946" morph="robinson:A-GSF">πρωτίστου</w>
+             
+            <w lemma="strong:G20948" morph="robinson:V-PMI-P">θέμενοι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-APF">τὰς</w>
+             
+            <w lemma="strong:G20949" morph="robinson:V-PAI-2S">θείας</w>
+             
+            <w lemma="strong:G20950" morph="robinson:N-APF">θέσεις</w>
+             
+            <w lemma="strong:G575" morph="robinson:V-PAI-P">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+             
+            <w lemma="strong:G2078" morph="robinson:N-GPN">ἐσχάτων</w>
+             
+            <w lemma="strong:G756" morph="robinson:V-PMI-1P">ἀρχόμεθα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-GPF">τῆς</w>
+             
+            <w lemma="strong:G20949" morph="robinson:V-PAI-2S">θείας</w>
+             
+            <w lemma="strong:G20837" morph="robinson:P-GSM">ἀφαιρέσεως</w>
+            ; 
+            <w lemma="strong:G3754" morph="robinson:P-DSN">Ὅτι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-APN">τὸ</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-APN">ὑπὲρ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:T-ASF">πᾶσαν</w>
+             
+            <w lemma="strong:G20952" morph="robinson:V-PAI-S">τιθέντας</w>
+             
+            <w lemma="strong:G17543" morph="robinson:N-ASF">θέσιν</w>
+             
+            <w lemma="strong:G575" morph="robinson:V-PAS-1P">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PAM-2P">τοῦ</w>
+             
+            <w lemma="strong:G3123" morph="robinson:N-ASM">μᾶλλον</w>
+             
+            <w lemma="strong:G846" morph="robinson:V-PMM-2S">αὐτῷ</w>
+             
+            <w lemma="strong:G20953" morph="robinson:N-GSM">συγγενεστέρου</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASM">τὴν</w>
+             
+            <w lemma="strong:G20954" morph="robinson:N-ASM">ὑποθετικὴν</w>
+             
+            <w lemma="strong:G20956" morph="robinson:N-ASF">κατάφασιν</w>
+             
+            <w lemma="strong:G20957" morph="robinson:ADV">ἐχρῆν</w>
+             
+            <w lemma="strong:G20727" morph="robinson:V-PPI-S">τιθέναι·</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-APN">τὸ</w>
+             
+            <w lemma="strong:G1161" morph="robinson:ADV">δὲ</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-VSM">ὑπὲρ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-S">πᾶσαν</w>
+             
+            <w lemma="strong:G20741" morph="robinson:N-ASF">ἀφαίρεσιν</w>
+             
+            <w lemma="strong:G20958" morph="robinson:V-PAI-P">ἀφαιροῦντας</w>
+             
+            <w lemma="strong:G575" morph="robinson:V-PMI-1P">ἀπὸ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-ASF">τῶν</w>
+             
+            <w lemma="strong:G3123" morph="robinson:N-ASM">μᾶλλον</w>
+             
+            <w lemma="strong:G846" morph="robinson:P-NSF">αὐτοῦ</w>
+             
+            <w lemma="strong:G20959" morph="robinson:N">διεστηκότων</w>
+             ἀφαιρεῖν. 
+            <w lemma="strong:G2228" morph="robinson:V-PAI-3S">Ἢ</w>
+             
+            <w lemma="strong:G3780" morph="robinson:N-GPM">οὐχὶ</w>
+             
+            <w lemma="strong:G3123" morph="robinson:A">μᾶλλόν</w>
+             
+            <w lemma="strong:G2076" morph="robinson:V-PAI-3S">ἐστι</w>
+             
+            <w lemma="strong:G2222" morph="robinson:V-PAI-3S">ζωὴ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G20960" morph="robinson:N-NSM">ἀγαθότης</w>
+             ἢ 
+            <w lemma="strong:G109" morph="robinson:N-NSM">ἀὴρ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3037" morph="robinson:N-NSN">λίθος</w>
+            ; 
+            <w lemma="strong:G2532" morph="robinson:N-NSM">Καὶ</w>
+             
+            <w lemma="strong:G3123" morph="robinson:ADV">μᾶλλον</w>
+             
+            <w lemma="strong:G3756" morph="robinson:ADV">οὐ</w>
+             
+            <w lemma="strong:G20961" morph="robinson:ADV">κραιπαλᾷ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G3756" morph="robinson:T-NPM">οὐ</w>
+             
+            <w lemma="strong:G20962" morph="robinson:N-NPN">μηνιᾷ</w>
+             ἢ 
+            <w lemma="strong:G3756" morph="robinson:I">οὐ</w>
+             
+            <w lemma="strong:G3004" morph="robinson:V-PPI-3S">λέγεται</w>
+             
+            <w lemma="strong:G3761" morph="robinson:P-NPM">οὐδὲ</w>
+             
+            <w lemma="strong:G20963" morph="robinson:V-PPI-3S">νοεῖται</w>
+            ;
+          </p>
+        </div>
+        <div type="section" osisID="IV">
+          <title>IV.</title>
+          <title type="sub">IV.</title>
+          <p>
+            <w lemma="strong:G13202" morph="robinson:V-PAI-1P">Λέγομεν</w>
+             
+            <w lemma="strong:G3767" morph="robinson:ADV">οὖν</w>
+            , 
+            <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">ἡ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G156" morph="robinson:ADV">αἰτία</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NPF">καὶ</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντα</w>
+             οὖσα 
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20964" morph="robinson:ADV">ἀνούσιός</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:N-ASF">οὔτε</w>
+             
+            <w lemma="strong:G20965" morph="robinson:N-GSM">ἄζωος</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:P-NPM">οὔτε</w>
+             
+            <w lemma="strong:G249" morph="robinson:N-GSN">ἄλογος</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PPI-P">οὔτε</w>
+             
+            <w lemma="strong:G20966" morph="robinson:N-VPM">ἄνους·</w>
+             
+            <w lemma="strong:G3761" morph="robinson:N-GSM">οὐδὲ</w>
+             
+            <w lemma="strong:G4983" morph="robinson:N-NSF">σῶμά</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAM-2P">οὔτε</w>
+             
+            <w lemma="strong:G4976" morph="robinson:N-ASN">σχῆμα</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:A-ASF">οὔτε</w>
+             
+            <w lemma="strong:G1491" morph="robinson:N-GSF">εἶδος</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20968" morph="robinson:A-ASF">ποιότητα</w>
+             ἢ 
+            <w lemma="strong:G12072" morph="robinson:N-APN">ποσότητα</w>
+             ἢ 
+            <w lemma="strong:G3591" morph="robinson:N-ASM">ὄγκον</w>
+             ἔχει· 
+            <w lemma="strong:G3761" morph="robinson:N-VSM">οὐδὲ</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G5117" morph="robinson:ADV">τόπῳ</w>
+             
+            <w lemma="strong:G2076" morph="robinson:ADV">ἐστὶν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:I">οὔτε</w>
+             
+            <w lemma="strong:G20969" morph="robinson:V-PPI-3P">ὁρᾶται</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20970" morph="robinson:ADV">ἐπαφὴν</w>
+             
+            <w lemma="strong:G20972" morph="robinson:ADV">αἰσθητὴν</w>
+             ἔχει· 
+            <w lemma="strong:G3761" morph="robinson:N-VSM">οὐδὲ</w>
+             
+            <w lemma="strong:G143" morph="robinson:P-APF">αἰσθάνεται</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20974" morph="robinson:ADV">αἰσθητή</w>
+             
+            <w lemma="strong:G2076" morph="robinson:T-GSM">ἐστιν·</w>
+             
+            <w lemma="strong:G3761" morph="robinson:N-GSM">οὐδὲ</w>
+             
+            <w lemma="strong:G20976" morph="robinson:A-ASF">ἀταξίαν</w>
+             
+            <w lemma="strong:G2192" morph="robinson:V-PAI-3S">ἔχει</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-NSM">καὶ</w>
+             
+            <w lemma="strong:G5016" morph="robinson:V-PPI-P">ταραχήν</w>
+            , 
+            <w lemma="strong:G5259" morph="robinson:N-VSM">ὑπὸ</w>
+             
+            <w lemma="strong:G3806" morph="robinson:I">παθῶν</w>
+             
+            <w lemma="strong:G20977" morph="robinson:V-PAM-2S">ὑλικῶν</w>
+             
+            <w lemma="strong:G20978" morph="robinson:N-NSF">ἐνοχλουμένη</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:P-GSM">οὔτε</w>
+             
+            <w lemma="strong:G20979" morph="robinson:ADV">ἀδύναμός</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+            , 
+            <w lemma="strong:G20980" morph="robinson:P-DPM">αἰσθητοῖς</w>
+             
+            <w lemma="strong:G20981" morph="robinson:N-NSF">ὑποκειμένη</w>
+             
+            <w lemma="strong:G20983" morph="robinson:N-DPN">συμπτώμασιν</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:P-NSF">οὔτε</w>
+             
+            <w lemma="strong:G1722">ἐν</w>
+             
+            <w lemma="strong:G20984" morph="robinson:V-PAI">ἐνδείᾳ</w>
+             
+            <w lemma="strong:G2076" morph="robinson:P-GSF">ἐστὶ</w>
+             
+            <w lemma="strong:G20985" morph="robinson:N-DSN">φωτός·</w>
+             
+            <w lemma="strong:G3761" morph="robinson:A-ASF">οὐδὲ</w>
+             
+            <w lemma="strong:G20987" morph="robinson:P-ASM">ἀλλοίωσιν</w>
+             ἢ 
+            <w lemma="strong:G5356" morph="robinson:N-ASM">φθορὰν</w>
+             ἢ μερισμὸν ἢ 
+            <w lemma="strong:G20989" morph="robinson:N-ASF">στέρησιν</w>
+             ἢ 
+            <w lemma="strong:G20990" morph="robinson:N-DPN">ῥεῦσιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAM-2P">οὔτε</w>
+             
+            <w lemma="strong:G12798" morph="robinson:A-NSN">ἄλλο</w>
+             
+            <w lemma="strong:G5101" morph="robinson:T-NSN">τι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASN">τῶν</w>
+             
+            <w lemma="strong:G20895" morph="robinson:N">αἰσθητῶν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAI-S">οὔτε</w>
+             
+            <w lemma="strong:G2076" morph="robinson:ADV">ἐστὶν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G2192" morph="robinson:V-PAI-3S">ἔχει</w>
+            .
+          </p>
+        </div>
+        <div type="section" osisID="V">
+          <title>V.</title>
+          <title type="sub">V.</title>
+          <p>
+            <w lemma="strong:G20750" morph="robinson:N-DPF">Αὖθις</w>
+             
+            <w lemma="strong:G1161" morph="robinson:P-DSM">δὲ</w>
+             
+            <w lemma="strong:G20991" morph="robinson:V-PAI-P">ἀνιόντες</w>
+             
+            <w lemma="strong:G3004" morph="robinson:V-PAI-1P">λέγομεν</w>
+            , 
+            <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAI-P">οὔτε</w>
+             
+            <w lemma="strong:G5590" morph="robinson:ADV">ψυχή</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G3563" morph="robinson:N-NSM">νοῦς</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:V-PAI-1S">οὔτε</w>
+             
+            <w lemma="strong:G5325" morph="robinson:N-ASF">φαντασίαν</w>
+             ἢ 
+            <w lemma="strong:G1391" morph="robinson:V-PAM-2S">δόξαν</w>
+             ἢ 
+            <w lemma="strong:G3056" morph="robinson:V-PAM-2S">λόγον</w>
+             ἢ 
+            <w lemma="strong:G20758" morph="robinson:N-ASF">νόησιν</w>
+             ἔχει· 
+            <w lemma="strong:G3761" morph="robinson:ADV">οὐδὲ</w>
+             
+            <w lemma="strong:G3056" morph="robinson:N-NSM">λόγος</w>
+             
+            <w lemma="strong:G2076" morph="robinson:ADV">ἐστὶν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20758" morph="robinson:N-NSF">νόησις</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:V-PAI-1S">οὔτε</w>
+             
+            <w lemma="strong:G3004" morph="robinson:V-PPI-3S">λέγεται</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20963" morph="robinson:V-PAI-3S">νοεῖται·</w>
+             
+            <w lemma="strong:G3777" morph="robinson:I">οὔτε</w>
+             
+            <w lemma="strong:G706" morph="robinson:ADV">ἀριθμός</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:CONJ">οὔτε</w>
+             
+            <w lemma="strong:G5010" morph="robinson:N-NSF">τάξις</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:A-ASF">οὔτε</w>
+             
+            <w lemma="strong:G3174" morph="robinson:N-ASN">μέγεθος</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAI-S">οὔτε</w>
+             
+            <w lemma="strong:G20992" morph="robinson:N-GSF">σμικρότης</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:A-ASF">οὔτε</w>
+             
+            <w lemma="strong:G2471" morph="robinson:N-NSM">ἰσότης</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20993" morph="robinson:N-GSF">ἀνισότης</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:N-VSM">οὔτε</w>
+             
+            <w lemma="strong:G3665" morph="robinson:A-NSM">ὁμοιότης</w>
+             ἢ 
+            <w lemma="strong:G20994" morph="robinson:P-DPM">ἀνομοιότης·</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAI-1S">οὔτε</w>
+             
+            <w lemma="strong:G17511" morph="robinson:PREP">ἕστηκεν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:N-ASF">οὔτε</w>
+             
+            <w lemma="strong:G20995" morph="robinson:V-PPI-3P">κινεῖται</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G2271" morph="robinson:A-NPN">ἡσυχίαν</w>
+             
+            <w lemma="strong:G17005" morph="robinson:N-VSM">ἄγει·</w>
+             
+            <w lemma="strong:G3761" morph="robinson:N-VSM">οὐδὲ</w>
+             
+            <w lemma="strong:G2192" morph="robinson:V-PAI-3S">ἔχει</w>
+             
+            <w lemma="strong:G1411" morph="robinson:N-ASF">δύναμιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G1411" morph="robinson:A-ASF">δύναμίς</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAI-P">οὔτε</w>
+             
+            <w lemma="strong:G5457" morph="robinson:N">φῶς·</w>
+             
+            <w lemma="strong:G3777" morph="robinson:I">οὔτε</w>
+             
+            <w lemma="strong:G19685" morph="robinson:N-VSM">ζῇ</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G2222" morph="robinson:V-PAM-2S">ζωή</w>
+             
+            <w lemma="strong:G2076" morph="robinson:CONJ">ἐστιν·</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G3776" morph="robinson:ADV">οὐσία</w>
+             
+            <w lemma="strong:G2076" morph="robinson:ADV">ἐστὶν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             αἰὼν 
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G5550" morph="robinson:N-NSF">χρόνος·</w>
+             
+            <w lemma="strong:G3761" morph="robinson:V-PAI-S">οὐδὲ</w>
+             
+            <w lemma="strong:G20996" morph="robinson:ADV">ἐπαφή</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G846" morph="robinson:A-NSF">αὐτῆς</w>
+             
+            <w lemma="strong:G20997" morph="robinson:A-NSF">νοητὴ</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G10360" morph="robinson:N-ASF">ἐπιστήμη</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:V-PPI-S">οὔτε</w>
+             
+            <w lemma="strong:G225" morph="robinson:ADV">ἀλήθειά</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:A-VSM">οὔτε</w>
+             
+            <w lemma="strong:G932" morph="robinson:N-VSM">βασιλεία</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G4678" morph="robinson:P-ASM">σοφία</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:V-PAI-1S">οὔτε</w>
+             
+            <w lemma="strong:G1520" morph="robinson:A">ἓν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G1775" morph="robinson:A">ἑνότης</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:V-PAI-1S">οὔτε</w>
+             
+            <w lemma="strong:G2320" morph="robinson:N-NSM">θεότης</w>
+             ἢ 
+            <w lemma="strong:G20960" morph="robinson:N-GPN">ἀγαθότης·</w>
+             
+            <w lemma="strong:G3761" morph="robinson:N-GSM">οὐδὲ</w>
+             
+            <w lemma="strong:G4151" morph="robinson:ADV">πνεῦμά</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+            , 
+            <w lemma="strong:G5613" morph="robinson:N-NSM">ὡς</w>
+             
+            <w lemma="strong:G2248" morph="robinson:N-DPF">ἡμᾶς</w>
+             
+            <w lemma="strong:G13014">εἰδέναι</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:P-NPM">οὔτε</w>
+             
+            <w lemma="strong:G20872" morph="robinson:N-NSM">υἱότης</w>
+             
+            <w lemma="strong:G3777" morph="robinson:A-VSM">οὔτε</w>
+             
+            <w lemma="strong:G20871" morph="robinson:PREP">πατρότης</w>
+             
+            <w lemma="strong:G3777" morph="robinson:I">οὔτε</w>
+             
+            <w lemma="strong:G12798" morph="robinson:A-ASN">ἄλλο</w>
+             
+            <w lemma="strong:G5101" morph="robinson:T-NSN">τι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASN">τῶν</w>
+             
+            <w lemma="strong:G2254" morph="robinson:N">ἡμῖν</w>
+             ἢ 
+            <w lemma="strong:G243" morph="robinson:ADV">ἄλλῳ</w>
+             
+            <w lemma="strong:G5101" morph="robinson:A-DSM">τινὶ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GPM">τῶν</w>
+             
+            <w lemma="strong:G19731" morph="robinson:V-PAI-P">ὄντων</w>
+             
+            <w lemma="strong:G20998" morph="robinson:P-ASM">συνεγνωσμένων·</w>
+             οὐδέ 
+            <w lemma="strong:G5101" morph="robinson:A-ASN">τι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASN">τῶν</w>
+             
+            <w lemma="strong:G3756" morph="robinson:P-DSM">οὐκ</w>
+             
+            <w lemma="strong:G19731" morph="robinson:V-PAI-P">ὄντων</w>
+            , οὐδέ 
+            <w lemma="strong:G5101" morph="robinson:A-ASN">τι</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-ASN">τῶν</w>
+             
+            <w lemma="strong:G19731" morph="robinson:V-PAI-P">ὄντων</w>
+             
+            <w lemma="strong:G2076" morph="robinson:V-PAI-S">ἐστίν</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:V-PAI-1S">οὔτε</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-NSF">τὰ</w>
+             
+            <w lemma="strong:G13533" morph="robinson:V-PAI-S">ὄντα</w>
+             
+            <w lemma="strong:G846" morph="robinson:ADV">αὐτὴν</w>
+             
+            <w lemma="strong:G1097" morph="robinson:V-PAI-3S">γινώσκει</w>
+            , 
+            <w lemma="strong:G3739" morph="robinson:V-PAI-P">ᾗ</w>
+             
+            <w lemma="strong:G846" morph="robinson:P-DSM">αὐτή</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:P-NPM">οὔτε</w>
+             
+            <w lemma="strong:G846" morph="robinson:A-NSF">αὐτὴ</w>
+             
+            <w lemma="strong:G1097" morph="robinson:V-PAI-3S">γινώσκει</w>
+             
+            <w lemma="strong:G3588" morph="robinson:ADV">τὰ</w>
+             
+            <w lemma="strong:G13533" morph="robinson:V-PPI-S">ὄντα</w>
+            , 
+            <w lemma="strong:G3739" morph="robinson:A-NPM">ᾗ</w>
+             
+            <w lemma="strong:G13533" morph="robinson:V-PAI-S">ὄντα</w>
+             ἐστίν· 
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G3056" morph="robinson:N-NSF">λόγος</w>
+             
+            <w lemma="strong:G846" morph="robinson:P-DPF">αὐτῆς</w>
+             
+            <w lemma="strong:G2076">ἐστιν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:CONJ">οὔτε</w>
+             
+            <w lemma="strong:G3686" morph="robinson:N-NSN">ὄνομα</w>
+             
+            <w lemma="strong:G3777" morph="robinson:I">οὔτε</w>
+             
+            <w lemma="strong:G1108" morph="robinson:N-VSF">γνῶσις·</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G4655" morph="robinson:V-PMO-3S">σκότος</w>
+             
+            <w lemma="strong:G2076" morph="robinson:PREP">ἐστὶν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G5457" morph="robinson:N-GSF">φῶς</w>
+            , 
+            <w lemma="strong:G3777" morph="robinson:P-NSF">οὔτε</w>
+             
+            <w lemma="strong:G4106" morph="robinson:N-NSF">πλάνη</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PMI-3P">οὔτε</w>
+             
+            <w lemma="strong:G225" morph="robinson:P-NPF">ἀλήθεια·</w>
+             
+            <w lemma="strong:G3777" morph="robinson:V-PAI-S">οὔτε</w>
+             
+            <w lemma="strong:G2076" morph="robinson:ADV">ἐστὶν</w>
+             
+            <w lemma="strong:G846" morph="robinson:N-GSN">αὐτῆς</w>
+             
+            <w lemma="strong:G2527" morph="robinson:ADV">καθόλου</w>
+             
+            <w lemma="strong:G17543" morph="robinson:N-NSF">θέσις</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G20742" morph="robinson:N-NSF">ἀφαίρεσις</w>
+            , 
+            <w lemma="strong:G235" morph="robinson:T-NSF">ἀλλὰ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-ASM">τῶν</w>
+             
+            <w lemma="strong:G3326" morph="robinson:PREP">μετ’</w>
+             
+            <w lemma="strong:G846" morph="robinson:ADV">αὐτὴν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:P-DSF">τὰς</w>
+             
+            <w lemma="strong:G20950" morph="robinson:V-FAI-2S">θέσεις</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-APM">καὶ</w>
+             
+            <w lemma="strong:G20999" morph="robinson:A-APF">ἀφαιρέσεις</w>
+             
+            <w lemma="strong:G20841" morph="robinson:V-PAI-P">ποιοῦντες</w>
+             
+            <w lemma="strong:G846" morph="robinson:P-ASF">αὐτὴν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:P-ASN">οὔτε</w>
+             
+            <w lemma="strong:G21000" morph="robinson:V-PAI-1P">τίθεμεν</w>
+             
+            <w lemma="strong:G3777" morph="robinson:ADV">οὔτε</w>
+             
+            <w lemma="strong:G21001" morph="robinson:V-PAS-1P">ἀφαιροῦμεν</w>
+            , 
+            <w lemma="strong:G1893" morph="robinson:PREP">ἐπεὶ</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-NSM">ὑπὲρ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:A-ASF">πᾶσαν</w>
+             
+            <w lemma="strong:G17543" morph="robinson:N-ASF">θέσιν</w>
+             
+            <w lemma="strong:G2076" morph="robinson:ADV">ἐστὶν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:N-DSN">ἡ</w>
+             
+            <w lemma="strong:G3838" morph="robinson:ADV">παντελὴς</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-VSM">καὶ</w>
+             
+            <w lemma="strong:G21002" morph="robinson:ADV">ἑνιαία</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GP">τῶν</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G156" morph="robinson:ADV">αἰτία</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+             
+            <w lemma="strong:G5228" morph="robinson:N-NSF">ὑπὲρ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-S">πᾶσαν</w>
+             
+            <w lemma="strong:G20741" morph="robinson:N-DPF">ἀφαίρεσιν</w>
+             
+            <w lemma="strong:G3588" morph="robinson:A-DPF">ἡ</w>
+             
+            <w lemma="strong:G5247" morph="robinson:N-VSM">ὑπεροχὴ</w>
+             
+            <w lemma="strong:G3588" morph="robinson:V-PPI-3S">τοῦ</w>
+             
+            <w lemma="strong:G3956" morph="robinson:V-PAI-P">πάντων</w>
+             
+            <w lemma="strong:G574" morph="robinson:V-PAI-S">ἁπλῶς</w>
+             
+            <w lemma="strong:G21003" morph="robinson:ADV">ἀπολελυμένου</w>
+             
+            <w lemma="strong:G2532" morph="robinson:N-GSM">καὶ</w>
+             
+            <w lemma="strong:G1900" morph="robinson:PREP">ἐπέκεινα</w>
+             
+            <w lemma="strong:G3588" morph="robinson:T-GPM">τῶν</w>
+             
+            <w lemma="strong:G3650" morph="robinson:N-GPM">ὅλων</w>
+            . 
+          </p>
+        </div>
+      </div>
+    </div>
+  </osisText>
+</osis>
