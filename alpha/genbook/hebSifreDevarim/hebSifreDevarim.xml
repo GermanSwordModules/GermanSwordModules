@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.bibletechnologies.net/2003/OSIS/namespace http://www.bibletechnologies.net/2003/OSIS/osisCore.2.1.1.xsd">
+  <osisText osisIDWork="hebSifreDevarim" xsi:lang="hbo">
+    <header>
+      <work osisWork="hebSifreDevarim">
+        <title>Sifre Devarim (סִפְרֵי דְּבָרִים)</title>
+        <contributor role="aut">Rabbinische Gelehrte</contributor>
+        <identifier type="OSIS">hebSifreDevarim</identifier>
+        <source>Sefaria – www.sefaria.org</source>
+        <language type="SIL">hbo</language>
+        <rights>Public Domain</rights>
+        <refSystem>Bible</refSystem>
+      </work>
+    </header>
+    <div type="book" osisID="SifreDevarim">
+      <title>Sifre Devarim – סִפְרֵי דְּבָרִים</title>
+    </div>
+  </osisText>
+</osis>
