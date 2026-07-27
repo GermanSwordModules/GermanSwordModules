@@ -72,6 +72,7 @@ This repository contains a build script (``buildAll.sh``) which builds all modul
 | deuMenzelWolfgangChristlicheSymbolik | Christliche Symbolik. (Wolfgang Menzel, 1856)           | https://de.wikisource.org/wiki/Christliche_Symbolik |    ✓    |         | PD                                                                  |
 | deuMuhlHebrew | Hebräisches Wortverzeichnis (Daniel Muhl)          | https://bibelwissen.ch |    ✓    |         | -      
 | deuMuhlGreek | Griechisches Wortverzeichnis (Daniel Muhl)           | https://bibelwissen.ch |    ✓    |         | -      
+| deuRGG1 | Die Religion in Geschichte und Gegenwart (1. Aufl., 1909-1913, Bd. I-V) | archive.org |    ✓    | 10956 Einträge; mehrere manuelle und automatisierte Korrekturdurchgänge (s. Changelog in der .conf), weitere Prüfung ausstehend | PD |
 
 ## Greek Patristic Texts (grc)
 
