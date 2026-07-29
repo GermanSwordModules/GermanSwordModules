@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="FlattichJohannAndachtenPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="FlattichJohannAndachtenPlan"><title>FlattichJohannAndachtenPlan</title></work></header>
+<div osisID="Flattich_Johann_Friedrich_Andachten">
+<title>Flattich, Johann Friedrich – Andachten</title>
+<p>Dies ist ein Leseplan zu Flattich Johann Friedrich: Flattich, Johann Friedrich – Andachten. Der volle Text steht im Modul FlattichJohannAndachten.</p>
+</div>
+</osisText>
+</osis>

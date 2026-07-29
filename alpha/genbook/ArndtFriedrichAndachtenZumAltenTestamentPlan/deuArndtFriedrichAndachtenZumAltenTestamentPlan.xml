@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="ArndtFriedrichAndachtenZumAltenTestamentPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="ArndtFriedrichAndachtenZumAltenTestamentPlan"><title>ArndtFriedrichAndachtenZumAltenTestamentPlan</title></work></header>
+<div osisID="Arndt_Friedrich_Andachten_zum_Alten_Testament">
+<title>Arndt, Friedrich – Andachten zum Alten Testament</title>
+<p>Dies ist ein Leseplan zu Arndt Friedrich: Arndt, Friedrich – Andachten zum Alten Testament. Der volle Text steht im Modul ArndtFriedrichAndachtenZumAltenTestament.</p>
+</div>
+</osisText>
+</osis>

@@ -13,7 +13,7 @@ This repository contains the sources for these modules. Feel free to raise an is
 To use the modules, include the following url to you application:
 
 ```
-https:/sword.luki.org/[stable/alpha/beta]
+https:/sword.luki.org/[alpha/beta]
 ```
 
 Please also visit the LUKI homepage. We are grateful for their support in hosting the repositories!
@@ -73,6 +73,7 @@ This repository contains a build script (``buildAll.sh``) which builds all modul
 | deuMuhlHebrew | Hebräisches Wortverzeichnis (Daniel Muhl)          | https://bibelwissen.ch |    ✓    |         | -      
 | deuMuhlGreek | Griechisches Wortverzeichnis (Daniel Muhl)           | https://bibelwissen.ch |    ✓    |         | -      
 | deuRGG1 | Die Religion in Geschichte und Gegenwart (1. Aufl., 1909-1913, Bd. I-V) | archive.org |    ✓    | 10956 Einträge; mehrere manuelle und automatisierte Korrekturdurchgänge (s. Changelog in der .conf), weitere Prüfung ausstehend | PD |
+| deuRE3 | Realencyklopädie für protestantische Theologie und Kirche (Hauck/Herzog, 3. Aufl., 1896-1913, Bd. I-XXIV) | Digitale Bibliothek Mecklenburg-Vorpommern (Bd. 1-9) und archive.org (Bd. 10-24) | ✓ | 5814 Einträge; Stichwort-Verweise ("s. ...") intern verlinkt; manuelle Durchsicht von OCR-Segmentierungsfehlern (Zweitabsätze, Titelblatt-/Bibliotheksstempel-Reste) über mehrere Korrekturdurchgänge, 982 Einträge noch als `<note type="review">` markiert | PD |
 
 ## Greek Patristic Texts (grc)
 
@@ -149,14 +150,14 @@ OSIS GenBook modules in ancient Greek with Strong's G-numbers and Robinson morph
 | deuBlumhardtChristophAndachtenNeuesTestament | | Blumhardt, Christoph: Andachten zu biblischen Büchern – Neues Altes Testament                                  |                               |    ✓    |         | PD      |
 | deuBöhlEduardDogmatik                        | 1882| Eduard Böhl: CHRISTOLOGIE des ALTEN TESTAMENTES                                                                |                               |    ✓    |         | PD      |
 | deuBöhlEduardDogmatik                        | 1887 | Eduard Böhl: Dogmatik                                                                                          |                               |    ✓    |         | PD      |
-| deuHarmsTheodor3Mo                           |  |Harms, Theodor: Das dritte Buch Mose, kurz ausgelegt.                                                          | www.lesekammer.de             |    ✓    |         | PD      |
+| deuHarmsTheodor3Mo                           |  |Harms, Theodor: Das dritte Buch Mose, kurz ausgelegt.                                                          | [Lesekammer.de](Lesekammer.md)             |    ✓    |         | PD      |
 | deuHarmsTheodorHoh                           | | Harms, Theodor: Das Hohelied, kurz ausgelegt.                                                                  |                               |    ✓    |         | PD      |
 | deuHartensteinKarlOffb                       | | Der wiederkommende Herr. Eine Auslegung der Offenbarung des Johannes für die Gemeinde (Karl Hartenstein, 1954) |                               |    ✓    |         | PD      |
 | deuKählerCarlNicolausPhil                    | | Carl Nikolaus Kähler: Auslegung des Philipperbriefes                                                           |                               |    ✓    |         | PD      |
 | deuKohlbrüggeHermannFriedrichJona            | 1848 | Hermann Friedrich Kohlbrügge: Sieben Predigten über den Propheten Jona 1848                                    | http://www.licht-und-recht.de |    ✓    |         | PD      |
 | deuKohlbrüggeHermannFriedrichWozudasAT       | 1855 | Hermann Friedrich Kohlbrügge: Wozu das Alte Testament?                                                         |                               |    ✓    |         | PD      |
 | deuLutherMartinDergroßeKatechismus           | | Martin Luther: Der große Katechismus - nach der Fassung des deutschen Konkordienbuches (Dresden 1580)          | Sermon                        |    ✓    |         | PD      |
-| deuLutherMartinKirchenjahr                   | | Luther, Martin: Mit Luther durchs Kirchenjahr                                                                  | www.lesekammer.de             |    ✓    |         | PD      |
+| deuLutherMartinKirchenjahr                   | | Luther, Martin: Mit Luther durchs Kirchenjahr                                                                  | [Lesekammer.de](Lesekammer.md)             |    ✓    |         | PD      |
 | deuLutherMartinVaterunser                    | | Luther, Martin: Auslegung deutsch des Vater Unsers, für die einfältigen Laien                                  |                               |    ✓    |         | PD      | 
 | deuLutherMartinVorreden             	      | | Luther, Martin: Vorreden auf biblische Bücher				  |                               |    ✓    |         | PD      | 
 | deuRiggenbachChristophJohannesAmosHosea	| | Riggenbach, Christoph Johannes:  Amos und Hosea	  |                               |    ✓    |         | PD      | 
@@ -172,6 +173,8 @@ OSIS GenBook modules in ancient Greek with Strong's G-numbers and Robinson morph
 | deuWichelhausJohannesVorlesungNT2 | 1876| Johannes Wichelhaus, Akademische Vorlesungen über das Neue Testament, Band II  |                               |    ✓    |         | PD      | 
 | deuWichelhausJohannesVorlesungNT3 | 1884| Johannes Wichelhaus, Akademische Vorlesungen über das Neue Testament, Band IIII |                               |    ✓    |         | PD      | 
 | deuBlassGrammatik | 1896 | Friedrich Blass: Grammatik des Neutestamentlichen Griechisch |                               |        |         | PD      | 
+
+In addition, 1284 books and 9 reading plans from lesekammer.de, see details [here](Lesekammer.md).
 
 
 # Beta

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="TholuckAugustGewissensGlaubensUndGelegenheitspredigtePlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="TholuckAugustGewissensGlaubensUndGelegenheitspredigtePlan"><title>TholuckAugustGewissensGlaubensUndGelegenheitspredigtePlan</title></work></header>
+<div osisID="Tholuck_August_Gewissens_Glaubens_und_Gelegenheitspredigten">
+<title>Tholuck, August – Gewissens-, Glaubens- und Gelegenheitspredigten</title>
+<p>Dies ist ein Leseplan zu Tholuck August: Tholuck, August – Gewissens-, Glaubens- und Gelegenheitspredigten. Der volle Text steht im Modul TholuckAugustGewissensGlaubensUndGelegenheitspredigte.</p>
+</div>
+</osisText>
+</osis>

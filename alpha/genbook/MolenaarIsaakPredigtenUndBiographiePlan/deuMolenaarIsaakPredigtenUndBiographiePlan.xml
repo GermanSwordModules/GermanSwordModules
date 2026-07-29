@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="MolenaarIsaakPredigtenUndBiographiePlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="MolenaarIsaakPredigtenUndBiographiePlan"><title>MolenaarIsaakPredigtenUndBiographiePlan</title></work></header>
+<div osisID="Molenaar_Isaak_Predigten_und_Biographie">
+<title>Molenaar, Isaak – Predigten und Biographie</title>
+<p>Dies ist ein Leseplan zu Molenaar Isaak: Molenaar, Isaak – Predigten und Biographie. Der volle Text steht im Modul MolenaarIsaakPredigtenUndBiographie.</p>
+</div>
+</osisText>
+</osis>

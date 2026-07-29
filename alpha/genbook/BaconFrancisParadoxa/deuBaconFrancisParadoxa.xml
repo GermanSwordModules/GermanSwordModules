@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="BaconFrancisParadoxa" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="BaconFrancisParadoxa"><title>BaconFrancisParadoxa</title></work></header>
+</osisText>
+</osis>

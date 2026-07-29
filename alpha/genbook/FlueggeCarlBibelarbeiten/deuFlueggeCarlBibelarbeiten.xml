@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="FlueggeCarlBibelarbeiten" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="FlueggeCarlBibelarbeiten"><title>FlueggeCarlBibelarbeiten</title></work></header>
+<div osisID="Gott">
+<title>Gott</title>
+<p>Arzt</p>
+<p><reference osisRef="Exod.15.26">2. Mo 15,26</reference></p>
+<p>Burg</p>
+<p><reference osisRef="2Sam.22.2">2. Sam 22,2</reference></p>
+<p>Erbarmer</p>
+<p><reference osisRef="Isa.54.10">Jes 54,10</reference></p>
+<p>Erretter</p>
+<p><reference osisRef="Ps.18.3">Ps. 18,3</reference></p>
+<p>Fels meiner Stärke</p>
+<p><reference osisRef="Ps.62.8">Ps. 62,8</reference></p>
+<p>Feste den Kindern Israels</p>
+<p><reference osisRef="Joel.3.21">Joel 3,21</reference></p>
+<p>Freude</p>
+<p><reference osisRef="Ps.43.4">Ps. 43,4</reference></p>
+<p>Furcht</p>
+<p><reference osisRef="Gen.31.42">1. Mo 31,42</reference></p>
+<p>Gott allen Trostes</p>
+<p><reference osisRef="2Cor.1.3">2. Kor. 1,3</reference></p>
+<p>Gott aller Gnade</p>
+<p><reference osisRef="1Pet.5.10">1. Pet. 5,10</reference></p>
+<p>Gott der Ehren</p>
+<p><reference osisRef="Ps.29.3">Ps. 29,3</reference></p>
+<p>Gott der Herrlichkeit</p>
+<p><reference osisRef="Acts.7.2">Apg. 7,2</reference></p>
+<p>Gott der Hoffnung</p>
+<p><reference osisRef="Rom.15.13">Röm 15,13</reference></p>
+<p>Gott der Geduld</p>
+<p><reference osisRef="Rom.15.5">Röm 15,5</reference></p>
+<p>Gott der Liebe</p>
+<p><reference osisRef="2Cor.13.11">2. Kor. 13,11</reference></p>
+<p>Gott des Friedens</p>
+<p><reference osisRef="2Cor.13.11">2. Kor. 13,11</reference></p>
+<p>Gott und Teil</p>
+<p><reference osisRef="Ps.16.5">Ps. 16,5</reference></p>
+<p>Güte, Schutz, Schild, Hort</p>
+<p><reference osisRef="Ps.144.1-Ps.144.2">Ps. 144,1 - 2</reference></p>
+<p>Heil</p>
+<p><reference osisRef="Job.13.16">Hiob 13,16</reference></p>
+<p>Heiland</p>
+<p><reference osisRef="Ps.17.7">Ps. 17,7</reference></p>
+<p>Hirt</p>
+<p><reference osisRef="Ps.23.1">Ps. 23,1</reference></p>
+<p>Hoffnung</p>
+<p><reference osisRef="Ps.62.6">Ps. 62,6</reference></p>
+<p>Horn unseres Heils</p>
+<p><reference osisRef="Luke.1.69">Luk 1,69</reference></p>
+<p>Hort des Heils</p>
+<p><reference osisRef="Isa.30.29">Jes 30,29</reference></p>
+<p>Hilfe</p>
+<p><reference osisRef="Ps.58.23">Ps. 58,23</reference></p>
+<p>Hüter Israels</p>
+<p><reference osisRef="Ps.121.4">Ps. 121,4</reference></p>
+<p>Kraft</p>
+<p><reference osisRef="Hab.3.19">Hab 3,19</reference></p>
+<p>König der Könige</p>
+<p><reference osisRef="1Tim.6.15">1. Tim. 6,15</reference></p>
+<p>Licht und Leuchte</p>
+<p><reference osisRef="2Sam.22.29">2. Sam 22,29</reference></p>
+<p>Lohn</p>
+<p><reference osisRef="Gen.15.1">1. Mo 15,1</reference></p>
+<p>Mächtiger in Jakob</p>
+<p><reference osisRef="Isa.49.26">Jes 49,26</reference></p>
+<p>Richter</p>
+<p><reference osisRef="Ps.7.9">Ps. 7,9</reference></p>
+<p>Schatten, Hütte, Zuflucht</p>
+<p><reference osisRef="Isa.4.6">Jes 4,6</reference></p>
+<p>Schirm, Schutz</p>
+<p><reference osisRef="Ps.9.10">Ps. 9,10</reference></p>
+<p>Stärke, Psalm, Heil</p>
+<p><reference osisRef="Isa.12.2">Jes 12,2</reference></p>
+<p>Teil und Erbgut</p>
+<p><reference osisRef="Num.18.20">4. Mo 18,20</reference></p>
+<p>Trost und Nothelfer</p>
+<p><reference osisRef="Jer.14.8">Jer 14,8</reference></p>
+<p>Tröster</p>
+<p><reference osisRef="Isa.12.1">Jes 12,1</reference></p>
+<p>Trotz</p>
+<p><reference osisRef="Prov.3.26">Spr 3,26</reference></p>
+<p>Vater</p>
+<p>Mat 6,1</p>
+<p>Wonne und Freude</p>
+<p><reference osisRef="Ps.43.4">Ps. 43,4</reference></p>
+<p>Zuflucht</p>
+<p><reference osisRef="Ps.90.2">Ps. 90,2</reference></p>
+<p>Zuversicht</p>
+<p><reference osisRef="Ps.91.2">Ps. 91,2</reference></p>
+<p>Der Herr, unser Gott, ist ein einiger Gott</p>
+<p><reference osisRef="Mark.12.29">Mark. 12,29</reference></p>
+<p>Ein Geist, ein Herr, ein Gott und Vater</p>
+<p><reference osisRef="Eph.4.4-Eph.4.6">Eph. 4,4-6</reference></p>
+<p>Ein einiger Gott: Vater, Christus, der Geist</p>
+<p><reference osisRef="1Cor.3.16">1. Kor. 3,16</reference>; <reference osisRef="1Cor.8.4-1Cor.8.16">1. Kor. 8,4-16</reference></p>
+<p>Es ist ein einiger Gott, der gerecht macht</p>
+<p><reference osisRef="Rom.3.30">Röm. 3,30</reference></p>
+<p>Gott ist hier, der gerecht macht</p>
+<p><reference osisRef="Rom.8.33">Röm. 8,33</reference></p>
+<p>Gerecht durch Jesum und den Geist Gottes</p>
+<p><reference osisRef="1Cor.6.11">1. Kor. 6,11</reference></p>
+<p>Der alttestamentliche Segen</p>
+<p><reference osisRef="Num.6.24-Num.6.26">4. Mo. 6,24-26</reference></p>
+<p>Der apostolische Segen</p>
+<p><reference osisRef="2Cor.13.13">2. Kor. 13,13</reference></p>
+<p>Der Segen der Offenbarung</p>
+<p>Off. 1,4.5</p>
+<p>Gott, der die Welt gemacht hat</p>
+<p><reference osisRef="Acts.17.24">Apg. 17,24</reference></p>
+<p>Durch Jesum ist alles erschaffen</p>
+<p><reference osisRef="Col.1.15">Kol. 1,15</reference>.16</p>
+<p>Der Geist Gottes hat mich gemacht</p>
+<p><reference osisRef="Job.33.4">Hiob 33,4</reference></p>
+<p>Durch das - Wort - des Herrn und den Geist geschaffen</p>
+<p><reference osisRef="Ps.33.6">Ps. 33,6</reference></p>
+<p>Laßt uns Menschen machen, ein Bild, das uns gleich ist</p>
+<p><reference osisRef="Gen.1.26">1. Mo. 1,26</reference></p>
+<p>Geist, Seele und Leib</p>
+<p>1. Th. 5,23)</p>
+<p>Diese drei sind eins: Vater, Wort, Geist</p>
+<p><reference osisRef="1John.5.7">1. Joh. 5,7</reference></p>
+<p>Wen soll ich senden, wer unser Bote?</p>
+<p><reference osisRef="Isa.6.8">Jes. 6,8</reference></p>
+<p>Gott sprach: Adam ist wie unsereiner</p>
+<p><reference osisRef="Gen.3.22">1. Mo. 3,22</reference></p>
+<p>Laßt uns - Gott schuf; uns gleich - ihm zum Bilde</p>
+<p><reference osisRef="Gen.1.26">1. Mo. 1,26</reference>.27</p>
+<p>Gott der Vater, der Heilige Geist, Jesus Christus</p>
+<p><reference osisRef="1Pet.1.2">1. Pet. 1,2</reference></p>
+<p>Der Geist - des Herrn - über mir</p>
+<p><reference osisRef="Isa.61.1">Jes. 61,1</reference></p>
+<p>Der Geist - der Vater, Jesus</p>
+<p><reference osisRef="Luke.4.18">Luk. 4,18</reference></p>
+<p>Das dreimal Heilig</p>
+<p><reference osisRef="John.12.41">Joh. 12,41</reference></p>
+<p>Jesus - die Stimme des Vaters - der Geist</p>
+<p>Mat. 3,16.17</p>
+<p>Mich - sendet der Herr und - Sein Geist</p>
+<p><reference osisRef="Isa.48.16">Jes. 48,16</reference></p>
+<p>Taufe in den Namen<hi type="super"><note>Nur ein Name, darum auch nur ein einmaliges Hineintauchen in den - nicht dem oder die - Namen</note></hi> des Vaters, des Sohnes und des Heiligen Geistes</p>
+<p>Mat. 28,19</p>
+<p>Deine rechte Hand schirmt und behütet mich</p>
+<p><reference osisRef="Ps.17.7">Ps. 17,7</reference></p>
+<p>Deine Rechte stärkt mich</p>
+<p><reference osisRef="Ps.18.36">Ps. 18,36</reference></p>
+<p>Deine Rechte findet, die dich hassen</p>
+<p><reference osisRef="Ps.21.9">Ps. 21,9</reference></p>
+<p>Deine Rechte half siegen</p>
+<p><reference osisRef="Ps.43.4">Ps. 43,4</reference></p>
+<p>Deine Rechte beweist Wunder</p>
+<p><reference osisRef="Ps.45.5">Ps. 45,5</reference></p>
+<p>Deine rechte Hand erhält mich</p>
+<p><reference osisRef="Ps.63.9">Ps. 63,9</reference></p>
+<p>Seine Rechte, sein heiliger Arm siegt</p>
+<p><reference osisRef="Ps.98.1">Ps. 98,1</reference></p>
+<p>Er kann auch große Dinge tun</p>
+<p><reference osisRef="Joel.2.21">Joel 2,21</reference></p>
+<p>Er kann seligmachen</p>
+<p>Heb 7,25</p>
+<p>Helfen denen, die versucht werden</p>
+<p>Heb 2,18</p>
+<p>Behüten ohne Fehler</p>
+<p>Judas 24</p>
+<p>unsträflich darstellen</p>
+<p>Judas 24</p>
+<p>Was er mir gibt, bewahren</p>
+<p><reference osisRef="2Tim.1.12">2. Tim. 1,12</reference></p>
+<p>Machen, daß allerlei Gnade reichlich sei</p>
+<p><reference osisRef="2Cor.9.8">2. Kor. 9,8</reference></p>
+<p>Machen, daß wir immer genug haben</p>
+<p><reference osisRef="2Cor.9.8">2. Kor. 9,8</reference></p>
+<p>Machen, daß wir reich sind zu guten Werken</p>
+<p><reference osisRef="2Cor.9.8">2. Kor. 9,8</reference></p>
+<p>Tun über Bitten und Verstehen</p>
+<p><reference osisRef="Eph.3.20">Eph 3,20</reference></p>
+<p>Du allein kennst das Herz aller</p>
+<p><reference osisRef="1Kgs.8.39">1. Kön. 8,39</reference></p>
+<p>Er kennt die falschen Leute</p>
+<p><reference osisRef="Job.11.11">Hiob 11,11</reference></p>
+<p>Unsere Gedanken und Pläne</p>
+<p><reference osisRef="Job.21.27">Hiob 21,27</reference></p>
+<p>Er kennt meinen Weg</p>
+<p><reference osisRef="Job.23.10">Hiob 23,10</reference></p>
+<p>Die Werke der Stolzen</p>
+<p><reference osisRef="Job.34.25">Hiob 34,25</reference></p>
+<p>Den Weg der Gerechten</p>
+<p><reference osisRef="Ps.1.6">Ps. 1,6</reference></p>
+<p>Den Tag der Frommen</p>
+<p><reference osisRef="Ps.37.18">Ps. 37,18</reference></p>
+<p>Unseres Herzens Grund</p>
+<p><reference osisRef="Ps.44.22">Ps. 44,22</reference></p>
+<p>Was und wie wir sind</p>
+<p><reference osisRef="Ps.103.14">Ps. 103,14</reference></p>
+<p>Mich, mein Liegen, Sitzen, Gehen</p>
+<p><reference osisRef="Ps.139.1">Ps. 139,1</reference></p>
+<p>Ich kenne seinen Zorn wohl</p>
+<p><reference osisRef="Jer.48.30">Jer 48,30</reference></p>
+<p>Unseres Geistes Gedanken</p>
+<p><reference osisRef="Ezek.11.5">Hes 11,5</reference></p>
+<p>Die, die auf ihn trauen</p>
+<p><reference osisRef="Nah.1.7">Nah 1,7</reference></p>
+<p>Unsere Herzen</p>
+<p><reference osisRef="Luke.16.15">Luk 16,15</reference></p>
+<p>Seine Schafe</p>
+<p><reference osisRef="John.10.27">Joh 10,27</reference></p>
+<p>Der Herr kennt die Seinen</p>
+<p><reference osisRef="2Tim.2.19">2. Tim. 2,19</reference></p>
+<title>Gott der Vater</title>
+<p>Mein Vater im Himmel</p>
+<p>Mat 7,21</p>
+<p>Mein himmlischer Vater</p>
+<p>Mat 10,32</p>
+<p>Ich preise Dich, Vater und Herr</p>
+<p>Mat 11,25</p>
+<p>Weiß niemand, allein der Vater</p>
+<p>Mat 24,36</p>
+<p>Mein Vater, ist es möglich, so</p>
+<p>Mat 26,39</p>
+<p>Muß sein in dem, was meines Vaters ist</p>
+<p><reference osisRef="Luke.2.49">Luk 2,49</reference></p>
+<p>Vater, vergib ihnen</p>
+<p><reference osisRef="Luke.23.34">Luk 23,34</reference></p>
+<p>Meines Vaters Haus</p>
+<p><reference osisRef="John.2.16">Joh 2,16</reference></p>
+<p>Der Vater hat dem Sohn gegeben</p>
+<p><reference osisRef="John.5.26">Joh 5,26</reference></p>
+<p>Ich und der Vater, der mich gesandt hat</p>
+<p><reference osisRef="John.8.16">Joh 8,16</reference></p>
+<p>Mein Vater kennt mich, ich kenne den Vater</p>
+<p><reference osisRef="John.10.15">Joh 10,15</reference></p>
+<p>Niemand kommt zum Vater denn durch mich</p>
+<p><reference osisRef="John.14.6">Joh 14,6</reference></p>
+<p>Mein Vater wird den lieben, der mich liebt</p>
+<p><reference osisRef="John.14.23">Joh 14,23</reference></p>
+<p>Der Vater ist größer als ich</p>
+<p><reference osisRef="John.14.28">Joh 14,28</reference></p>
+<p>Ich und der Vater sind eins</p>
+<p><reference osisRef="John.10.30">Joh 10,30</reference></p>
+<p>Wer mich sieht, sieht den Vater</p>
+<p><reference osisRef="John.14.9">Joh 14,9</reference></p>
+<p>Ich im Vater und der Vater in mir</p>
+<p><reference osisRef="John.14.11">Joh 14,11</reference></p>
+<p>Mein Vater, der Weingärtner</p>
+<p><reference osisRef="John.15.1">Joh 15,1</reference></p>
+<p>Mein Vater wird geehrt, wenn ihr Frucht bringt</p>
+<p><reference osisRef="John.15.8">Joh 15,8</reference></p>
+<p>Heiliger Vater, erhalte sie</p>
+<p><reference osisRef="John.17.11">Joh 17,11</reference></p>
+<p>Vater, Ich will … die Du mir gegeben</p>
+<p><reference osisRef="John.17.24">Joh 17,24</reference></p>
+<p>Der Vater des Lichts</p>
+<p><reference osisRef="Jas.1.17">Jak 1,17</reference></p>
+<p>Gott und der Vater unseres Herrn Jesus Christus</p>
+<p><reference osisRef="1Cor.1.3">1. Kor. 1,3</reference></p>
+<p>Der rechte Vater über alles</p>
+<p><reference osisRef="Eph.3.15">Eph 3,15</reference></p>
+<p>Mein Vater und euer Vater</p>
+<p><reference osisRef="John.20.17">Joh 20,17</reference></p>
+<title>Gott der Sohn</title>
+<p>Du bist mein Sohn</p>
+<p><reference osisRef="Ps.2.7">Ps. 2,7</reference></p>
+<p>Heute habe ich dich gezeugt</p>
+<p>Heb 1,5</p>
+<p>Küßt den Sohn</p>
+<p><reference osisRef="Ps.2.12">Ps. 2,12</reference></p>
+<p>Wie heißt er und wie ist sein Name?</p>
+<p><reference osisRef="Prov.30.4">Spr 30,4</reference></p>
+<p>Mein Sohn, an welchem ich Wohlgefallen habe</p>
+<p>Mat 3,17</p>
+<p>Den Vater kennt nur der Sohn</p>
+<p>Mat 11,27</p>
+<p>Ein Sohn des Höchsten</p>
+<p><reference osisRef="Luke.1.32">Luk 1,32</reference></p>
+<p>Die Herrlichkeit des eingeborenen Sohns</p>
+<p><reference osisRef="John.1.14">Joh 1,14</reference></p>
+<p>Gott gab seinen eingeborenen Sohn</p>
+<p><reference osisRef="John.3.16">Joh 3,16</reference></p>
+<p>Der Vater hat den Sohn lieb</p>
+<p><reference osisRef="John.3.35">Joh 3,35</reference></p>
+<p>Der Vater geehrt in dem Sohn</p>
+<p><reference osisRef="John.14.13">Joh 14,13</reference></p>
+<p>Vater, verkläre deinen Sohn</p>
+<p><reference osisRef="John.17.1">Joh 17,1</reference></p>
+<p>Der Sohn hat das Leben in sich</p>
+<p><reference osisRef="John.5.26">Joh 5,26</reference></p>
+<p>Versöhnt durch den Tod seines Sohnes</p>
+<p><reference osisRef="Rom.5.10">Röm 5,10</reference></p>
+<p>Sein Sohn in der Gestalt des sündigen Fleisches</p>
+<p><reference osisRef="Rom.8.3">Röm 8,3</reference></p>
+<p>Seinen eigenen Sohn dahingegeben für uns</p>
+<p><reference osisRef="Rom.8.29">Röm 8,29</reference></p>
+<p>Sein Sohn, der Erstgeborene unter vielen</p>
+<p><reference osisRef="Rom.8.32">Röm 8,32</reference></p>
+<p>Berufen zur Gemeinschaft seines Sohnes</p>
+<p><reference osisRef="1Cor.1.9">1. Kor. 1,9</reference></p>
+<p>Er offenbarte seinen Sohn in mir</p>
+<p><reference osisRef="Gal.1.16">Gal 1,16</reference></p>
+<p>Das Blut seines Sohnes macht uns rein von aller Sünde</p>
+<p><reference osisRef="1John.1.7">1. Joh. 1,7</reference></p>
+<p>Er predigte, daß Christus Gottes Sohn sei</p>
+<p><reference osisRef="Acts.9.20">Apg. 9,20</reference></p>
+<p>Kräftiglich erwiesen als der Sohn Gottes</p>
+<p><reference osisRef="Rom.1.4">Röm 1,4</reference></p>
+<p>Der Sohn Gottes, der sich selbst für mich</p>
+<p><reference osisRef="Gal.2.20">Gal 2,20</reference></p>
+<p>«Er hat sich selbst zu Gottes Sohn gemacht»</p>
+<p><reference osisRef="John.19.7">Joh 19,7</reference></p>
+<p>Ich glaube, daß Jesus Gottes Sohn ist</p>
+<p><reference osisRef="Acts.8.37">Apg. 8,37</reference></p>
+<p><hi type="bold">Gott</hi></p>
+<p>Mein lieber Sohn</p>
+<p>Mat 17,5</p>
+<p><hi type="bold">Jesus</hi></p>
+<p>Ich bin Gottes Sohn</p>
+<p><reference osisRef="John.10.36">Joh 10,36</reference></p>
+<p><hi type="bold">Der Geist</hi></p>
+<p>Der Sohn Gottes</p>
+<p><reference osisRef="Mark.1.1">Mk. 1,1</reference></p>
+<p><hi type="bold">Gabriel</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="Luke.1.35">Luk 1,35</reference></p>
+<p><hi type="bold">Johannes d. Täufer</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="John.1.34">Joh 1,34</reference></p>
+<p><hi type="bold">Johannes d. Apostel</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="John.1.34">Joh 1,34</reference></p>
+<p><hi type="bold">Petrus</hi></p>
+<p>Sohn Gottes</p>
+<p>Mat 16,16</p>
+<p><hi type="bold">Paulus</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="Acts.9.20">Apg. 9,20</reference></p>
+<p><hi type="bold">Jünger</hi></p>
+<p>Gottes Sohn</p>
+<p>Mat 14,33</p>
+<p><hi type="bold">Nathanael</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="John.1.39">Joh 1,39</reference></p>
+<p><hi type="bold">Martha</hi></p>
+<p>Der Sohn Gottes</p>
+<p><reference osisRef="John.11.27">Joh 11,27</reference></p>
+<p><hi type="bold">Kämmerer</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="Acts.8.37">Apg. 8,37</reference></p>
+<p><hi type="bold">Hauptmann</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="Mark.15.39">Mk. 15,39</reference></p>
+<p><hi type="bold">Unsaubere Geister</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="Mark.5.11">Mk. 5,11</reference></p>
+<p><hi type="bold">Legion</hi></p>
+<p>Gottes Sohn</p>
+<p><reference osisRef="Mark.5.7">Mk. 5,7</reference></p>
+<p>- vom Teufel</p>
+<p>- von seinem Volk</p>
+<p>- von seinen Jüngern</p>
+<p>- von seinen Aposteln</p>
+<p>- von seinem Vater</p>
+<p>Gesetzt zum Erben über alles</p>
+<p>Heb 1,2</p>
+<p>Durch ihn ist die Welt gemacht</p>
+<p>Heb 1,2</p>
+<p>Der Glanz seiner Herrlichkeit</p>
+<p>Heb 1,3</p>
+<p>Ebenbild seines Wesen</p>
+<p>Heb 1,3</p>
+<p>Trägt alle Dinge durch sein Wort</p>
+<p>Heb 1,3</p>
+<p>Machte die Reinigung unserer Sünde</p>
+<p>Heb 1,3</p>
+<p>Gesetzt zur Rechten der Majestät</p>
+<p>Heb 1,3</p>
+<p>Besser geworden denn die Engel</p>
+<p>Heb 1,4</p>
+<p>Ich sein Vater, er mein Sohn</p>
+<p>Heb 1,5</p>
+<p><hi type="bold">a. Reich Jesu</hi></p>
+<p>b. Geist verherrlicht Jesus</p>
+<p>c. Jesus kennen heißt Gott kennen</p>
+<p>d. Jesus sehen heißt Gott sehen</p>
+<p><hi type="bold">e. Jesus glauben heißt Gott glauben</hi></p>
+<p>f. Jesus aufnehmen heißt Gott aufnehmen</p>
+<p>g. Jesus hassen heißt Gott hassen</p>
+<p>h. Jesus ehren heißt Gott ehren</p>
+<p>i. Thomas nennt Jesus Gott</p>
+<p>j. Jesus vergibt Sünden</p>
+<p>Der Sohn</p>
+<p><reference osisRef="1John.4.14">1. Joh. 4,14</reference></p>
+<p>Der Sohn Gottes</p>
+<p><reference osisRef="John.1.34">Joh 1,34</reference></p>
+<p>Der Sohn des lebendigen Gottes</p>
+<p>Mat 16,16</p>
+<p>Der eingeborene Sohn</p>
+<p><reference osisRef="John.3.16">Joh 3,16</reference></p>
+<p>Der eingeborene Sohn Gottes</p>
+<p><reference osisRef="John.3.18">Joh 3,18</reference></p>
+<p>Der Sohn des Vaters</p>
+<p><reference osisRef="2John.1.3">2. Joh. 1,3</reference></p>
+<p>Der eingeborene Sohn vom Vater</p>
+<p><reference osisRef="John.1.14">Joh 1,14</reference></p>
+<p>Der eingeborene Sohn in des Vaters Schoß</p>
+<p><reference osisRef="John.1.18">Joh 1,18</reference></p>
+<p>Der Erstgeborene vor aller Kreatur</p>
+<p><reference osisRef="Col.1.15">Kol 1,15</reference></p>
+<p>Sein eigener Sohn</p>
+<p><reference osisRef="Rom.8.32">Röm 8,32</reference></p>
+<p>Ein Sohn gegeben</p>
+<p><reference osisRef="Isa.9.6">Jes 9,6</reference></p>
+<p>Der einzige Sohn, der war ihm lieb</p>
+<p><reference osisRef="Mark.12.6">Mk. 12,6</reference></p>
+<p>Mein Sohn</p>
+<p><reference osisRef="Ps.2.7">Ps. 2,7</reference></p>
+<p>Mein lieber Sohn</p>
+<p><reference osisRef="Col.1.13">Kol 1,13</reference></p>
+<p>Sohn des Höchsten</p>
+<p><reference osisRef="Luke.1.32">Luk 1,32</reference></p>
+<p>Sohn des Hochgelobten</p>
+<p><reference osisRef="Mark.14.61">Mk. 14,61</reference></p>
+<p>Ich bin das Brot des Lebens</p>
+<p><reference osisRef="John.6.55">Joh 6,55</reference></p>
+<p>Ich bin das Licht der Welt</p>
+<p><reference osisRef="John.8.12">Joh 8,12</reference></p>
+<p>Ich bin die Tür zu den Schafen</p>
+<p><reference osisRef="John.10.7">Joh 10,7</reference></p>
+<p>Ich bin der gute Hirte</p>
+<p><reference osisRef="John.10.11">Joh 10,11</reference></p>
+<p>Ich bin die Auferstehung</p>
+<p><reference osisRef="John.11.25">Joh 11,25</reference></p>
+<p>Ich bin der Weg</p>
+<p><reference osisRef="John.14.6">Joh 14,6</reference></p>
+<p>Ich bin die Wahrheit</p>
+<p><reference osisRef="John.14.6">Joh 14,6</reference></p>
+<p>Ich bin das Leben</p>
+<p><reference osisRef="John.14.6">Joh 14,6</reference></p>
+<p>Ich bin der wahre Weinstock</p>
+<p><reference osisRef="John.15.1">Joh 15,1</reference></p>
+<p>Ehe Abraham war, bin ich</p>
+<p><reference osisRef="John.8.58">Joh 8,58</reference></p>
+<p>Immanuel, d.h. Gott mit uns</p>
+<p>Mat 1,23</p>
+<p>Unser Gott</p>
+<p><reference osisRef="Isa.40.3">Jes 40,3</reference></p>
+<p>Gott</p>
+<p><reference osisRef="John.1.1">Joh 1,1</reference></p>
+<p>Gott, Dein Stuhl währt von Ewigkeit</p>
+<p>Heb 1,8</p>
+<p>Der ewige Gott</p>
+<p><reference osisRef="Isa.40.28">Jes 40,28</reference></p>
+<p>Der wahrhaftige Gott</p>
+<p><reference osisRef="1John.5.20">1. Joh. 5,20</reference></p>
+<p>Mein Herr und mein Gott</p>
+<p><reference osisRef="John.20.28">Joh 20,28</reference></p>
+<p>Gott, mein Heiland</p>
+<p><reference osisRef="Luke.1.47">Luk 1,47</reference></p>
+<p>Gott über alles</p>
+<p><reference osisRef="Rom.9.5">Röm 9,5</reference></p>
+<p>Aller Welt Gott</p>
+<p><reference osisRef="Isa.54.5">Jes 54,5</reference></p>
+<p>Gott offenbart im Fleisch</p>
+<p><reference osisRef="1Tim.3.16">1. Tim. 3,16</reference></p>
+<p>Großer Gott und unser Heiland</p>
+<p><reference osisRef="Titus.2.15">Tit 2,15</reference></p>
+<p>Gott Abrahams, Isaaks und Jakobs</p>
+<p><reference osisRef="Exod.3.2">2. Mo 3,2</reference></p>
+<p>Der Höchste</p>
+<p><reference osisRef="Luke.1.76">Luk 1,76</reference></p>
+<p>- bei der Taufe</p>
+<p>- bei der Verklärung</p>
+<p>- Bei der Auferweckung</p>
+<p>- wird zeugen von mir</p>
+<p>- ist sein Zeuge</p>
+<p>- bei der Geburt</p>
+<p>- vom Tode</p>
+<p>- bei der Auferstehung</p>
+<p>- Alle Propheten</p>
+<p>- Petrus</p>
+<p>- Johannes</p>
+<p>- kam zum Zeugnis</p>
+<p>- wir sind seine Zeugen</p>
+<p>- baten ihn alle</p>
+<p>- sprachen, Du bist Christus</p>
+<p>- die ich tue, zeugen</p>
+<p>- zeugen von mir</p>
+<p>- ist's, die von mir zeugt</p>
+<p>- von mir geschrieben</p>
+<title>Gott der Heilige Geist</title>
+<p>Der Geist Gottes schwebte auf dem Wasser</p>
+<p><reference osisRef="Gen.1.2">1. Mo 1,2</reference></p>
+<p>Wollen sich von meinem Geist nicht strafen lassen</p>
+<p><reference osisRef="Gen.6.3">1. Mo 6,3</reference></p>
+<p>Der Geist, der Gott Israels, hat zu mir</p>
+<p>2. Sa 23,2 - 5</p>
+<p>Erbitterten und entrüsteten seinen Heiligen Geist</p>
+<p><reference osisRef="Isa.63.10">Jes 63,10</reference></p>
+<p>Der Geist Gottes kam über Sacharia</p>
+<p><reference osisRef="2Chr.24.20">2. Chr. 24,20</reference></p>
+<p>Maria ward schwanger von dem Heiligen Geist</p>
+<p>Mat 1,18</p>
+<p>Er ward vom Geist in die Wüste geführt</p>
+<p>Mat 4,1</p>
+<p>Kam auf Jesus gleich einer Taube</p>
+<p><reference osisRef="Mark.1.10">Mk. 1,10</reference></p>
+<p>Ist bei mir, hat mich gesalbt und gesandt</p>
+<p><reference osisRef="Luke.4.18">Luk 4,18</reference></p>
+<p>Ihr redet nicht, der Heilige Geist</p>
+<p><reference osisRef="Mark.13.11">Mk. 13,11</reference></p>
+<p>Der Tröster, vom Vater, wird zeugen</p>
+<p><reference osisRef="John.15.26">Joh 15,26</reference></p>
+<p>Der Geist der Wahrheit wird euch leiten</p>
+<p><reference osisRef="John.16.13">Joh 16,13</reference></p>
+<p>Durch einen Geist zu einem Leib getauft</p>
+<p>1. Ko. 12,13</p>
+<p>Der Geist sprach zu Philippus</p>
+<p><reference osisRef="Acts.8.29">Apg. 8,29</reference></p>
+<p>Es gefällt dem Heiligen Geist und uns</p>
+<p><reference osisRef="Acts.15.18">Apg. 15,18</reference></p>
+<p>Paulus drang der Geist, Jesus zu bezeugen</p>
+<p><reference osisRef="Acts.18.5">Apg. 18,5</reference></p>
+<p>Ihr widerstrebt dem Heiligen Geist</p>
+<p><reference osisRef="Acts.7.51">Apg. 7,51</reference></p>
+<p>Ihnen ward gewehrt vom Heiligen Geist</p>
+<p><reference osisRef="Acts.16.6">Apg. 16,6</reference></p>
+<p>Wer Christi Geist nicht hat, ist nicht sein</p>
+<p><reference osisRef="Rom.8.9">Röm 8,9</reference></p>
+<p>Der Geist hilft unserer Schwachheit</p>
+<p><reference osisRef="Rom.8.26">Röm 8,26</reference></p>
+<p>Der Geist vertritt uns aufs Beste</p>
+<p><reference osisRef="Rom.8.26">Röm 8,26</reference></p>
+<p>Betrübt nicht den Heiligen Geist</p>
+<p><reference osisRef="Eph.4.30">Eph 4,30</reference></p>
+<p>Ja, der Geist spricht</p>
+<p>Off 14,13</p>
+<p>Geredet, getrieben vom Heiligen Geist</p>
+<p><reference osisRef="2Pet.1.21">2. Pet. 1,21</reference></p>
+<p>Gemeinschaft des Heiligen Geistes mit euch</p>
+<p><reference osisRef="2Cor.13.13">2. Kor. 13,13</reference></p>
+</div>
+<div osisID="Bibel_Wort_Gottes">
+<title>Bibel/ Wort Gottes</title>
+<title>Was ist die Bibel</title>
+<p>Heilige Schrift, von Gott eingegeben</p>
+<p><reference osisRef="2Tim.5.16">2. Tim. 5,16</reference></p>
+<p>Schrift, die von Christus zeugt</p>
+<p><reference osisRef="John.5.39">Joh 5,39</reference></p>
+<p>In der man das ewige Leben finden kann</p>
+<p><reference osisRef="John.4.39">Joh 4,39</reference></p>
+<p>Geredet von heiligen Menschen Gottes</p>
+<p><reference osisRef="2Pet.1.21">2. Pet. 1,21</reference></p>
+<p>Auf Antrieb des Heiligen Geistes</p>
+<p><reference osisRef="2Pet.1.21">2. Pet. 1,21</reference></p>
+<p>Göttliche Worte</p>
+<p>Heb 5,12</p>
+<p>Gesetz Moses, Propheten, Psalmen</p>
+<p><reference osisRef="Luke.24.44">Luk 24,44</reference></p>
+<p>Rede von Jesu Tun und Lehre</p>
+<p><reference osisRef="Acts.1.1">Apg. 1,1</reference></p>
+<p>Briefe Pauli und andere Schriften</p>
+<p><reference osisRef="2Pet.3.16">2. Pet. 3,16</reference></p>
+<p>Worte, die der Heilige Geist lehrt</p>
+<p><reference osisRef="1Cor.2.13">1. Kor. 2,13</reference></p>
+<p>Die menschliche Weisheit nicht lehrt</p>
+<p><reference osisRef="1Cor.2.13">1. Kor. 2,13</reference></p>
+<p>Euer Gesetz - die Schrift</p>
+<p><reference osisRef="John.10.35">Joh 10,35</reference></p>
+<p>Die Schrift, uns zur Lehre geschrieben</p>
+<p><reference osisRef="Rom.15.4">Röm 15,4</reference></p>
+<p>Heilige Schrift</p>
+<p><reference osisRef="Rom.1.2">Röm 1,2</reference></p>
+<p>Worte der Wahrheit</p>
+<p><reference osisRef="2Tim.1.13">2. Tim. 1,13</reference></p>
+<p>Worte des Heils</p>
+<p><reference osisRef="Acts.11.36">Apg. 11,36</reference></p>
+<p>Heilsame Worte durch die Apostel</p>
+<p><reference osisRef="2Tim.1.13">2. Tim. 1,13</reference></p>
+<p>Heilsame Worte unseres Herrn Jesus</p>
+<p><reference osisRef="1Tim.6.3">1. Tim. 6,3</reference></p>
+<p>Das Wort Christi</p>
+<p><reference osisRef="Col.3.16">Kol 3,16</reference></p>
+<p>Das Evangelium Christi</p>
+<p><reference osisRef="Gal.1.7">Gal 1,7</reference></p>
+<p>Evangelium durch Offenbarung</p>
+<p><reference osisRef="Gal.1.12">Gal 1,12</reference></p>
+<p>Nicht von Menschen, vom Herrn empfangen</p>
+<p><reference osisRef="Gal.1.12">Gal 1,12</reference></p>
+<p>Satzungen durch unser Wort oder Brief</p>
+<p><reference osisRef="2Thess.2.13">2. Thess. 2,13</reference></p>
+<p>Offenbarung Jesu Christi</p>
+<p>Off 1,1</p>
+<p>Nicht aus menschlichem Willen</p>
+<p><reference osisRef="2Pet.1.21">2. Pet. 1,21</reference></p>
+<p>Mein Wort, spricht der Herr</p>
+<p><reference osisRef="Jer.23.29">Jer 23,29</reference></p>
+<p>Das Wort Gottes</p>
+<p>Heb 4,12</p>
+<p>Das Wort des Herrn</p>
+<p><reference osisRef="Isa.34.16">Jes 34,16</reference></p>
+<p>Was Gott geredet hat</p>
+<p><reference osisRef="Rom.3.2">Röm 3,2</reference></p>
+<p>Ein festes, prophetisches Wort</p>
+<p><reference osisRef="2Pet.1.19">2. Pet. 1,19</reference></p>
+<p>Eine Leuchte, ein Licht</p>
+<p><reference osisRef="Ps.119.105">Ps. 119,105</reference></p>
+<p>Ein Licht, das scheint im dunklen Ort</p>
+<p><reference osisRef="2Pet.1.19">2. Pet. 1,19</reference></p>
+<p>Mein Wort ein Feuer, ein Hammer</p>
+<p><reference osisRef="Jer.23.29">Jer 23,29</reference></p>
+<p>Schwert des Geistes</p>
+<p><reference osisRef="Eph.6.17">Eph 6,17</reference></p>
+<p>Unsere Speise</p>
+<p><reference osisRef="Jer.15.16">Jer 15,16</reference></p>
+<p>Vernünftige, lautere Milch</p>
+<p><reference osisRef="1Pet.2.2">1. Pet. 2,2</reference></p>
+<p>Ein in uns gepflanztes Wort</p>
+<p><reference osisRef="Jas.1.21">Jak 1,21</reference></p>
+<p>Ein Spiegel</p>
+<p><reference osisRef="Jas.1.23">Jak 1,23</reference></p>
+<p>Schatz in irdenen Gefäßen</p>
+<p><reference osisRef="2Cor.4.7">2. Kor. 4,7</reference></p>
+<p>Richter der Gedanken und Sinne des Herzens</p>
+<p>Heb 4,12</p>
+<p>Jesu Worte, Geist und Leben</p>
+<p><reference osisRef="John.6.63">Joh 6,63</reference></p>
+<p>Unvergänglicher Samen, lebendiges Wort</p>
+<p><reference osisRef="Isa.55.8-Isa.55.55">Jes 55,8 - 55</reference>,11</p>
+<p>Gottes Wort, das ewig bleibt</p>
+<p><reference osisRef="1Pet.1.23">1. Pet. 1,23</reference></p>
+<p>Höre, wenn ich rede</p>
+<p><reference osisRef="Exod.19.9">2. Mo 19,9</reference></p>
+<p>Wir haben die Heilige Schrift vor uns</p>
+<p><reference osisRef="Jer.8.8">Jer 8,8</reference></p>
+<p>Nicht Wahrsager, Zeichendeuter, Spiritisten</p>
+<p><reference osisRef="Deut.18.11">5. Mo 18,11</reference></p>
+<p>Soll ein Volk nicht seinen Gott fragen?</p>
+<p><reference osisRef="Isa.8.19">Jes 8,19</reference></p>
+<p>Ja, nach dem Gesetz und Zeugnis</p>
+<p><reference osisRef="Isa.8.20">Jes 8,20</reference></p>
+<p>Ihr irrt, weil ihr die Schrift nicht wißt</p>
+<p>Mat 22,29</p>
+<p>Warum übertretet ihr Gottes Gebot?</p>
+<p>Mat 15,3</p>
+<p>Wie würde aber die Schrift erfüllt?</p>
+<p>Mat 26,54</p>
+<p>Habt ihr nicht diese Schrift gelesen?</p>
+<p><reference osisRef="Mark.12.24-Mark.12.12">Mk. 12,24 - 12</reference>,26</p>
+<p>Legte ihnen alle Schriften aus</p>
+<p><reference osisRef="Luke.24.27">Luk 24,27</reference></p>
+<p>Als er uns die Schrift öffnete</p>
+<p><reference osisRef="Luke.24.32">Luk 24,32</reference></p>
+<p>Daß sie die Schrift verstanden</p>
+<p><reference osisRef="Luke.24.45">Luk 24,45</reference></p>
+<p>Die Jünger glaubten der Schrift</p>
+<p><reference osisRef="John.2.22">Joh 2,22</reference></p>
+<p>Sucht in der Schrift … sie ist es</p>
+<p><reference osisRef="John.5.39">Joh 5,39</reference></p>
+<p>Wie kann dieser die Schrift</p>
+<p><reference osisRef="John.7.15">Joh 7,15</reference></p>
+<p>Wie die Schrift sagt</p>
+<p><reference osisRef="John.7.38">Joh 7,38</reference></p>
+<p>Die Schrift kann nicht gebrochen werden</p>
+<p><reference osisRef="John.10.35">Joh 10,35</reference></p>
+<p>Was sagt denn die Schrift?</p>
+<p><reference osisRef="Rom.4.3">Röm 4,3</reference></p>
+<p>Wißt ihr nicht, was die Schrift sagt?</p>
+<p><reference osisRef="Rom.11.2">Röm 11,2</reference></p>
+<p>Aber was sagt die Schrift?</p>
+<p><reference osisRef="Gal.4.30">Gal 4,30</reference></p>
+<p>Wieder spricht eine andere Schrift</p>
+<p><reference osisRef="John.19.37">Joh 19,37</reference></p>
+<p>Sie wußten die Schrift noch nicht</p>
+<p><reference osisRef="John.20.9">Joh 20,9</reference></p>
+<p>Forschten täglich in der Schrift</p>
+<p><reference osisRef="Acts.17.11">Apg. 17,11</reference></p>
+<p>Redete mit ihnen aus der Schrift</p>
+<p><reference osisRef="Acts.17.2">Apg. 17,2</reference></p>
+<p>Apollos mächtig in der Schrift</p>
+<p><reference osisRef="Acts.18.24">Apg. 18,24</reference></p>
+<p>Erwies durch die Schrift, daß Jesus</p>
+<p><reference osisRef="Acts.18.28">Apg. 18,28</reference></p>
+<p>Die Schrift sagt zum Pharao</p>
+<p><reference osisRef="Rom.9.17">Röm 9,17</reference></p>
+<p>Die Schrift spricht</p>
+<p><reference osisRef="Rom.10.11">Röm 10,11</reference></p>
+<p>Durch Trost der Schrift Hoffnung</p>
+<p><reference osisRef="Rom.15.4">Röm 15,4</reference></p>
+<p>Christus gestorben nach der Schrift</p>
+<p><reference osisRef="1Cor.15.3">1. Kor. 15,3</reference></p>
+<p>Begraben und auferstanden nach der Schrift</p>
+<p><reference osisRef="1Cor.15.4">1. Kor. 15,4</reference></p>
+<p>Die Schrift hat es zuvor gesehen</p>
+<p><reference osisRef="Gal.3.8">Gal 3,8</reference></p>
+<p>Die Schrift hat alles beschlossen</p>
+<p><reference osisRef="Gal.3.22">Gal 3,22</reference></p>
+<p>Wollen der Schrift Meister sein</p>
+<p><reference osisRef="1Tim.1.7">1. Tim. 1,7</reference></p>
+<p>Schriften, von Gott eingegeben</p>
+<p><reference osisRef="2Tim.3.16">2. Tim. 3,16</reference></p>
+<p>Die Heilige Schrift kann dich unterweisen</p>
+<p><reference osisRef="2Tim.3.15">2. Tim. 3,15</reference></p>
+<p>Sagt die Schrift umsonst</p>
+<p><reference osisRef="Jas.4.5">Jak 4,5</reference></p>
+<p>Briefe Pauli, auch die anderen Schriften</p>
+<p><reference osisRef="2Pet.3.16">2. Pet. 3,16</reference></p>
+<p>Tut Buße und glaubt an das Evangelium</p>
+<p><reference osisRef="John.7.17">Joh 7,17</reference></p>
+<p>Wer Moses Schriften glaubt, glaubt mir</p>
+<p><reference osisRef="John.5.46">Joh 5,46</reference></p>
+<p>Wer seinen Schriften nicht glaubt, glaubt mir nicht</p>
+<p><reference osisRef="John.5.47">Joh 5,47</reference></p>
+<p>Half nichts denen, die nicht glaubten</p>
+<p>Heb 4,2</p>
+<p>Durch ihr Wort an mich glauben</p>
+<p><reference osisRef="John.17.20">Joh 17,20</reference></p>
+<p>Der Glaube kommt aus der Predigt</p>
+<p><reference osisRef="Rom.10.17">Röm 10,17</reference></p>
+<p>Ihr tut wohl, darauf zu achten</p>
+<p><reference osisRef="2Pet.1.19">2. Pet. 1,19</reference></p>
+<p>Selig, die Gottes Worte hören und beachten</p>
+<p><reference osisRef="Luke.11.28">Luk 11,28</reference></p>
+<p>Nehmt das Wort an mit Sanftmut</p>
+<p><reference osisRef="Jas.1.21">Jak 1,21</reference></p>
+<p>Samarien das Wort Gottes angenommen</p>
+<p><reference osisRef="Acts.8.14">Apg. 8,14</reference></p>
+<p>Durch welches ihr auch selig werdet</p>
+<p><reference osisRef="1Cor.15.2">1. Kor. 15,2</reference></p>
+<p>Des Herrn Wort war teuer zur Zeit</p>
+<p>1. Sa 3,1</p>
+<p>Es ist kein Wort Gottes im Lande</p>
+<p><reference osisRef="Hos.4.1">Hos 4,1</reference></p>
+<p>Das Wort Gottes nahm zu</p>
+<p><reference osisRef="Acts.6.7">Apg. 6,7</reference></p>
+<p>Wort Gottes wuchs und nahm zu</p>
+<p><reference osisRef="Acts.12.24">Apg. 12,24</reference></p>
+<p>Mächtig wuchs das Wort, nahm überhand</p>
+<p><reference osisRef="Acts.19.20">Apg. 19,20</reference></p>
+<p>Ist nahe deinem Herzen</p>
+<p><reference osisRef="Deut.30.14">5. Mo 30,14</reference></p>
+<p>Halten und Tun alle Worte</p>
+<p><reference osisRef="Deut.32.46">5. Mo 32,46</reference></p>
+<p>Wer meine Rede hört und tut</p>
+<p>Mat 7,24</p>
+<p>wird inne, ob diese Lehre von Gott</p>
+<p><reference osisRef="John.7.17">Joh 7,17</reference></p>
+<p>Fasse seine Reden in dein Herz</p>
+<p><reference osisRef="Job.22.22">Hiob 22,22</reference></p>
+<p>Fasse alle meine Worte mit Herzen</p>
+<p><reference osisRef="Ezek.3.10">Hes 3,10</reference></p>
+<p>Gesetz und Propheten, nun das Evangelium</p>
+<p><reference osisRef="Acts.14.15">Apg. 14,15</reference>;<reference osisRef="Luke.16.16"> Luk 16,16</reference></p>
+<p>Davon kann kein Tüttel fallen</p>
+<p><reference osisRef="Luke.16.17">Luk 16,17</reference></p>
+<p>Nicht der kleinste Buchstabe, bis alles geschieht</p>
+<p><reference osisRef="Ps.119.89">Ps. 119,89</reference></p>
+<p>Jesus sagt, Meine Worte vergehen nicht</p>
+<p><reference osisRef="Luke.21.33">Luk 21,33</reference></p>
+<p>Wer von Gott ist, der hört Gottes Worte</p>
+<p><reference osisRef="John.8.47">Joh 8,47</reference></p>
+<p>Nehmt das Schwert des Geistes, das Wort Gottes</p>
+<p><reference osisRef="Eph.6.17">Eph 6,17</reference></p>
+<p>Wer sich meiner Worte schämt</p>
+<p><reference osisRef="Luke.9.26">Luk 9,26</reference></p>
+<p>Des Herrn Wort bleibt in Ewigkeit</p>
+<p><reference osisRef="1Pet.1.25">1. Pet. 1,25</reference></p>
+<p>Gott redete alle diese Worte</p>
+<p><reference osisRef="Exod.20.1">2. Mo 20,1</reference></p>
+<p>Moses schrieb alle Worte des Herrn</p>
+<p><reference osisRef="Exod.24.4">2. Mo 24,4</reference></p>
+<p>Ich gebe Dir, was du lehren sollst</p>
+<p><reference osisRef="Exod.24.12">2. Mo 24,12</reference></p>
+<p>Der Herr sprach, Schreibe diese Worte</p>
+<p><reference osisRef="Exod.34.27">2. Mo 34,27</reference></p>
+<p>Gebot ihnen alles, was Gott geredet</p>
+<p><reference osisRef="Exod.34.32">2. Mo 34,32</reference></p>
+<p>Klare Antworten durch den Mund des Herrn</p>
+<p><reference osisRef="Lev.24.12">3. Mo 24,12</reference></p>
+<p>Satzungen, Rechte und Gesetze vom Herrn</p>
+<p><reference osisRef="Num.12.8">4. Mo 12,8</reference></p>
+<p>Durch die Hand Mose gegeben</p>
+<p><reference osisRef="Lev.26.46">3. Mo 26,46</reference></p>
+<p>Beschrieb…nach dem Befehl des Herrn</p>
+<p><reference osisRef="Num.33.2">4. Mo 33,2</reference></p>
+<p>Ich habe gelehrt wie mir befohlen wurde</p>
+<p><reference osisRef="Deut.4.5">5. Mo 4,5</reference></p>
+<p>Der Herr gebot mir, euch zu lehren</p>
+<p><reference osisRef="Deut.4.14">5. Mo 4,14</reference></p>
+<p>Faßt nun diese Worte zu Herzen</p>
+<p><reference osisRef="Deut.11.18">5. Mo 11,18</reference></p>
+<p>Was offenbart ist, ist unser</p>
+<p><reference osisRef="Deut.29.29">5. Mo 29,29</reference></p>
+<p>Schreibt euch nun dies Lied</p>
+<p><reference osisRef="Deut.31.19">5. Mo 31,19</reference></p>
+<p>Also schrieb Mose dies Lied</p>
+<p><reference osisRef="Deut.31.22">5. Mo 31,22</reference></p>
+<p>Ließ ihnen sagen durch alle Propheten</p>
+<p><reference osisRef="2Kgs.17.13">2. Kön. 17,13</reference></p>
+<p>Seher redeten im Namen des Herrn</p>
+<p><reference osisRef="2Chr.33.18">2. Chr. 33,18</reference></p>
+<p>Jeremia redete aus dem Mund des Herrn</p>
+<p><reference osisRef="2Chr.35.12">2. Chr. 35,12</reference></p>
+<p>Gebote seiner Lippen, Rede seines Mundes</p>
+<p><reference osisRef="Isa.55.11">Jes 55,11</reference></p>
+<p>Reden des Herrn</p>
+<p><reference osisRef="Ps.18.31">Ps. 18,31</reference></p>
+<p>Er richtete ein Zeugnis auf</p>
+<p><reference osisRef="Ps.78.5">Ps. 78,5</reference></p>
+<p>Er gab seine Zeugnisse und Gebote</p>
+<p><reference osisRef="Ps.99.7">Ps. 99,7</reference></p>
+<p>Er zeigt Jakob sein Wort</p>
+<p><reference osisRef="Ps.147.19">Ps. 147,19</reference></p>
+<p>Worte der Weisen, geschrieben durch die Meister von einem Hirten gegeben</p>
+<p><reference osisRef="Eccl.12.10-Eccl.12.12">Pred 12,10 - 12</reference>,11</p>
+<p>Sucht im Buch des Herrn und leset</p>
+<p><reference osisRef="Isa.34.16">Jes 34,16</reference></p>
+<p>Er gebietet, sein Geist bringt's zusammen</p>
+<p><reference osisRef="Isa.34.16">Jes 34,16</reference></p>
+<p>Meine Worte in den Mund gelegt</p>
+<p><reference osisRef="Isa.59.21">Jes 59,21</reference></p>
+<p>Der Herr hat's geredet</p>
+<p><reference osisRef="Jer.13.15">Jer 13,15</reference></p>
+<p>Schreibe dir alle Worte, die ich rede</p>
+<p><reference osisRef="Jer.30.2">Jer 30,2</reference></p>
+<p>Nimm ein Buch und schreibe alle Worte</p>
+<p><reference osisRef="Jer.36.2">Jer 36,2</reference></p>
+<p>Sagte alle Worte, die er mir gezeigt</p>
+<p><reference osisRef="Ezek.11.25">Hes 11,25</reference></p>
+<p>Anzeigen, was geschrieben ist</p>
+<p><reference osisRef="Dan.10.21">Dan 10,21</reference></p>
+<p>Ich schreibe ihm von meinem Gesetz</p>
+<p><reference osisRef="Hos.8.12">Hos 8,12</reference></p>
+<p>Worte, die der Herr sandte</p>
+<p>Sac 7,12</p>
+<p>Uns gegeben von Dienern des Wortes</p>
+<p><reference osisRef="Luke.1.2">Luk 1,2</reference></p>
+<p>Mit Fleiß erkundet, ordentlich zu schreiben</p>
+<p><reference osisRef="Luke.1.3">Luk 1,3</reference></p>
+<p>Geredet durch den Mund seines heiligen Propheten</p>
+<p><reference osisRef="Luke.1.70">Luk 1,70</reference></p>
+<p>Der Heilige Geist wird euch erinnern</p>
+<p><reference osisRef="John.14.26">Joh 14,26</reference></p>
+<p>Die Schrift, der Heilige Geist</p>
+<p><reference osisRef="Acts.1.16">Apg. 1,16</reference></p>
+<p>Gott spricht, was geschrieben steht</p>
+<p><reference osisRef="Acts.13.32-Acts.13.13">Apg. 13,32 - 13</reference>,35</p>
+<p>Der Heilige Geist durch den Mund Jesajas</p>
+<p><reference osisRef="Acts.28.25">Apg. 28,25</reference></p>
+<p>Anvertraut, was Gott geredet hat</p>
+<p><reference osisRef="Rom.3.2">Röm 3,2</reference></p>
+<p>Uns hat es Gott geoffenbart</p>
+<p><reference osisRef="1Cor.2.10">1. Kor. 2,10</reference></p>
+<p>Wir können wissen, was uns Gott gab</p>
+<p><reference osisRef="1Cor.2.12">1. Kor. 2,12</reference></p>
+<p>Reden Worte, die der Heilige Geist lehrt</p>
+<p><reference osisRef="1Cor.2.13">1. Kor. 2,13</reference></p>
+<p>Offenbart seinen Aposteln und Propheten</p>
+<p><reference osisRef="Eph.3.5">Eph 3,5</reference></p>
+<p>Das Schwert des Geistes, das Wort Gottes</p>
+<p><reference osisRef="Eph.6.17">Eph 6,17</reference></p>
+<p>Das Wort Christi unter euch wohnen</p>
+<p><reference osisRef="Col.3.16">Kol 3,16</reference></p>
+<p>Das Wort göttlicher Predigt von uns</p>
+<p><reference osisRef="1Thess.2.13">1. Thess. 2,13</reference></p>
+<p>Ist wahrhaftig Gottes Wort</p>
+<p><reference osisRef="1Thess.2.13">1. Thess. 2,13</reference></p>
+<p>Wir gaben Gebote durch Jesus</p>
+<p><reference osisRef="1Thess.4.2">1. Thess. 4,2</reference></p>
+<p>Unsere Lehre - die heilsamen Worte Jesu</p>
+<p><reference osisRef="1Tim.6.3">1. Tim. 6,3</reference></p>
+<p>Alle Schrift, von Gott eingegeben</p>
+<p><reference osisRef="2Tim.3.16">2. Tim. 3,16</reference></p>
+<p>Der Geist Christi in ihnen bezeugte</p>
+<p><reference osisRef="1Pet.1.11">1. Pet. 1,11</reference></p>
+<p>Verkündigt Offenbarung durch den Geist</p>
+<p><reference osisRef="1Pet.1.12">1. Pet. 1,12</reference></p>
+<p>Das unter euch verkündete Wort des Herrn</p>
+<p><reference osisRef="1Pet.1.25">1. Pet. 1,25</reference></p>
+<p>Geredet, getrieben vom Heiligen Geist</p>
+<p><reference osisRef="2Pet.1.21">2. Pet. 1,21</reference></p>
+<p>Weissagung, nicht aus menschlichem Willen</p>
+<p><reference osisRef="2Pet.1.21">2. Pet. 1,21</reference></p>
+<p>Verkündigung von ihm gehört</p>
+<p><reference osisRef="1John.1.5">1. Joh. 1,5</reference></p>
+<p>Gott redete durch die Propheten</p>
+<p>Heb 1,1</p>
+<p>Gott hat ihr Zeugnis gegeben</p>
+<p>Heb 2,4</p>
+<p>Der Heilige Geist spricht</p>
+<p>Heb 3,7</p>
+<p>Das Wort Gottes, von dem reden wir</p>
+<p>Heb 4,12</p>
+<p>Damit deutete der Heilige Geist</p>
+<p>Heb 9,8</p>
+<p>Gott ihm gegeben, seinen Knechten zu zeigen</p>
+<p>Off 1,1</p>
+<p>Wort Gottes und Zeugnis von Jesus</p>
+<p>Off 1,2</p>
+<p>Schreib in ein Buch und sende es</p>
+<p>Off 1,11</p>
+<p>Schreibe, was ist und was geschehen soll</p>
+<p>Off 1,19</p>
+<p>Gerechtes, unvergleichliches Gesetz</p>
+<p><reference osisRef="Deut.4.8">5. Mo 4,8</reference></p>
+<p>Ist lauter, bewährt siebenmal</p>
+<p><reference osisRef="Ps.12.7">Ps. 12,7</reference></p>
+<p>Reden des Herrn sind durchläutert</p>
+<p><reference osisRef="Ps.18.31">Ps. 18,31</reference></p>
+<p>Köstlicher als Gold</p>
+<p><reference osisRef="Ps.19.11">Ps. 19,11</reference></p>
+<p>Süßer als Honig</p>
+<p><reference osisRef="Ps.19.11">Ps. 19,11</reference></p>
+<p>Wahrhaftig und gerecht</p>
+<p><reference osisRef="Ps.19.10">Ps. 19,10</reference></p>
+<p>Vollkommen, gewiß, richtig</p>
+<p><reference osisRef="Ps.19.8-Ps.19.19">Ps. 19,8 - 19</reference>,9</p>
+<p>Dein Wort ist rechte Lehre</p>
+<p><reference osisRef="Ps.93.5">Ps. 93,5</reference></p>
+<p>Deine Gebote sind Wahrheit</p>
+<p><reference osisRef="Ps.119.86">Ps. 119,86</reference></p>
+<p>Dein Gebot währt ewig</p>
+<p><reference osisRef="Ps.119.96">Ps. 119,96</reference></p>
+<p>Deine Zeugnisse sind wunderbar</p>
+<p><reference osisRef="Ps.119.129">Ps. 119,129</reference></p>
+<p>Ihre Gerechtigkeit ist ewig</p>
+<p><reference osisRef="Ps.119.144">Ps. 119,144</reference></p>
+<p>Zeugnisse für ewig gegründet</p>
+<p><reference osisRef="Ps.119.152">Ps. 119,152</reference></p>
+<p>Dein Wort ist nichts als Wahrheit</p>
+<p><reference osisRef="Ps.119.160">Ps. 119,160</reference></p>
+<p>Alle Deine Gebote sind recht</p>
+<p><reference osisRef="Ps.119.172">Ps. 119,172</reference></p>
+<p>Sein Wort läuft schnell</p>
+<p><reference osisRef="Ps.147.15">Ps. 147,15</reference></p>
+<p>Alle Worte Gottes sind durchläutert</p>
+<p><reference osisRef="Prov.30.5">Spr 30,5</reference></p>
+<p>Angenehm, recht geschrieben</p>
+<p>Pre 12,10</p>
+<p>Das Wort Gottes bleibt ewig</p>
+<p><reference osisRef="Isa.40.8">Jes 40,8</reference></p>
+<p>Wort, das aus meinem Munde geht</p>
+<p><reference osisRef="Isa.55.11">Jes 55,11</reference></p>
+<p>Torheit denen, die verloren werden</p>
+<p><reference osisRef="1Cor.1.18">1. Kor. 1,18</reference></p>
+<p>Uns aber eine Gotteskraft</p>
+<p><reference osisRef="1Cor.1.18">1. Kor. 1,18</reference></p>
+<p>Lebendig, kräftig, scharf, durchdringend</p>
+<p>Heb 4,12</p>
+<p>Nütze zur Lehre, zur Überweisung</p>
+<p><reference osisRef="2Tim.3.16">2. Tim. 3,16</reference></p>
+<p>zur Zurechtweisung, zur Zucht nütze</p>
+<p><reference osisRef="2Tim.3.16">2. Tim. 3,16</reference></p>
+<p>Versammle, daß sie mein Wort hören</p>
+<p><reference osisRef="Deut.4.10">5. Mo 4,10</reference></p>
+<p>Höre, lerne, behalte, tue die Worte</p>
+<p><reference osisRef="Deut.5.1">5. Mo 5,1</reference></p>
+<p>Sollst die Worte zu Herzen nehmen</p>
+<p><reference osisRef="Deut.6.6">5. Mo 6,6</reference></p>
+<p>Deinen Kindern einschärfen</p>
+<p><reference osisRef="Deut.6.7">5. Mo 6,7</reference></p>
+<p>Davon reden daheim und auswärts</p>
+<p><reference osisRef="Deut.6.7">5. Mo 6,7</reference></p>
+<p>Beim Aufstehen und niederlegen</p>
+<p><reference osisRef="Deut.6.7">5. Mo 6,7</reference></p>
+<p>Des Herrn Gesetz sei in deinem Munde</p>
+<p><reference osisRef="Deut.13.9">5. Mo 13,9</reference></p>
+<p>Ausrufen lassen vor ihren Ohren</p>
+<p><reference osisRef="Deut.31.11">5. Mo 31,11</reference></p>
+<p>Daß sie hören, lernen, tun</p>
+<p><reference osisRef="Deut.31.12">5. Mo 31,12</reference></p>
+<p>Daß ihre Kinder auch hören und lernen</p>
+<p><reference osisRef="Deut.31.13">5. Mo 31,13</reference></p>
+<p>Auswendig lernen, nicht vergessen</p>
+<p><reference osisRef="Deut.31.21">5. Mo 31,21</reference></p>
+<p>Redete vom Wort vor aller Ohren</p>
+<p><reference osisRef="Deut.31.30">5. Mo 31,30</reference></p>
+<p>Alle sieben Jahre ganz ausrufen lassen</p>
+<p><reference osisRef="Deut.31.10">5. Mo 31,10</reference></p>
+<p>Nehmt zu Herzen alle Worte</p>
+<p><reference osisRef="Deut.32.46">5. Mo 32,46</reference></p>
+<p>Daß ihr sie euren Kindern befehlt</p>
+<p><reference osisRef="Deut.32.46">5. Mo 32,46</reference></p>
+<p>Laß es nicht von deinem Munde kommen</p>
+<p><reference osisRef="Josh.1.8">Jos 1,8</reference></p>
+<p>Herzu, hört die Worte eures Gottes</p>
+<p><reference osisRef="Josh.3.9">Jos 3,9</reference></p>
+<p>Höre das Gesetz von seinem Munde</p>
+<p><reference osisRef="Job.22.22">Hiob 22,22</reference></p>
+<p>Höre, mein Volk, mein Gesetz</p>
+<p><reference osisRef="Ps.78.1">Ps. 78,1</reference></p>
+<p>Höre, was Gott, der Herr, redet</p>
+<p><reference osisRef="Ps.75.9">Ps. 75,9</reference></p>
+<p>Komm zum Hause Gottes, daß du hörst</p>
+<p>Pre 4,17</p>
+<p>O Land, höre die Worte eures Gottes</p>
+<p><reference osisRef="Jer.22.29">Jer 22,29</reference></p>
+<p>Hört, merkt auf, trotzet nicht</p>
+<p><reference osisRef="Jer.13.15">Jer 13,15</reference></p>
+<p>Predige mein Wort recht</p>
+<p><reference osisRef="Jer.23.28">Jer 23,28</reference></p>
+<p>Lies vor dem Volk im Hause des Herrn</p>
+<p><reference osisRef="Jer.36.6">Jer 36,6</reference></p>
+<p>Das, was der Herr predigen ließ</p>
+<p>Sac 7,7</p>
+<p>Wer Ohren hat, zu hören, der höre</p>
+<p>Mat 11,15</p>
+<p>Wer zu mir kommt und hört</p>
+<p><reference osisRef="Luke.6.47">Luk 6,47</reference></p>
+<p>Laß sie Moses und die Propheten hören</p>
+<p><reference osisRef="Luke.16.29">Luk 16,29</reference></p>
+<p>Hören sie nicht, werden sie nicht glauben</p>
+<p><reference osisRef="Luke.16.31">Luk 16,31</reference></p>
+<p>Desto mehr wahrnehmen des Worts</p>
+<p>Heb 2,1</p>
+<p>Gedenkt an die Worte</p>
+<p><reference osisRef="2Pet.3.2">2. Pet. 3,2</reference></p>
+<p>Schnell zu hören, seid Täter des Worts</p>
+<p><reference osisRef="Jas.1.19-Jas.1.21">Jak 1,19-21</reference></p>
+<p>Erinnert euch der Worte der Apostel</p>
+<p>Judas 17</p>
+<p>Selig, der liest und die hören</p>
+<p>Off 1,3</p>
+<p>Höre, was der Geist den Gemeinden sagt</p>
+<p>Off 2,7</p>
+<p>Deine Augen sollen sie immer sehen</p>
+<p><reference osisRef="Deut.6.8">5. Mo 6,8</reference></p>
+<p>Jeder Vorübereilende soll sie bei dir sehen</p>
+<p><reference osisRef="Deut.6.9">5. Mo 6,9</reference></p>
+<p>Lasse es auf ein Buch schreiben</p>
+<p><reference osisRef="Deut.17.18-Deut.17.17">5. Mo 17,18 - 17</reference>,19</p>
+<p>Drin lesen dein Leben lang</p>
+<p><reference osisRef="Deut.17.19">5. Mo 17,19</reference></p>
+<p>Schreibe, lehre, legts in ihren Mund</p>
+<p><reference osisRef="Deut.31.19">5. Mo 31,19</reference></p>
+<p>Ganz ausgeschrieben in ein Buch</p>
+<p><reference osisRef="Deut.31.24">5. Mo 31,24</reference></p>
+<p>Sich setzen, lernen von deinen Worten</p>
+<p><reference osisRef="Deut.33.3">5. Mo 33,3</reference></p>
+<p>Betrachte es Tag und Nacht</p>
+<p><reference osisRef="Josh.1.8">Jos 1,8</reference></p>
+<p>Lasen klärlich und verständlich</p>
+<p><reference osisRef="Neh.8.8">Neh 8,8</reference></p>
+<p>Geschrieben für die Nachkommen</p>
+<p><reference osisRef="Ps.102.19">Ps. 102,19</reference></p>
+<p>Sucht in dem Buch des Herrn und lest</p>
+<p><reference osisRef="Isa.34.16">Jes 34,16</reference></p>
+<p>Lesen vor den Ohren des ganzen Juda</p>
+<p><reference osisRef="Jer.36.6">Jer 36,6</reference></p>
+<p>Daß es lesen kann, wer vorüberläuft</p>
+<p><reference osisRef="Hab.2.2">Hab 2,2</reference></p>
+<p>Sucht in der Schrift</p>
+<p><reference osisRef="John.5.39">Joh 5,39</reference></p>
+<p>Durch ihr Wort an mich glauben</p>
+<p><reference osisRef="John.17.20">Joh 17,20</reference></p>
+<p>Geschrieben, damit ihr glaubt</p>
+<p><reference osisRef="John.20.31">Joh 20,31</reference></p>
+<p>Gottes Wort zu haben ist Vorteil und Nutzen</p>
+<p><reference osisRef="Rom.3.1-Rom.3.3">Röm 3,1 - 3</reference>,2</p>
+<p>Geschrieben um unseretwillen</p>
+<p><reference osisRef="Rom.4.24">Röm 4,24</reference></p>
+<p>Glauben kommt durch das Wort Gottes</p>
+<p><reference osisRef="Rom.10.17">Röm 10,17</reference></p>
+<p>Uns zur Lehre zuvor geschrieben</p>
+<p><reference osisRef="Rom.13.4">Röm 13,4</reference></p>
+<p>Gelernt, empfangen, gehört, gesehen</p>
+<p>Phi 4,9</p>
+<p>Laßt das Wort Christi unter euch wohnen in aller Weisheit</p>
+<p><reference osisRef="Col.3.16">Kol 3,16</reference></p>
+<p>Ihr habts von mir empfangen</p>
+<p><reference osisRef="1Thess.4.1">1. Thess. 4,1</reference></p>
+<p>Die Weissagung verachtet nicht</p>
+<p><reference osisRef="1Thess.5.20">1. Thess. 5,20</reference></p>
+<p>Daß er auch in Laodicea gelesen werde</p>
+<p><reference osisRef="Col.4.16">Kol 4,16</reference></p>
+<p>Brief lesen lassen alle Brüder</p>
+<p><reference osisRef="1Thess.5.27">1. Thess. 5,27</reference></p>
+<p>Brief erinnert und erweckt</p>
+<p><reference osisRef="2Pet.3.1">2. Pet. 3,1</reference></p>
+<p>Etliche Dinge drin schwer zu verstehen</p>
+<p><reference osisRef="2Pet.3.16">2. Pet. 3,16</reference></p>
+<p>Teile recht die Worte der Wahrheit</p>
+<p><reference osisRef="2Tim.2.13">2. Tim. 2,13</reference></p>
+<p>Geschrieben, damit eure Freude vollkommen sei</p>
+<p><reference osisRef="1John.1.4">1. Joh. 1,4</reference></p>
+<p>Auf daß ihr nicht sündigt</p>
+<p><reference osisRef="1John.2.1">1. Joh. 2,1</reference></p>
+<p>Damit ihr glaubt und wißt</p>
+<p><reference osisRef="1John.5.13">1. Joh. 5,13</reference></p>
+<p>Nötig, mit Schriften zu ermahnen</p>
+<p><reference osisRef="Jude.1.5">Judas 1,5</reference></p>
+<p>Dem Engel der Gemeinde schreibe</p>
+<p>Off 2,2</p>
+<p>Schreibe, Ja, der Geist spricht</p>
+<p>Off 14,13</p>
+<p>Ich bin das A und das O, schreibe</p>
+<p>Off 21,5</p>
+<p>Diese Worte sind wahrhaftig und gewiß</p>
+<p>Off 22,6</p>
+<p>Durch das Wort</p>
+<p>wiedergeboren</p>
+<p><reference osisRef="1Pet.1.23">1. Pet. 1,23</reference></p>
+<p>zunehmen</p>
+<p><reference osisRef="1Pet.2.2">1. Pet. 2,2</reference></p>
+<p>gereinigt</p>
+<p><reference osisRef="John.15.3">Joh 15,3</reference></p>
+<p>geheiligt</p>
+<p><reference osisRef="John.17.7">Joh 17,7</reference></p>
+<p>erleuchtet</p>
+<p><reference osisRef="Ps.119.10">Ps. 119,10</reference></p>
+<p>verteidigt</p>
+<p><reference osisRef="Eph.6.17">Eph 6,17</reference></p>
+<p>gerichtet</p>
+<p><reference osisRef="John.12.48">Joh 12,48</reference></p>
+<p>Ihr sollt nichts dazutun, das ich gebiete</p>
+<p><reference osisRef="Deut.4.2">5. Mo 4,2</reference></p>
+<p>Und sollt nichts davontun</p>
+<p><reference osisRef="Deut.4.2">5. Mo 4,2</reference></p>
+<p>Auf daß ihr es bewahren möget</p>
+<p><reference osisRef="Deut.4.2">5. Mo 4,2</reference></p>
+<p>Alles, was ich euch gebiete, haltet</p>
+<p><reference osisRef="Deut.12.32">5. Mo 12,32</reference></p>
+<p>Tut nichts dazu noch davon</p>
+<p><reference osisRef="Deut.12.32">5. Mo 12,32</reference></p>
+<p>Nicht der kleinste Buchstabe noch ein Tütel</p>
+<p>Mat 5,18</p>
+<p>Tue nichts zu seinem Wort, daß er</p>
+<p><reference osisRef="Prov.30.6">Spr 30,6</reference></p>
+<p>So jemand dazutut, den plagt Gott</p>
+<p>Off 22,18</p>
+<p>So jemand davontut, dem nimmt Gott</p>
+<p>Off 22, 19</p>
+<p>Wer Moses Schriften nicht glaubt</p>
+<p><reference osisRef="Deut.18.19">5. Mo 18,19</reference></p>
+<p>Glaubt meinen Worten nicht</p>
+<p><reference osisRef="John.5.47">Joh 5,47</reference></p>
+<p>Nicht Gottes Wort verfälschen</p>
+<p><reference osisRef="2Cor.4.2">2. Kor. 4,2</reference></p>
+<p>Nicht ändern, was aus seinem Munde</p>
+<p><reference osisRef="Ps.89.35">Ps. 89,35</reference></p>
+<p>Nichts gelingt, übergeht man das Wort</p>
+<p><reference osisRef="Num.14.41">4. Mo 14,41</reference></p>
+<p>Verachten seine Worte, war kein Heilen</p>
+<p><reference osisRef="2Chr.36.16">2. Chr. 36,16</reference></p>
+<p>Das Wort richtet den, der es verachtet</p>
+<p><reference osisRef="John.12.48">Joh 12,48</reference></p>
+<p>Wer das Wort verachtet, verdirbt sich selbst</p>
+<p><reference osisRef="Prov.13.13">Spr. 13,13</reference></p>
+<p>Kann unterweisen zur Seligkeit</p>
+<p><reference osisRef="2Tim.3.15">2. Tim. 3,15</reference></p>
+<p>Macht selig, die daran glauben</p>
+<p><reference osisRef="Rom.1.16">Röm 1,16</reference></p>
+<p>Macht Alberne weise, erleuchtet</p>
+<p><reference osisRef="Ps.19.8-Ps.19.19">Ps. 19,8 - 19</reference>,9</p>
+<p>Lehrt die Wahrheit erkennen, befreit</p>
+<p><reference osisRef="John.8.32">Joh 8,32</reference></p>
+<p>Gezeugt durch das Wort der Wahrheit</p>
+<p><reference osisRef="Jas.1.18">Jak 1,18</reference></p>
+<p>Wiedergeboren aus dem lebendigen Wort</p>
+<p><reference osisRef="1Pet.1.23">1. Pet. 1,23</reference></p>
+<p>Gereinigt durch das Wasserbad im Wort</p>
+<p><reference osisRef="Eph.5.26">Eph 5,26</reference></p>
+<p>Rein um des Wortes Willen</p>
+<p><reference osisRef="John.15.3">Joh 15,3</reference></p>
+<p>Auferzogen, genährt</p>
+<p><reference osisRef="1Pet.2.2">1. Pet. 2,2</reference></p>
+<p>Das Wort seiner Gnade erbaut</p>
+<p><reference osisRef="Acts.20.32">Apg. 20,32</reference></p>
+<p>Ist Wahrheit, heiligt uns</p>
+<p><reference osisRef="John.17.17">Joh 17,17</reference></p>
+<p>Macht uns zu rechten Jüngern Christi</p>
+<p><reference osisRef="John.8.31">Joh 8,31</reference></p>
+<p>Bewahrt vor dem Sündigen</p>
+<p><reference osisRef="1John.2.1">1. Joh. 2,1</reference></p>
+<p>Geschrieben, damit ihr glaubt</p>
+<p><reference osisRef="John.20.31">Joh 20,31</reference></p>
+<p>Glaube aus der Predigt des Wortes</p>
+<p><reference osisRef="Rom.10.17">Röm 10,17</reference></p>
+<p>Lehrt beten</p>
+<p><reference osisRef="John.15.7">Joh 15,7</reference></p>
+<p>Damit eure Freude völlig sei</p>
+<p><reference osisRef="1John.1.4">1. Joh. 1,4</reference></p>
+<p>Jünglinge macht es unsträflich</p>
+<p><reference osisRef="Ps.119.9">Ps. 119,9</reference></p>
+<p>Vollkommen, zu gutem Werk geschickt</p>
+<p><reference osisRef="2Tim.3.16">2. Tim. 3,16</reference></p>
+<p>Wirst weislich handeln können</p>
+<p><reference osisRef="Josh.1.8">Jos 1,8</reference></p>
+<p>Wird dir gelingen in allem</p>
+<p><reference osisRef="Josh.1.8">Jos 1,8</reference></p>
+<p>Macht fruchtbar, erfolgreich</p>
+<p><reference osisRef="Ps.1.2-Ps.1.1">Ps. 1,2 - 1</reference>,3</p>
+<p>Bewahrt die Tritte vor dem Gleiten</p>
+<p><reference osisRef="Ps.37.31">Ps. 37,31</reference></p>
+<p>Daß ich nicht wider dich sündige</p>
+<p><reference osisRef="Ps.119.11">Ps. 119,11</reference></p>
+<p>Alle Worte Gottes sind ein Schild</p>
+<p><reference osisRef="Prov.30.11">Spr 30,11</reference></p>
+<p>Die Worte sind Geist und Leben</p>
+<p><reference osisRef="John.6.63">Joh 6,63</reference></p>
+<p>Der Mensch lebt dadurch</p>
+<p>Mat 4,4</p>
+<p>Gibt Samen, um zu säen, und Brot, um zu essen</p>
+<p><reference osisRef="Isa.55.11">Jes 55,11</reference></p>
+<p>Dein Wort macht mich klug</p>
+<p><reference osisRef="Ps.119.104">Ps. 119,104</reference></p>
+<p>Dein Wort erquickt mich</p>
+<p><reference osisRef="Ps.119.92">Ps. 119,92</reference></p>
+<p>Durch Trost der Schrift Hoffnung</p>
+<p><reference osisRef="Rom.15.4">Röm 15,4</reference></p>
+<p>Erfreut, macht klug die Einfältigen</p>
+<p><reference osisRef="Ps.119.130">Ps. 119,130</reference></p>
+<p>Scheidet Seele und Geist, Mark und Bein</p>
+<p>Heb 4,12</p>
+<p>Richtet Gedanken und Sinne des Herzens</p>
+<p>Heb 4,12</p>
+<p>Töte sie durch meines Mundes Rede</p>
+<p><reference osisRef="Hos.4.6">Hos 4,6</reference></p>
+<p>Verwirfst du Gottes Wort, will es dich verwerfen</p>
+<p><reference osisRef="Jer.6.10">Jer 6,10</reference>; <reference osisRef="1Sam.15.23">1. Sam. 15,23</reference></p>
+<p>Uns aber ist es eine Gotteskraft</p>
+<p><reference osisRef="1Cor.1.18">1. Kor. 1,18</reference></p>
+<title>Zusammenstellungen</title>
+<p>Erwählt, heilig zu sein</p>
+<p><reference osisRef="Eph.1.4">Eph 1,4</reference></p>
+<p>Verordnet zur Kindschaft</p>
+<p><reference osisRef="Eph.1.5">Eph 1,5</reference></p>
+<p>Zum Lobe seiner herrlichen Gnade</p>
+<p><reference osisRef="Eph.1.6">Eph 1,6</reference></p>
+<p>Angenehm gemacht in dem Geliebten</p>
+<p><reference osisRef="Eph.1.6">Eph 1,6</reference></p>
+<p>Erlösung durch sein Blut</p>
+<p><reference osisRef="Eph.1.7">Eph 1,7</reference></p>
+<p>Vergebung der Sünden</p>
+<p><reference osisRef="Eph.1.7">Eph 1,7</reference></p>
+<p>Wissen das Geheimnis seines Willens</p>
+<p><reference osisRef="Eph.1.9">Eph 1,9</reference></p>
+<p>Gekommen zum Erbteil</p>
+<p><reference osisRef="Eph.1.11">Eph 1,11</reference></p>
+<p>Versiegelt mit dem Heiligen Geist</p>
+<p><reference osisRef="Eph.1.13">Eph 1,13</reference></p>
+<p>Sein Eigentum zum Lob seiner Herrlichkeit</p>
+<p><reference osisRef="Eph.1.14">Eph 1,14</reference></p>
+<p>Heilung der zwei Blinden</p>
+<p>Mat 9,27</p>
+<p>Heilung des Stummen</p>
+<p>Mat 9,32</p>
+<p>Stater im Fischmaul</p>
+<p>Mat 17,24</p>
+<p>Heilung des Taubstummen</p>
+<p><reference osisRef="Mark.7.31">Mk. 7,31</reference></p>
+<p>Der Blinde in Bethsaida</p>
+<p><reference osisRef="Mark.8.22">Mk. 8,22</reference></p>
+<p>Jesus entzieht sich seinen Feinden</p>
+<p><reference osisRef="Luke.4.28">Luk 4,28</reference></p>
+<p>Der Fischzug</p>
+<p><reference osisRef="Luke.5.1">Luk 5,1</reference></p>
+<p>Jüngling in Nain</p>
+<p><reference osisRef="Luke.7.11">Luk 7,11</reference></p>
+<p>Gekrümmte Frau</p>
+<p><reference osisRef="Luke.13.11">Luk 13,11</reference></p>
+<p>Der Wassersüchtige</p>
+<p><reference osisRef="Luke.14.1">Luk 14,1</reference></p>
+<p>Zehn Aussätzige</p>
+<p><reference osisRef="Luke.17.11">Luk 17,11</reference></p>
+<p>Malchus Ohr geheilt</p>
+<p><reference osisRef="Luke.22.50">Luk 22,50</reference></p>
+<p>Wasser in Wein verwandelt</p>
+<p><reference osisRef="John.2.1">Joh 2,1</reference></p>
+<p>Sohn des Königlichen</p>
+<p><reference osisRef="John.4.46">Joh 4,46</reference></p>
+<p>Kranke bei Bethesda</p>
+<p><reference osisRef="John.5.1">Joh 5,1</reference></p>
+<p>Jesus verbarg sich</p>
+<p><reference osisRef="John.8.59">Joh 8,59</reference></p>
+<p>Der Blindgeborene</p>
+<p><reference osisRef="John.9.1">Joh 9,1</reference></p>
+<p>Auferweckung des Lazarus</p>
+<p><reference osisRef="John.11.38">Joh 11,38</reference></p>
+<p>Niederfallen der Feinde</p>
+<p><reference osisRef="John.18.6">Joh 18,6</reference></p>
+<p>Der Fischzug</p>
+<p><reference osisRef="John.21.1">Joh 21,1</reference></p>
+<p>Kanaanäische Tochter</p>
+<p>Mat 15,21</p>
+<p><reference osisRef="Mark.7.24">Mk. 7,24</reference></p>
+<p>Viertausend gespeist</p>
+<p>Mat 15,32</p>
+<p><reference osisRef="Mark.8.1">Mk. 8,1</reference></p>
+<p>Feigenbaum</p>
+<p>Mat 21,18</p>
+<p><reference osisRef="Mark.11.12">Mk. 11,12</reference></p>
+<p>Heilung des Knechts des Hauptmanns</p>
+<p>Mat 8,5</p>
+<p><reference osisRef="Luke.7.1">Luk 7,1</reference></p>
+<p>Blind und Stumm</p>
+<p>Mat 12,22</p>
+<p><reference osisRef="Luke.11.14">Luk 11,14</reference></p>
+<p>Der Besessene</p>
+<p><reference osisRef="Mark.1.23">Mk. 1,23</reference></p>
+<p><reference osisRef="Luke.4.33">Luk 4,33</reference></p>
+<p>Aussätzige</p>
+<p>Mat 8,2</p>
+<p><reference osisRef="Mark.1.40">Mk. 1,40</reference></p>
+<p><reference osisRef="Luke.5.12">Luk 5,12</reference></p>
+<p>Schwiegermutter des Petrus</p>
+<p>Mat 8,14</p>
+<p><reference osisRef="Mark.1.30">Mk. 1,30</reference></p>
+<p><reference osisRef="Luke.4.38">Luk 4,38</reference></p>
+<p>Sturm</p>
+<p>Mat 8,26</p>
+<p><reference osisRef="Mark.4.37">Mk. 4,37</reference></p>
+<p><reference osisRef="Luke.8.22">Luk 8,22</reference></p>
+<p>Legion</p>
+<p>Mat 8,28</p>
+<p><reference osisRef="Mark.5.1">Mk. 5,1</reference></p>
+<p><reference osisRef="Luke.8.27">Luk 8,27</reference></p>
+<p>Gichtbrüchige</p>
+<p>Mat 9,2</p>
+<p><reference osisRef="Mark.2.3">Mk. 2,3</reference></p>
+<p><reference osisRef="Luke.5.18">Luk 5,18</reference></p>
+<p>Blutflüssige Frau</p>
+<p>Mat 9,20</p>
+<p><reference osisRef="Mark.5.25">Mk. 5,25</reference></p>
+<p><reference osisRef="Luke.8.43">Luk 8,43</reference></p>
+<p>Tochter des Jairus</p>
+<p>Mat 9,23</p>
+<p><reference osisRef="Mark.5.38">Mk. 5,38</reference></p>
+<p><reference osisRef="Luke.8.49">Luk 8,49</reference></p>
+<p>Verdorrte Hand</p>
+<p>Mat 12,10</p>
+<p><reference osisRef="Mark.3.1">Mk. 3,1</reference></p>
+<p><reference osisRef="Luke.6.6">Luk 6,6</reference></p>
+<p>Mondsüchtige Frau</p>
+<p>Mat 17,14</p>
+<p><reference osisRef="Mark.9.17">Mk. 9,17</reference></p>
+<p><reference osisRef="Luke.9.38">Luk 9,38</reference></p>
+<p>Bartimäus</p>
+<p>Mat 20,30</p>
+<p><reference osisRef="Mark.10.46">Mk. 10,46</reference></p>
+<p><reference osisRef="Luke.18.35">Luk 18,35</reference></p>
+<p>Christi Wandel auf dem See</p>
+<p>Mat 14,25</p>
+<p><reference osisRef="Mark.6.48">Mk. 6,48</reference></p>
+<p><reference osisRef="John.6.19">Joh 6,19</reference></p>
+<p>Speisung der 5000</p>
+<p>Mat 14,15</p>
+<p><reference osisRef="Mark.6.35">Mk. 6,35</reference></p>
+<p><reference osisRef="Luke.9.12">Luk 9,12</reference></p>
+<p><reference osisRef="John.6.5">Joh 6,5</reference></p>
+<p>Sodoms Zerstörung</p>
+<p><reference osisRef="Gen.19.24">1. Mo 19,24</reference></p>
+<p>Lots Weib - Salzsäule</p>
+<p><reference osisRef="Gen.19.26">1. Mo 19,26</reference></p>
+<p>Geburt des Isaak</p>
+<p><reference osisRef="Gen.21.1">1. Mo 21,1</reference></p>
+<p>Der brennende Busch</p>
+<p><reference osisRef="Exod.3.2">2. Mo 3,2</reference></p>
+<p>Aarons Stab - Schlange</p>
+<p><reference osisRef="Exod.7.10">2. Mo 7,10</reference></p>
+<p>Wasser in Blut verwandelt</p>
+<p><reference osisRef="Exod.7.20">2. Mo 7,20</reference></p>
+<p>Frösche</p>
+<p><reference osisRef="Exod.8.5">2. Mo 8,5</reference></p>
+<p>Stechmücken</p>
+<p><reference osisRef="Exod.8.16">2. Mo 8,16</reference></p>
+<p>Ungeziefer</p>
+<p><reference osisRef="Exod.8.20">2. Mo 8,20</reference></p>
+<p>Pest</p>
+<p><reference osisRef="Exod.9.3">2. Mo 9,3</reference></p>
+<p>Blattern</p>
+<p><reference osisRef="Exod.9.8">2. Mo 9,8</reference></p>
+<p>Hagel und Feuer</p>
+<p><reference osisRef="Exod.9.22">2. Mo 9,22</reference></p>
+<p>Heuschrecken</p>
+<p><reference osisRef="Exod.10.12">2. Mo 10,12</reference></p>
+<p>Finsternis</p>
+<p><reference osisRef="Exod.10.21">2. Mo 10,21</reference></p>
+<p>Tötung der Erstgeburt</p>
+<p><reference osisRef="Exod.12.29">2. Mo 12,29</reference></p>
+<p>Durchzug durchs Schilfmeer</p>
+<p><reference osisRef="Exod.14.21">2. Mo 14,21</reference></p>
+<p>Das Wasser zu Mara</p>
+<p><reference osisRef="Exod.15.23">2. Mo 15,23</reference></p>
+<p>Manna vom Himmel</p>
+<p><reference osisRef="Exod.16.14">2. Mo 16,14</reference></p>
+<p>Wasser aus dem Felsen</p>
+<p><reference osisRef="Exod.17.5">2. Mo 17,5</reference></p>
+<p>Tod des Nadab und Abihu</p>
+<p><reference osisRef="Lev.10.1">3. Mo 10,1</reference></p>
+<p>Feuer im Lager</p>
+<p><reference osisRef="Num.11.1">4. Mo 11,1</reference></p>
+<p>Tod der Rotte Korah</p>
+<p><reference osisRef="Num.16.31">4. Mo 16,31</reference></p>
+<p>Der blühende Stab Aarons</p>
+<p><reference osisRef="Num.17.18">4. Mo 17,18</reference></p>
+<p>Haderwasser bei Meriba</p>
+<p><reference osisRef="Num.20.7">4. Mo 20,7</reference></p>
+<p>Die eherne Schlange - Heilung</p>
+<p><reference osisRef="Num.21.8">4. Mo 21,8</reference></p>
+<p>Bileams Esel</p>
+<p><reference osisRef="Num.22.28">4. Mo 22,28</reference></p>
+<p>Durchzug durch den Jordan</p>
+<p><reference osisRef="Josh.3.14">Jos 3,14</reference></p>
+<p>Jerichos Fall</p>
+<p><reference osisRef="Josh.6.6">Jos 6,6</reference></p>
+<p>Zeichen an Sonne und Mond</p>
+<p><reference osisRef="Josh.10.12">Jos 10,12</reference></p>
+<p>Gideons Tauwunder</p>
+<p>Rich. 6,35</p>
+<p>Simsons Stärke</p>
+<p>Rich. 14,1</p>
+<p>Wasser aus der Höhlung zu Lehi</p>
+<p>Rich. 15,19</p>
+<p>Der Fall Dagons</p>
+<p>1. Sa 5,1</p>
+<p>Erschlagene zu Beth-Semes</p>
+<p>1. Sa 6,19</p>
+<p>Gewitter bei Eben-Ezer</p>
+<p>1. Sa 7,8</p>
+<p>Gewitter zu ungewöhnlicher Zeit</p>
+<p>1. Sa 12,17</p>
+<p>Rauschen in den Maulbeerbäumen</p>
+<p>2. Sa 5,24</p>
+<p>Strafe des Usa</p>
+<p>2. Sa 6,7</p>
+<p>Der zerstörte Altar</p>
+<p><reference osisRef="1Kgs.13.3">1. Kön. 13,3</reference></p>
+<p>Öl im Krug des Zarpath</p>
+<p><reference osisRef="1Kgs.17.14">1. Kön. 17,14</reference></p>
+<p>Der Witwe Sohn erweckt</p>
+<p><reference osisRef="1Kgs.17.17">1. Kön. 17,17</reference></p>
+<p>Feuer und Regen vom Himmel</p>
+<p><reference osisRef="1Kgs.18.1">1. Kön. 18,1</reference></p>
+<p>Elias wunderbare Speise - Raben</p>
+<p><reference osisRef="1Kgs.17.1">1. Kön. 17,1</reference></p>
+<p>Elias wunderbare Speise - Engel</p>
+<p><reference osisRef="1Kgs.19.4">1. Kön. 19,4</reference></p>
+<p>Feuer frißt die Krieger</p>
+<p><reference osisRef="2Kgs.1.10">2. Kön. 1,10</reference></p>
+<p>Teilung des Jordan</p>
+<p><reference osisRef="2Kgs.2.8">2. Kön. 2,8</reference></p>
+<p>Himmelfahrt</p>
+<p><reference osisRef="2Kgs.2.11">2. Kön. 2,11</reference></p>
+<p>Teilung des Jordan</p>
+<p><reference osisRef="2Kgs.2.14">2. Kön. 2,14</reference></p>
+<p>Jerichos Wasser geheilt</p>
+<p><reference osisRef="2Kgs.2.21">2. Kön. 2,21</reference></p>
+<p>Lose Buben zerrissen von Bären</p>
+<p><reference osisRef="2Kgs.2.24">2. Kön. 2,24</reference></p>
+<p>Wasser für Josaphats Armee</p>
+<p><reference osisRef="2Kgs.3.16">2. Kön. 3,16</reference></p>
+<p>Öl im Krug zu Sunem</p>
+<p><reference osisRef="2Kgs.4.1">2. Kön. 4,1</reference></p>
+<p>Der Sohn der Sunamitin erweckt</p>
+<p><reference osisRef="2Kgs.4.32">2. Kön. 4,32</reference></p>
+<p>Wilde Kolloquinten eßbar</p>
+<p><reference osisRef="2Kgs.4.38">2. Kön. 4,38</reference></p>
+<p>Wunderbare Speisung</p>
+<p><reference osisRef="2Kgs.4.42">2. Kön. 4,42</reference></p>
+<p>Naemans Heilung</p>
+<p><reference osisRef="2Kgs.5.10">2. Kön. 5,10</reference></p>
+<p>Gehasis Strafe</p>
+<p><reference osisRef="2Kgs.5.27">2. Kön. 5,27</reference></p>
+<p>Schwimmende Axt</p>
+<p><reference osisRef="2Kgs.6.5">2. Kön. 6,5</reference></p>
+<p>Feinde mit Blindheit geschlagen</p>
+<p><reference osisRef="2Kgs.6.18">2. Kön. 6,18</reference></p>
+<p>185000 Tote</p>
+<p><reference osisRef="2Kgs.19.35">2. Kön. 19,35</reference></p>
+<p>Erschlagene in Aphel</p>
+<p><reference osisRef="2Kgs.20.30">2. Kön. 20,30</reference></p>
+<p>Wunder an der Sonnenuhr</p>
+<p><reference osisRef="2Kgs.20.9">2. Kön. 20,9</reference></p>
+<p>Usia aussätzig</p>
+<p><reference osisRef="2Chr.26.1">2. Chr. 26,1</reference></p>
+<p>Daniels Freunde im Feuerofen</p>
+<p><reference osisRef="Dan.3.19">Dan 3,19</reference></p>
+<p>Jona im Fischbauch</p>
+<p><reference osisRef="Jonah.2.1">Jona 2,1</reference></p>
+<p>Das Unkraut</p>
+<p>Mat. 13,24 - 30</p>
+<p>Schatz im Acker</p>
+<p>Mat. 13,44</p>
+<p>Köstliche Perle</p>
+<p>Mat. 13,45 - 46</p>
+<p>Fischernetz</p>
+<p>Mat. 13,47 - 48</p>
+<p>Schalksknecht</p>
+<p>Mat. 18,23 - 34</p>
+<p>Weinbergsarbeit</p>
+<p>Mat. 20,1 - 17</p>
+<p>Zwei Söhne</p>
+<p>Mat. 21,28 -32</p>
+<p>Hochzeitskleid</p>
+<p>Mat. 22,1 -15</p>
+<p>Zehn Jungfrauen</p>
+<p>Mat. 25,1 - 13</p>
+<p>Die Talente</p>
+<p>Mat. 25,14 - 20</p>
+<p>Schafe und Böcke</p>
+<p>Mat. 25,31 - 46</p>
+<p>Das Samenkorn</p>
+<p><reference osisRef="Mark.4.26-Mark.4.29">Mk. 4,26 - 29</reference></p>
+<p>Verreister Hausherr</p>
+<p><reference osisRef="Mark.13.34">Mk. 13,34</reference></p>
+<p>Die beiden Schuldner</p>
+<p><reference osisRef="Luke.7.36-Luke.7.50">Luk. 7,36 - 50</reference></p>
+<p>Barmherziger Samariter</p>
+<p><reference osisRef="Luke.10.25-Luke.10.37">Luk. 10,25 - 37</reference></p>
+<p>Störung um Mitternacht</p>
+<p><reference osisRef="Luke.11.5-Luke.11.8">Luk. 11,5 - 8</reference></p>
+<p>Der reiche Narr</p>
+<p><reference osisRef="Luke.12.16-Luke.12.21">Luk. 12,16 - 21</reference></p>
+<p>Wachende Knechte</p>
+<p><reference osisRef="Luke.12.35-Luke.12.40">Luk. 12,35 - 40</reference></p>
+<p>Kluge Haushalter</p>
+<p><reference osisRef="Luke.12.42-Luke.12.48">Luk. 12,42 - 48</reference></p>
+<p>Unfruchtbarer Feigenbaum</p>
+<p><reference osisRef="Luke.13.6-Luke.13.9">Luk. 13,6 - 9</reference></p>
+<p>Großes Abendmahl</p>
+<p><reference osisRef="Luke.14.16-Luke.14.24">Luk. 14,16 - 24</reference></p>
+<p>Der Turmbau</p>
+<p><reference osisRef="Luke.14.28-Luke.14.30">Luk. 14,28 - 30</reference></p>
+<p>Kriegsführung</p>
+<p><reference osisRef="Luke.14.31-Luke.14.33">Luk. 14,31 - 33</reference></p>
+<p>Verlorener Groschen</p>
+<p><reference osisRef="Luke.15.8-Luke.15.10">Luk. 15,8 - 10</reference></p>
+<p>Verlorener Sohn</p>
+<p><reference osisRef="Luke.15.11-Luke.15.32">Luk. 15,11 - 32</reference></p>
+<p>Ungerechte Haushalter</p>
+<p><reference osisRef="Luke.16.1-Luke.16.13">Luk. 16,1 - 13</reference></p>
+<p>Reicher Mann und Lazarus</p>
+<p><reference osisRef="Luke.16.19-Luke.16.31">Luk. 16,19 - 31</reference></p>
+<p>Unnütze Knechte</p>
+<p><reference osisRef="Luke.17.7-Luke.17.10">Luk. 17,7 - 10</reference></p>
+<p>Ungerechte Richter</p>
+<p><reference osisRef="Luke.18.1-Luke.18.8">Luk. 18,1 - 8</reference></p>
+<p>Pharisäer und Zöllner</p>
+<p><reference osisRef="Luke.18.10-Luke.18.14">Luk. 18,10 - 14</reference></p>
+<p>Anvertraute Pfunde</p>
+<p><reference osisRef="Luke.19.12-Luke.19.27">Luk. 19,12 - 27</reference></p>
+<p>Zweierlei Baugrund</p>
+<p>Mat. 7,24 - 27</p>
+<p><reference osisRef="Luke.6.41-Luke.6.49">Luk. 6,41 - 49</reference></p>
+<p>Sauerteig</p>
+<p>Mat. 16,33</p>
+<p><reference osisRef="Luke.13.20-Luke.13.21">Luk. 13,20 - 21</reference></p>
+<p>Verlorenes Schaf</p>
+<p>Mat. 18,12 - 13</p>
+<p><reference osisRef="Luke.15.4-Luke.15.6">Luk. 15,4 - 6</reference></p>
+<p>Leuchter</p>
+<p>Mat. 5,15</p>
+<p><reference osisRef="Mark.4.21">Mk. 4,21</reference></p>
+<p><reference osisRef="Luke.8.16">Luk. 8,16</reference></p>
+<p>Flicken</p>
+<p>Mat. 9,16</p>
+<p><reference osisRef="Mark.2.21">Mk. 2,21</reference></p>
+<p><reference osisRef="Luke.5.36">Luk. 5,36</reference></p>
+<p>Weinschlauch</p>
+<p>Mat. 9,17</p>
+<p><reference osisRef="Mark.2.22">Mk. 2,22</reference></p>
+<p><reference osisRef="Luke.5.38">Luk. 5,38</reference></p>
+<p>Sämann</p>
+<p>Mat. 13,3</p>
+<p><reference osisRef="Mark.4.3">Mk. 4,3</reference></p>
+<p><reference osisRef="Luke.8.5">Luk. 8,5</reference></p>
+<p>Senfkorn</p>
+<p>Mat. 13,31</p>
+<p><reference osisRef="Mark.4.30">Mk. 4,30</reference></p>
+<p><reference osisRef="Luke.13.18">Luk. 13,18</reference></p>
+<p>Knechte</p>
+<p>Mat. 21,33</p>
+<p><reference osisRef="Mark.12.1">Mk. 12,1</reference></p>
+<p><reference osisRef="Luke.20.9">Luk. 20,9</reference></p>
+<p>Feigenbaum</p>
+<p>Mat. 24,32</p>
+<p><reference osisRef="Mark.13.28">Mk. 13,28</reference></p>
+<p><reference osisRef="Luke.21.29">Luk 21,29</reference></p>
+<p>An Saulus vor Damaskus</p>
+<p><reference osisRef="Acts.9.4">Apg. 9,4</reference></p>
+<p><reference osisRef="Acts.22.17">Apg. 22,17</reference></p>
+<p><reference osisRef="Acts.26.14">Apg. 26,14</reference></p>
+<p>Auftrag an Ananias</p>
+<p><reference osisRef="Acts.9.10">Apg. 9,10</reference></p>
+<p>An Saulus im Tempel</p>
+<p><reference osisRef="Acts.22.17">Apg. 22,17</reference></p>
+<p>Weitere Worte an Paulus</p>
+<p><reference osisRef="Acts.26.16">Apg. 26,16</reference></p>
+<p>An Petrus auf dem Dach</p>
+<p><reference osisRef="Acts.10.13">Apg. 10,13</reference></p>
+<p>An Paulus in Korinth</p>
+<p><reference osisRef="Acts.18.9">Apg. 18,9</reference></p>
+<p>An Paulus in Jerusalem</p>
+<p><reference osisRef="Acts.23.11">Apg. 23,11</reference></p>
+<p>An Paulus in Schwachheit</p>
+<p><reference osisRef="2Cor.12.9">2. Kor. 12,9</reference></p>
+<p>An Johannes auf Patmos</p>
+<p>Off 1,11</p>
+<p>An sieben Gemeinden</p>
+<p>Off 2,1</p>
+<p>Ich will dir zeigen</p>
+<p>Off 4,1</p>
+<p>Schlußwort vom Thron</p>
+<p>Off 21,5</p>
+<p>In Mamre und Sodom</p>
+<p><reference osisRef="Gen.18.1">1. Mo 18,1</reference>;<reference osisRef="Gen.19.1">1. Mo 19,1</reference></p>
+<p>Bei Moses Leichnam</p>
+<p>Judas 9</p>
+<p>Bei der Tenne Arafna</p>
+<p>2. Sa 24,1</p>
+<p>Beim Wacholderbusch</p>
+<p><reference osisRef="1Kgs.19.1">1. Kön. 19,1</reference></p>
+<p>Seraphim im Heiligtum</p>
+<p><reference osisRef="Isa.6.1">Jes 6,1</reference></p>
+<p>Cherubim am Thronwagen</p>
+<p><reference osisRef="Ezek.3.1">Hes 3,1</reference></p>
+<p>Wächter über Nebukadnezar</p>
+<p><reference osisRef="Dan.4.1">Dan 4,1</reference></p>
+<p>Gespräch der Heiligen</p>
+<p><reference osisRef="Dan.8.13">Dan 8,13</reference></p>
+<p>Gabriels Auslegung</p>
+<p><reference osisRef="Dan.8.17">Dan 8,17</reference></p>
+<p>Gabriels Unterricht</p>
+<p><reference osisRef="Dan.9.22">Dan 9,22</reference></p>
+<p>Der Mann in Leinwand</p>
+<p><reference osisRef="Dan.10.1">Dan 10,1</reference></p>
+<p>Zwei andere Männer</p>
+<p><reference osisRef="Dan.12.5">Dan 12,5</reference></p>
+<p>Der Engel bei Sacharia</p>
+<p>Sac 1,1</p>
+<p>Andere Engel bei Sacharia</p>
+<p>Sac 1,1</p>
+<p>Gabriel bei Zacharias</p>
+<p>Luk 1</p>
+<p>Gabriel bei Maria</p>
+<p>Luk 1</p>
+<p>Engel bei Joseph</p>
+<p>Mat 1</p>
+<p>Engel bei Bethlehem</p>
+<p>Luk 2</p>
+<p>Engel bei Joseph</p>
+<p>Mat 2,1</p>
+<p>Engel im Grab</p>
+<p><reference osisRef="Mark.16.1">Mk. 16,1</reference>; Mat 28,1;<reference osisRef="Luke.24.1"> Luk 24,1</reference></p>
+<p>Engel bei Magdalena</p>
+<p><reference osisRef="John.20.1">Joh 20,1</reference></p>
+<p>Engel bei der Himmelfahrt</p>
+<p><reference osisRef="Acts.1.1">Apg. 1,1</reference></p>
+<p>Engel im Gefängnis</p>
+<p><reference osisRef="Acts.5.1">Apg. 5,1</reference></p>
+<p>Engel bei Philippus</p>
+<p><reference osisRef="Acts.8.1">Apg. 8,1</reference></p>
+<p>Engel bei Cornelius</p>
+<p><reference osisRef="Acts.10.1">Apg. 10,1</reference></p>
+<p>Engel bei Petrus</p>
+<p><reference osisRef="Acts.12.1">Apg. 12,1</reference></p>
+<p>Engel bei Paulus</p>
+<p><reference osisRef="Acts.27.1">Apg. 27,1</reference></p>
+<p>Die vier Lebewesen</p>
+<p>Off 4,8</p>
+<p>Ein starker Engel</p>
+<p>Off 5,2</p>
+<p>Viele tausend Engel</p>
+<p>Off 5,12</p>
+<p>Die vier Tiere</p>
+<p>Off 6,1</p>
+<p>— richtiger, Lebewesen</p>
+<p>Off 6,3</p>
+<p>— vielleicht Cherubim</p>
+<p>Off 6,5</p>
+<p>Die edelsten Geschöpfe</p>
+<p>Off 6,7</p>
+<p>Engel mit dem Siegel</p>
+<p>Off 7,3</p>
+<p>Alle Engel</p>
+<p>Off 7,12</p>
+<p>Adler-Engel</p>
+<p>Off 8,13</p>
+<p>Anderer starker Engel</p>
+<p>Off 10,3</p>
+<p>Drei Engel</p>
+<p>Off 14,6</p>
+<p>Zwei Engel</p>
+<p>Off 14,15</p>
+<p>Der Engel der Wasser</p>
+<p>Off 16,5</p>
+<p>einer der Sieben</p>
+<p>Off 17,1</p>
+<p>Engel mit großer Klarheit</p>
+<p>Off 18,1</p>
+<p>Engel mit großem Stein</p>
+<p>Off 18,21</p>
+<p>Engel - Johannes Mitknecht</p>
+<p>Off 19,10</p>
+<p>Engel in der Sonne</p>
+<p>Off 19,17</p>
+<p>Die große Stimme</p>
+<p>Off 21,3</p>
+<p>Der Dazwischenredende</p>
+<p>Off 21,5</p>
+<p>Der die Braut zeigt</p>
+<p>Off 21,9</p>
+<p>Der Schlußredner</p>
+<p>Off 22,6; Off 22,9</p>
+<p>Des ungeistlichen Geschwätzes entschlage dich</p>
+<p><reference osisRef="2Tim.2.16">2. Tim. 2,16</reference></p>
+<p>Entschlage dich der törichten, unnützen Fragen</p>
+<p><reference osisRef="2Tim.2.23">2. Tim. 2,23</reference></p>
+<p>Reinige dich von solchen Leuten</p>
+<p><reference osisRef="2Tim.2.21">2. Tim. 2,21</reference></p>
+<p>Fliehe die Lüste der Jugend</p>
+<p><reference osisRef="2Tim.2.22">2. Tim. 2,22</reference></p>
+<p>Jage nach der Gerechtigkeit</p>
+<p><reference osisRef="2Tim.2.22">2. Tim. 2,22</reference></p>
+<p>Sei stark, mein Sohn, durch die Gnade</p>
+<p><reference osisRef="2Tim.2.1">2. Tim. 2,1</reference></p>
+<p>Leide mit als ein guter Streiter Christi</p>
+<p><reference osisRef="2Tim.2.3">2. Tim. 2,3</reference></p>
+<p>Der Ackermann soll am ersten genießen</p>
+<p><reference osisRef="2Tim.2.6">2. Tim. 2,6</reference></p>
+<p>Sei ein unsträflicher Arbeiter</p>
+<p><reference osisRef="2Tim.2.15">2. Tim. 2,15</reference></p>
+<p>Ein geheiligtes Gefäß</p>
+<p><reference osisRef="2Tim.2.21">2. Tim. 2,21</reference></p>
+<p>Ein Knecht des Herrn, freundlich gegen jeden</p>
+<p><reference osisRef="2Tim.2.24">2. Tim. 2,24</reference></p>
+<p>Meinen Frieden gebe ich euch</p>
+<p><reference osisRef="John.14.27">Joh 14,27</reference></p>
+<p>Meine Liebe, bleibt in ihr</p>
+<p><reference osisRef="John.15.9">Joh 15,9</reference></p>
+<p>Meine Freude bleibe in euch</p>
+<p><reference osisRef="John.15.11">Joh 15,11</reference></p>
+<p>Meine Gnade ist genug für dich</p>
+<p><reference osisRef="2Cor.12.9">2. Kor. 12,9</reference></p>
+<p>Meine Kraft ist in dir mächtig</p>
+<p><reference osisRef="2Cor.12.9">2. Kor. 12,9</reference></p>
+<p>Meine Ruhe kommt zu dir</p>
+<p>Heb 4,5</p>
+<p>Meine Herrlichkeit sollen sie sehen</p>
+<p><reference osisRef="John.17.24">Joh 17,24</reference></p>
+<p>Euer Glaube, wertvoller als Gold</p>
+<p><reference osisRef="1Pet.1.7">1. Pet. 1,7</reference></p>
+<p>Der lebendige Stein, bei Gott wertvoll</p>
+<p><reference osisRef="1Pet.2.4">1. Pet. 2,4</reference></p>
+<p>Der wertvolle Eckstein in Zion</p>
+<p><reference osisRef="1Pet.2.6">1. Pet. 2,6</reference></p>
+<p>Euch, die ihr glaubt, ist er wertvoll</p>
+<p><reference osisRef="1Pet.2.7">1. Pet. 2,7</reference></p>
+<p>Mit stillem Geiste, das ist wertvoll bei Gott</p>
+<p><reference osisRef="1Pet.3.4">1. Pet. 3,4</reference></p>
+<p>Das Meer ist nicht mehr</p>
+<p>Off 21,1</p>
+<p>Der Tod wird nicht mehr sein</p>
+<p>Off 21,4</p>
+<p>Noch Leid</p>
+<p>Off 21,4</p>
+<p>Noch Geschrei</p>
+<p>Off 21,4</p>
+<p>Noch Schmerz</p>
+<p>Off 21,4</p>
+<p>Kein Verbanntes mehr</p>
+<p>Off 22,3</p>
+<p>Keine Nacht mehr</p>
+<p>Off 22,5</p>
+<p>Selig ist, der da liest die Worte</p>
+<p>Off 1,3</p>
+<p>Selig sind die Toten, die im Herrn sterben</p>
+<p>Off 2,18</p>
+<p>Selig ist, der da wacht</p>
+<p>Off 16,15</p>
+<p>Selig sind, die zum Abendmahl berufen sind</p>
+<p>Off 19,9</p>
+<p>Selig ist, der teil hat an der ersten Auferstehung</p>
+<p>Off 20,6</p>
+<p>Selig ist, der da hält die Worte</p>
+<p>Off 22,7</p>
+<p>Selig sind, die seine Gebote halten</p>
+<p>Off 22,14</p>
+<p>Wir erkennen, daß wir in ihm sind</p>
+<p><reference osisRef="1John.2.5">1. Joh. 2,5</reference></p>
+<p>Wir erkennen, daß die letzte Stunde ist</p>
+<p><reference osisRef="1John.2.18">1. Joh. 2,18</reference></p>
+<p>Wir erkennen, daß wir aus der Wahrheit sind</p>
+<p><reference osisRef="1John.3.19">1. Joh. 3,19</reference></p>
+<p>Wir erkennen, daß wir in ihm bleiben</p>
+<p><reference osisRef="1John.4.13">1. Joh. 4,13</reference></p>
+<p>Wir erkennen, daß er in uns bleibt</p>
+<p><reference osisRef="1John.3.24">1. Joh. 3,24</reference></p>
+<p>Wir erkennen, daß wir Gottes Kinder lieben</p>
+<p><reference osisRef="1John.5.2">1. Joh. 5,2</reference></p>
+<p>Wir wissen,</p>
+<p>… daß der Sohn Gottes gekommen ist</p>
+<p><reference osisRef="1John.5.20">1. Joh. 5,20</reference></p>
+<p>… daß wir von Gott sind</p>
+<p><reference osisRef="1John.5.19">1. Joh. 5,19</reference></p>
+<p>… daß die ganze Welt im Argen liegt</p>
+<p><reference osisRef="1John.5.19">1. Joh. 5,19</reference></p>
+<p>… daß wir aus dem Tode ins Leben gekommen sind</p>
+<p><reference osisRef="1John.5.14">1. Joh. 5,14</reference></p>
+<p>… daß er erschien, damit er unsere Sünden wegnähme</p>
+<p><reference osisRef="1John.3.5">1. Joh. 3,5</reference></p>
+<p>… daß er uns hört</p>
+<p><reference osisRef="1John.5.15">1. Joh. 5,15</reference></p>
+<p>… daß wir ihm gleich sein werden</p>
+<p><reference osisRef="1John.3.2">1. Joh. 3,2</reference></p>
+<p>Jesus ist soviel besser als die Engel</p>
+<p>Heb 1,4</p>
+<p>Wir versehen uns besseres zu euch</p>
+<p>Heb 6,9</p>
+<p>Geringeres wird von dem Besseren gesegnet</p>
+<p>Heb 7,7</p>
+<p>Wird eingeführt eine bessere Hoffnung</p>
+<p>Heb 7,19</p>
+<p>Ausrichter eines viel besseren Testamentes</p>
+<p>Heb 7,22</p>
+<p>Er hat ein besseres Amt</p>
+<p>Heb 8,6</p>
+<p>Ist eines besseren Testamentes Mittler</p>
+<p>Heb 8,6</p>
+<p>Dieses steht auf besseren Verheißungen</p>
+<p>Heb 8,6</p>
+<p>Müssen bessere Opfer haben</p>
+<p>Heb 9,23</p>
+<p>Ihr habt eine bessere Habe im Himmel</p>
+<p>Heb 10,34</p>
+<p>Ein besseres Vaterland</p>
+<p>Heb 11,16</p>
+<p>Die Auferstehung, die besser ist</p>
+<p>Heb 11,35</p>
+<p>Gott hat etwas Besseres für uns ersehen</p>
+<p>Heb 11,40</p>
+<p>Jesu Blut, das besser redet denn Abels</p>
+<p>Heb 12,24</p>
+<p>1. Das Gesetz konnte nichts vollkommen machen</p>
+<p>Heb 7,19</p>
+<p>2. Opfer können nichts vollkommen machen</p>
+<p>Heb 9,9</p>
+<p>3. Der Sohn, der vollkommen ist</p>
+<p>Heb 7,28</p>
+<p>4. Durch Leiden vollkommen gemacht</p>
+<p>Heb 2,10</p>
+<p>5. Durch eine vollkommene Hütte</p>
+<p>Heb 9,11</p>
+<p>6. Den Vollkommenen gehört starke Speise</p>
+<p>Heb 5,14</p>
+<p>7. Darum wollen wir zur Vollkommenheit fahren</p>
+<p>Heb 6,1</p>
+<p>Der Sohn, der ewig und vollkommen ist</p>
+<p>Heb 7,28</p>
+<p>Du bist ein Priester in Ewigkeit</p>
+<p>Heb. 5,6</p>
+<p>Jesus, ein Hohepriester in Ewigkeit</p>
+<p>Heb 6,20</p>
+<p>Dein Stuhl währt von Ewigkeit zu Ewigkeit</p>
+<p>Heb 1,8</p>
+<p>Jesus Christus, derselbe in Ewigkeit</p>
+<p>Heb 13,8</p>
+<p>Er bleibt ewig</p>
+<p>Heb 7,24</p>
+<p>Ist allen eine Ursache zur ewigen Seligkeit</p>
+<p>Heb 5,9</p>
+<p>Hat sich selbst dem ewigen Gott geopfert</p>
+<p>Heb 9,14</p>
+<p>Mit einem Opfer hat er in Ewigkeit vollendet</p>
+<p>Heb 10,14</p>
+<p>Hat für die Sünden geopfert, das ewig gilt</p>
+<p>Heb 10,12</p>
+<p>Durch das Blut des ewigen Testamentes</p>
+<p>Heb 13,20</p>
+<p>Hat eine ewige Erlösung gefunden</p>
+<p>Heb 9,12</p>
+<p>Vom ewigen Gericht</p>
+<p>Heb 6,2</p>
+<p>Daß die Berufenen das ewige Erbe empfangen</p>
+<p>Heb 9,15</p>
+<p>Die Sünde, die uns immer anklebt</p>
+<p>Heb 12,1</p>
+<p>Jesus kann auch immer selig machen</p>
+<p>Heb 7,25</p>
+<p>Immer irren sie mit dem Herzen</p>
+<p>Heb 3,10</p>
+<p>Jesus lebt immer und bittet für sie</p>
+<p>Heb 7,25</p>
+<p>Laßt uns</p>
+<p>… halten an dem Bekenntnis</p>
+<p>Heb 4,14</p>
+<p>… hinzutreten mit Freudigkeit</p>
+<p>Heb 4,16</p>
+<p>… halten … und nicht wanken</p>
+<p>Heb 10,23</p>
+<p>… hinzugehen mit wahrhaftigem Herzen</p>
+<p>Heb 10,22</p>
+<p>… ablegen die Sünde</p>
+<p>Heb 12,1</p>
+<p>… laufen mit Geduld</p>
+<p>Heb 12,1</p>
+<p>… aufsehen auf Jesus</p>
+<p>Heb 12,2</p>
+<p>… einander reizen zur Liebe</p>
+<p>Heb 10,24</p>
+<p>… opfern und seinen Namen bekennen</p>
+<p>Heb 13,15</p>
+<p>… nicht mit fremden Lehren umgehen</p>
+<p>Heb 13,9</p>
+<p>… genügen an dem, das da ist</p>
+<p>Heb 13,5</p>
+<p>… seine Schmach tragen</p>
+<p>Heb 13,13</p>
+<p>… nicht versäumen, zu seiner Ruhe zu kommen</p>
+<p>Heb 4,1</p>
+<p>… Fleiß tun, einzukommen zu der Ruhe</p>
+<p>Heb 4,11</p>
+<p>Der Herr wird etwas Neues schaffen</p>
+<p><reference osisRef="Num.16.30">4. Mo 16,30</reference></p>
+<p>Der Herr wird ein Neues schaffen</p>
+<p><reference osisRef="Jer.31.22">Jer 31,22</reference></p>
+<p>Neues Testament</p>
+<p>Heb 8,8</p>
+<p>Neue Kreatur</p>
+<p><reference osisRef="2Cor.5.17">2. Kor. 5,17</reference></p>
+<p>Neuer Mensch</p>
+<p><reference osisRef="Eph.2.15">Eph 2,15</reference></p>
+<p>Neues Leben</p>
+<p><reference osisRef="Rom.6.4">Röm 6,4</reference></p>
+<p>Neues Wesen</p>
+<p><reference osisRef="Rom.7.6">Röm 7,6</reference></p>
+<p>Neuer Weg</p>
+<p>Heb 10,20</p>
+<p>Neuer Name</p>
+<p>Off 3,12</p>
+<p>Neues Herz</p>
+<p><reference osisRef="Ezek.36.26">Hes 36,26</reference></p>
+<p>Neuer Geist</p>
+<p><reference osisRef="Ezek.11.19">Hes 11,19</reference></p>
+<p>Neue Zunge</p>
+<p><reference osisRef="Mark.16.17">Mk. 16,17</reference></p>
+<p>Neues Lied</p>
+<p><reference osisRef="Ps.40.3">Ps. 40,3</reference></p>
+<p>Neues Gebot</p>
+<p><reference osisRef="John.13.34">Joh 13,34</reference></p>
+<p>Neue Lehre</p>
+<p><reference osisRef="Mark.1.27">Mk. 1,27</reference></p>
+<p>Neue Kraft</p>
+<p><reference osisRef="Isa.40.31">Jes 40,31</reference></p>
+<p>Neue Barmherzigkeit</p>
+<p>Kla 3,23</p>
+<p>Neue Früchte</p>
+<p><reference osisRef="Ezek.47.12">Hes 47,12</reference></p>
+<p>Neues Jerusalem</p>
+<p>Off 21,2</p>
+<p>Neue Erde</p>
+<p>Off 21,1</p>
+<p>Neue Himmel</p>
+<p>Off 21,1</p>
+<p>Siehe, ich mache alles neu</p>
+<p>Off 21,5</p>
+</div>
+<div osisID="Jesus">
+<title>Jesus</title>
+<title>Die Einladungen unseres Heilands</title>
+<p>Wendet euch zu mir</p>
+<p><reference osisRef="Isa.45.22">Jes 45,22</reference></p>
+<p>Kommt her zu mir</p>
+<p>Mat 11,28</p>
+<p>Bleibt in mir</p>
+<p><reference osisRef="John.15.4">Joh 15,4</reference></p>
+<p>Lernt von mir</p>
+<p>Mat 11,29</p>
+<p>Folgt mir</p>
+<p><reference osisRef="John.21.15">Joh 21,15</reference></p>
+<p>Kommt mit mir</p>
+<p>Hoh 4,8</p>
+<p>Wacht mit mir</p>
+<p>Mat 26,38</p>
+<title>Die Erscheinungen des auferstandenen Jesus</title>
+<p>Maria</p>
+<p><reference osisRef="Mark.16.9">Mk. 16,9</reference></p>
+<p>Frauen, die vom Grab kamen</p>
+<p>Mat 28,9</p>
+<p>Petrus</p>
+<p><reference osisRef="Luke.24.34">Luk 24,34</reference></p>
+<p>Emmausjünger</p>
+<p><reference osisRef="Luke.24.31">Luk 24,31</reference></p>
+<p>10 Apostel zu Jerusalem</p>
+<p><reference osisRef="John.20.19">Joh 20,19</reference></p>
+<p>11 Apostel zu Jerusalem</p>
+<p><reference osisRef="John.20.26">Joh 20,26</reference></p>
+<p>Sieben Jünger, die fischen</p>
+<p><reference osisRef="John.21.7">Joh 21,7</reference></p>
+<p>Elf Jünger in Galiläa</p>
+<p>Mat 28,18</p>
+<p>500 Brüder und mehr</p>
+<p><reference osisRef="1Cor.15.6">1. Kor. 15,6</reference></p>
+<p>Jakobus</p>
+<p><reference osisRef="1Cor.15.7">1. Kor. 15,7</reference></p>
+<p>Elf bei der Himmelfahrt</p>
+<p><reference osisRef="Acts.1.11">Apg. 1,11</reference></p>
+<p>Paulus</p>
+<p><reference osisRef="1Cor.15.8">1. Kor. 15,8</reference></p>
+<title>Jesu «Ich will» im Matthäus-Evangelium</title>
+<p>Ich will</p>
+<p>… euch zu Menschenfischern machen</p>
+<p>Mat 4,19</p>
+<p>… dich reinigen</p>
+<p>Mat 8,3</p>
+<p>… kommen und gesund machen</p>
+<p>Mat 8,7</p>
+<p>… bekennen vor meinem Vater</p>
+<p>Mat 10,32</p>
+<p>… verleugnen vor meinem Vater</p>
+<p>Mat 10,32</p>
+<p>… offenbaren</p>
+<p>Mat 11,27</p>
+<p>… euch erquicken</p>
+<p>Mat 11,28</p>
+<p>… bauen meine Gemeinde</p>
+<p>Mat 16,18</p>
+<p>… dir die Schlüssel des Himmelreichs geben</p>
+<p>Mat 16,19</p>
+<p>… euch geben, was recht ist</p>
+<p>Mat 20,4</p>
+<p>… nach drei Tagen auferstehen</p>
+<p>Mat 27,63</p>
+<p>Wie oft habe ich gewollt, aber ihr habt nicht gewollt</p>
+<p>Mat 23,37</p>
+<p>Nicht wie ich will; wie du es willst, Vater</p>
+<p>Mat 26,39</p>
+</div>
+<div osisID="Personen">
+<title>Personen</title>
+<title>Johannes, der Täufer</title>
+<p>Seine Geburt verkündigt</p>
+<p><reference osisRef="Luke.1.11-Luke.1.17">Luk 1,11-17</reference></p>
+<p>Zacharias und Elisabeths Sohn</p>
+<p><reference osisRef="Luke.1.5-Luke.1.6">Luk 1,5-6</reference></p>
+<p>Geboren auf dem Gebirge Judas</p>
+<p><reference osisRef="Luke.1.39">Luk 1,39</reference></p>
+<p><reference osisRef="Luke.1.58">Luk 1,58</reference></p>
+<p>Beschneidung und Namensgebung</p>
+<p><reference osisRef="Luke.1.59-Luke.1.63">Luk 1,59-63</reference></p>
+<p>Wachsen und Werden in der Wüste</p>
+<p><reference osisRef="Luke.1.80">Luk 1,80</reference></p>
+<p>Nahrung und Kleidung</p>
+<p>Mat 3,4</p>
+<p><reference osisRef="Mark.1.6">Mk. 1,6</reference></p>
+<p>Sein einfaches Leben</p>
+<p><reference osisRef="Luke.1.15">Luk 1,15</reference></p>
+<p>Enthaltsamkeit</p>
+<p><reference osisRef="Luke.7.33">Luk 7,33</reference></p>
+<p>Mat 11,18</p>
+<p>Seine Entwicklung</p>
+<p><reference osisRef="Luke.7.24">Luk 7,24</reference></p>
+<p><reference osisRef="Luke.1.80">Luk 1,80</reference></p>
+<p>Charakter und Bedeutung</p>
+<p>Mat 11,7-18</p>
+<p>Anfang seiner Tätigkeit</p>
+<p><reference osisRef="Mark.1.4">Mk. 1,4</reference></p>
+<p>Seine Predigt</p>
+<p>Mat 3,1-3</p>
+<p>Sein inspiriertes Zeugnis</p>
+<p><reference osisRef="John.1.6-John.1.8">Joh 1,6-8</reference></p>
+<p>Buß- und Taufpredigt</p>
+<p><reference osisRef="Luke.3.2-Luke.3.3">Luk 3,2-3</reference></p>
+<p>Seine Standespredigten</p>
+<p><reference osisRef="Luke.3.7-Luke.3.18">Luk 3,7-18</reference></p>
+<p>Weckruf an die Pharisäer</p>
+<p>Mat 3,7-12</p>
+<p>Wird mit Christus verwechselt</p>
+<p><reference osisRef="Luke.3.15">Luk 3,15</reference></p>
+<p>Auskundschaften der Priester</p>
+<p><reference osisRef="John.1.19-John.1.27">Joh 1,19-27</reference></p>
+<p>Popularität</p>
+<p>Mat 3,5</p>
+<p>Sein Zeugnis von Christus</p>
+<p><reference osisRef="Luke.3.16-Luke.3.17">Luk 3,16-17</reference></p>
+<p>Mat 3,11-12</p>
+<p><reference osisRef="Mark.1.7-Mark.1.8">Mk. 1,7-8</reference></p>
+<p><reference osisRef="John.1.15">Joh 1,15</reference></p>
+<p><reference osisRef="John.1.26-John.1.36">Joh 1,26-36</reference></p>
+<p><reference osisRef="John.3.26-John.3.36">Joh 3,26-36</reference></p>
+<p><reference osisRef="Acts.13.25">Apg. 13,25</reference></p>
+<p>Sein Taufen durch Untertauchen</p>
+<p><reference osisRef="Mark.1.4-Mark.1.5">Mk. 1,4-5</reference></p>
+<p>Mat 3,5-10</p>
+<p>- in genügend tiefem Wasser</p>
+<p><reference osisRef="Luke.3.14-Luke.3.15">Luk 3,14-15</reference></p>
+<p>- auf das Bekenntnis des Täuflings</p>
+<p><reference osisRef="John.1.28">Joh 1,28</reference></p>
+<p>Göttlicher Auftrag zu taufen</p>
+<p><reference osisRef="John.1.28">Joh 1,28</reference></p>
+<p>Wie und warum er taufte</p>
+<p><reference osisRef="John.1.25-John.1.31">Joh 1,25-31</reference></p>
+<p>Taufe mit dem Heiligen Geist</p>
+<p><reference osisRef="Luke.3.16">Luk 3,16</reference></p>
+<p>Mat 3,11</p>
+<p><reference osisRef="Mark.1.8">Mk. 1,8</reference></p>
+<p><reference osisRef="John.1.26-John.1.27">Joh 1,26-27</reference></p>
+<p><reference osisRef="John.1.33">Joh 1,33</reference></p>
+<p><reference osisRef="Acts.1.5">Apg. 1,5</reference></p>
+<p><reference osisRef="Acts.11.16">Apg. 11,16</reference></p>
+<p>Er taufte Jesus</p>
+<p><reference osisRef="John.1.32">Joh 1,32</reference></p>
+<p>Mat 3,13-16</p>
+<p><reference osisRef="Mark.1.9-Mark.1.11">Mk. 1,9-11</reference></p>
+<p><reference osisRef="Luke.3.21-Luke.3.22">Luk 3,21-22</reference></p>
+<p>Christus bekennt sich zu ihm</p>
+<p><reference osisRef="John.5.32-John.5.35">Joh 5,32-35</reference></p>
+<p>Mat 11,7-19</p>
+<p><reference osisRef="Luke.7.24-Luke.7.33">Luk 7,24-33</reference></p>
+<p>- sagt, er sei Elias</p>
+<p>Mat 11,7-19</p>
+<p>Johannes tat kein Wunder</p>
+<p><reference osisRef="John.10.41">Joh 10,41</reference></p>
+<p>Seine Jünger fasteten</p>
+<p><reference osisRef="Luke.5.33">Luk 5,33</reference></p>
+<p>Er lehrte sie beten</p>
+<p><reference osisRef="Luke.11.1">Luk 11,1</reference></p>
+<p>Andreas einer seiner Jünger</p>
+<p><reference osisRef="John.1.35-John.1.40">Joh 1,35-40</reference></p>
+<p>Disput über die Reinigung</p>
+<p><reference osisRef="John.3.25">Joh 3,25</reference></p>
+<p>Hört von Christi Wundern</p>
+<p>Mat 11,2</p>
+<p><reference osisRef="Luke.7.18">Luk 7,18</reference></p>
+<p>Gefangenschaft und Ende</p>
+<p><reference osisRef="Luke.3.19-Luke.3.20">Luk 3,19-20</reference></p>
+<p>Mat 14,3-12</p>
+<p><reference osisRef="Mark.6.17-Mark.6.29">Mk. 6,17-29</reference></p>
+<p>Mat 4,12</p>
+<p>Mat 11,2-6</p>
+<p><reference osisRef="Luke.7.19-Luke.7.23">Luk 7,19-23</reference></p>
+<p>Herodes glaubt ihn auferstanden</p>
+<p>Mat 14,1-2</p>
+<title>Josua</title>
+<p>des Kampfes</p>
+<p><reference osisRef="Exod.17.8-Exod.17.16">2. Mo 17,8-16</reference></p>
+<p>des Gebets</p>
+<p><reference osisRef="Exod.24.12-Exod.24.18">2. Mo 24,12-18</reference></p>
+<p>der Enttäuschung</p>
+<p><reference osisRef="Exod.32.15-Exod.32.20">2. Mo 32,15-20</reference></p>
+<p>des Dienstes</p>
+<p><reference osisRef="Exod.33.11">2. Mo 33,11</reference></p>
+<p>der Demütigung</p>
+<p><reference osisRef="Num.11.26-Num.11.29">4. Mo 11,26-29</reference></p>
+<p>des Glaubens</p>
+<p><reference osisRef="Num.13.3">4. Mo 13,3</reference>, 13,8, 13,16, 14,6-9</p>
+<p>des Gehorsams</p>
+<p><reference osisRef="Num.27.12-Num.27.23">4. Mo 27,12-23</reference></p>
+<p>der Verantwortung</p>
+<p><reference osisRef="Num.32.28-Num.32.30">4. Mo 32,28-30</reference></p>
+<p>des Vertrauens</p>
+<p><reference osisRef="Deut.31.1-Deut.31.23">5. Mo 31,1-23</reference></p>
+<p>Josua 1</p>
+<p>Auftrag und Unterweisung</p>
+<p>Verheißung</p>
+<p>Josua 2</p>
+<p>Aussendung der zwei Spione</p>
+<p>Vorsicht</p>
+<p>Josua 3-4</p>
+<p>Übergang über den Jordan</p>
+<p>Glaubensmut</p>
+<p>Josua 5</p>
+<p>Beschneidung und Passahfest</p>
+<p>Reinigung</p>
+<p>Josua 6</p>
+<p>Einnahme Jerichos</p>
+<p>Gottvertrauen</p>
+<p>Josua 7-8</p>
+<p>Achan und Ai</p>
+<p>Gericht</p>
+<p>Josua 9</p>
+<p>Bündnis mit den Gibeonitern</p>
+<p>List</p>
+<p>Josua 10-12</p>
+<p>Unterwerfung des Landes</p>
+<p>Sieg</p>
+<p>Josua 13-22</p>
+<p>Teilung des Landes</p>
+<p>Erbe</p>
+<p>Josua 23-24</p>
+<p>Josuas letzte Worte an Israel</p>
+<p>Ermahnung</p>
+<title>Paulus, der Heidenapostel</title>
+<p>Sein Name, Saulus oder Paulus</p>
+<p><reference osisRef="Acts.13.9">Apg. 13,9</reference></p>
+<p>Aus dem Stamme Benjamin</p>
+<p>Phi. 3,5</p>
+<p>Hebräer von Hebräern</p>
+<p><reference osisRef="2Cor.11.22">2. Kor. 11,22</reference></p>
+<p>Pharisäer</p>
+<p><reference osisRef="Acts.22.3">Apg. 22,3</reference></p>
+<p>Geboren in Tarsus</p>
+<p><reference osisRef="Acts.9.11">Apg. 9,11</reference></p>
+<p>Beschnitten</p>
+<p>Phi. 3,5</p>
+<p>Geborener römischer Bürger</p>
+<p><reference osisRef="Acts.16.37">Apg. 16,37</reference></p>
+<p>Unterrichtet durch Gamaliel</p>
+<p><reference osisRef="Acts.22.3">Apg. 22,3</reference></p>
+<p>Zeltmacher</p>
+<p><reference osisRef="Acts.18.3">Apg. 18,3</reference></p>
+<p>War bei Stephanus Tod anwesend</p>
+<p><reference osisRef="Acts.7.58">Apg. 7,58</reference></p>
+<p>Verfolgt die Christen</p>
+<p><reference osisRef="Acts.22.4-Acts.22.11">Apg. 22,4 - 11</reference></p>
+<p>Reise nach Damaskus</p>
+<p><reference osisRef="Acts.22.4-Acts.22.11">Apg. 22,4 - 11</reference></p>
+<p>Er sieht in einer Vision Ananias</p>
+<p><reference osisRef="Acts.9.12-Acts.9.19">Apg. 9,12 - 19</reference></p>
+<p>Der heilt und tauft ihn</p>
+<p><reference osisRef="Acts.22.12-Acts.22.16">Apg. 22,12 - 16</reference></p>
+<p>Berufung zum Apostel</p>
+<p><reference osisRef="Acts.9.15-Acts.9.16">Apg. 9,15 - 16</reference></p>
+<p>Durch Jesus in einer Vision</p>
+<p><reference osisRef="Acts.22.14-Acts.22.21">Apg. 22,14 - 21</reference></p>
+<p>Auftrag und Verheißung</p>
+<p><reference osisRef="Acts.26.16-Acts.26.18">Apg. 26,16 - 18</reference></p>
+<p>Predigt in Damaskus</p>
+<p><reference osisRef="Acts.9.19-Acts.9.27">Apg. 9,19 - 27</reference></p>
+<p>Reise nach Arabien und zurück</p>
+<p><reference osisRef="Gal.1.17">Gal. 1,17</reference></p>
+<p>Verfolgung und Flucht</p>
+<p><reference osisRef="2Cor.11.31-2Cor.11.33">2. Kor. 11,31 - 33</reference></p>
+<p>Nach Jerusalem</p>
+<p><reference osisRef="Gal.1.18-Gal.1.19">Gal. 1,18 - 19</reference></p>
+<p>Gespräch mit den Griechen</p>
+<p><reference osisRef="Acts.9.29">Apg. 9,29</reference></p>
+<p>Vision, Sendung zu den Heiden</p>
+<p><reference osisRef="Acts.22.17-Acts.22.21">Apg. 22,17 - 21</reference></p>
+<p>Syrien, Cilicien</p>
+<p><reference osisRef="Gal.1.21">Gal. 1,21</reference></p>
+<p>Von Tarsus nach Antiochien</p>
+<p><reference osisRef="Acts.11.25-Acts.11.26">Apg. 11,25 - 26</reference></p>
+<p>Mit Barnabas nach Jerusalem</p>
+<p><reference osisRef="Acts.11.29-Acts.11.30">Apg. 11,29 - 30</reference></p>
+<p>Zurück mit Johannes-Markus</p>
+<p><reference osisRef="Acts.12.25">Apg. 12,25</reference></p>
+<p>Durch den Heiligen Geist ausgesandt</p>
+<p><reference osisRef="Acts.13.2-Acts.13.3">Apg. 13,2 - 3</reference></p>
+<p>Seleucia, Salamis, Paphos</p>
+<p><reference osisRef="Acts.13.4-Acts.13.6">Apg. 13,4 - 6</reference></p>
+<p>Sergius Paulus und Elymas</p>
+<p><reference osisRef="Acts.13.6-Acts.13.12">Apg. 13,6 - 12</reference></p>
+<p>Bedeutende Predigt in Pisidien</p>
+<p><reference osisRef="Acts.13.13-Acts.13.51">Apg. 13,13 - 51</reference></p>
+<p>Verfolgung und Leiden in Pisidien</p>
+<p><reference osisRef="2Tim.3.11">2. Tim. 3,11</reference></p>
+<p>Erfolg und Leiden in Ikonien</p>
+<p><reference osisRef="Acts.14.1-Acts.14.6">Apg. 14,1 - 6</reference></p>
+<p>Lystra, Krüppelheilung</p>
+<p><reference osisRef="2Cor.11.25">2. Kor. 11,25</reference></p>
+<p><reference osisRef="Acts.14.6-Acts.14.20">Apg. 14,6 - 20</reference></p>
+<p>Nach Derbe und denselben Weg zurück</p>
+<p>Beschneidungsstreitigkeiten</p>
+<p><reference osisRef="Acts.15.1-Acts.15.5">Apg. 15,1 - 5</reference></p>
+<p><reference osisRef="Gal.1.7">Gal 1,7</reference></p>
+<p><reference osisRef="Gal.2.4">Gal 2,4</reference></p>
+<p>Apostelkonzil</p>
+<p><reference osisRef="Acts.15.2-Acts.15.29">Apg. 15,2 - 29</reference></p>
+<p><reference osisRef="Gal.2.1-Gal.2.10">Gal 2,1 - 10</reference></p>
+<p>Mit Brief zurück nach Antiochien</p>
+<p><reference osisRef="Acts.15.22-Acts.15.31">Apg. 15,22 - 31</reference></p>
+<p>Zusammenstoß mit Petrus</p>
+<p><reference osisRef="Gal.2.11-Gal.2.16">Gal 2,11 - 16</reference></p>
+<p>Trennung von Barnabas</p>
+<p><reference osisRef="Acts.15.34-Acts.15.41">Apg. 15,34 - 41</reference></p>
+<p>Befestigung der Gemeinden</p>
+<p><reference osisRef="Acts.16.1-Acts.16.5">Apg. 16,1 - 5</reference></p>
+<p>In Lystra Beschneidung des Timotheus</p>
+<p><reference osisRef="Acts.16.1-Acts.16.3">Apg. 16,1 - 3</reference></p>
+<p>Mit Timotheus durch Galatien</p>
+<p><reference osisRef="Gal.4.13-Gal.4.16">Gal 4,13 - 16</reference></p>
+<p>Verwehrt nach Bithynien</p>
+<p><reference osisRef="Acts.16.6-Acts.16.7">Apg. 16,6 - 7</reference></p>
+<p>Mann aus Macedonien</p>
+<p><reference osisRef="Acts.16.8-Acts.16.9">Apg. 16,8 - 9</reference></p>
+<p>Dorthin mit Lukas</p>
+<p><reference osisRef="Acts.16.10-Acts.16.11">Apg. 16,10 - 11</reference></p>
+<p>Erste Bekehrte in Europa</p>
+<p><reference osisRef="Acts.16.12-Acts.16.15">Apg. 16,12 - 15</reference></p>
+<p>Wahrsagergeist, Kerker</p>
+<p><reference osisRef="Acts.16.16-Acts.16.24">Apg. 16,16 - 24</reference></p>
+<p>Kerkermeister in Philippi</p>
+<p><reference osisRef="Acts.16.24-Acts.16.40">Apg. 16,24 -40</reference></p>
+<p><reference osisRef="2Cor.6.5">2. Kor. 6,5</reference></p>
+<p>Thessalonich</p>
+<p><reference osisRef="Acts.7.1-Acts.7.9">Apg. 7,1 - 9</reference></p>
+<p><reference osisRef="2Thess.3.8-2Thess.3.10">2. Thess. 3,8 - 10</reference></p>
+<p>Beröa , Erfolg und Leiden</p>
+<p><reference osisRef="Acts.17.10-Acts.17.13">Apg. 17,10 - 13</reference></p>
+<p>Alleine nach Athen</p>
+<p><reference osisRef="1Thess.3.1-1Thess.3.6">1. Thess. 3,1 - 6</reference></p>
+<p><reference osisRef="Acts.17.14-Acts.17.34">Apg. 17,14 - 34</reference></p>
+<p>Korinth</p>
+<p><reference osisRef="1Thess.3.6">1. Thess. 3,6</reference></p>
+<p><reference osisRef="Acts.18.1-Acts.18.17">Apg. 18,1 - 17</reference></p>
+<p>Ephesus</p>
+<p><reference osisRef="Acts.18.18-Acts.18.21">Apg. 18,18 - 21</reference></p>
+<p>Wunder, Zauberbücher</p>
+<p><reference osisRef="Acts.19.1-Acts.19.40">Apg. 19,1 - 40</reference></p>
+<p>Zwischendurch nach Korinth?</p>
+<p><reference osisRef="2Cor.2.1">2. Kor. 2,1</reference></p>
+<p>Es kommt anders, als er denkt</p>
+<p><reference osisRef="Acts.19.21">Apg. 19,21</reference></p>
+<p>Kollekte für Jerusalem</p>
+<p><reference osisRef="Gal.2.10">Gal 2,10</reference></p>
+<p><reference osisRef="1Cor.16.1-1Cor.16.4">1. Kor. 16,1 - 4</reference></p>
+<p>Timotheus und Macedonien</p>
+<p><reference osisRef="1Cor.4.17">1. Kor. 4,17</reference></p>
+<p>Demetrius</p>
+<p><reference osisRef="2Cor.1.8">2. Kor. 1,8</reference></p>
+<p>Ohne Timotheus</p>
+<p><reference osisRef="1Cor.2.12-1Cor.2.13">1. Kor. 2,12 - 13</reference></p>
+<p>Trifft Titus und sendet ihn</p>
+<p><reference osisRef="2Cor.7.5-2Cor.7.15">2. Kor. 7,5 - 15</reference></p>
+<p>Nach Korinth</p>
+<p>2. Kor. 8</p>
+<p>Illyrium und ringsum</p>
+<p><reference osisRef="Rom.15.19-Rom.15.20">Röm 15,19 - 20</reference></p>
+<p>Griechenland</p>
+<p><reference osisRef="Rom.16.1">Röm 16,1</reference></p>
+<p><reference osisRef="Rom.16.23">Röm 16,23</reference></p>
+<p>Reiseänderung</p>
+<p><reference osisRef="Acts.20.3-Acts.20.5">Apg. 20,3 -5</reference></p>
+<p>Troas, Eutychus</p>
+<p><reference osisRef="Acts.20.5-Acts.20.12">Apg. 20,5 - 12</reference></p>
+<p>Trifft wieder Lukas</p>
+<p><reference osisRef="Acts.20.13-Acts.20.16">Apg. 20,13 - 16</reference></p>
+<p>Abschied in Milet</p>
+<p><reference osisRef="Acts.20.16-Acts.20.38">Apg. 20,16 - 38</reference></p>
+<p>Schiffahrt mit Stationen</p>
+<p><reference osisRef="Acts.21.1-Acts.21.7">Apg. 21,1 - 7</reference></p>
+<p>Agabus in Philippus Haus</p>
+<p><reference osisRef="Acts.21.8-Acts.21.14">Apg. 21,8 - 14</reference></p>
+<p>In Jerusalem - Tempelopfer</p>
+<p><reference osisRef="Acts.21.15-Acts.21.27">Apg. 21,15 - 27</reference></p>
+<p>Geldablieferung</p>
+<p><reference osisRef="Rom.15.25-Rom.15.31">Röm 15,25 - 31</reference></p>
+<p><reference osisRef="2Cor.8.19-2Cor.8.20">2. Kor. 8,19 - 20</reference></p>
+<p>Aufruhr</p>
+<p><reference osisRef="Acts.21.27-Acts.21.40">Apg. 21,27 - 40</reference></p>
+<p>Paulus hebräische Predigt</p>
+<p><reference osisRef="Acts.22.1-Acts.22.22">Apg. 22,1 - 22</reference></p>
+<p>Vorrecht als römischer Bürger</p>
+<p><reference osisRef="Acts.22.22-Acts.22.30">Apg. 22,22 - 30</reference></p>
+<p>Vor dem Hohen Rat</p>
+<p><reference osisRef="Acts.23.1-Acts.23.10">Apg. 23,1 - 10</reference></p>
+<p>Trost durch eine Vision</p>
+<p><reference osisRef="Acts.23.11">Apg. 23,11</reference></p>
+<p>Nach Cäsarea vor Felix</p>
+<p><reference osisRef="Acts.23.12-Acts.23.35">Apg. 23,12 - 35</reference></p>
+<p>Tertullus, Felix, Drusilla</p>
+<p><reference osisRef="Acts.24.1-Acts.24.27">Apg. 24,1 - 27</reference></p>
+<p>Beruft sich vor Festus auf den Kaiser</p>
+<p><reference osisRef="Acts.25.1-Acts.25.27">Apg. 25,1 - 27</reference></p>
+<p>Vor Agrippa</p>
+<p><reference osisRef="Acts.26.1-Acts.26.32">Apg. 26,1 - 32</reference></p>
+<p>Reise nach Rom, Schiffbruch</p>
+<p><reference osisRef="Acts.27.1-Acts.27.44">Apg. 27,1 - 44</reference></p>
+<p>Schlangenbiß, Krankenheilung</p>
+<p><reference osisRef="Acts.28.1-Acts.28.10">Apg. 28,1 - 10</reference></p>
+<p>In Rom, Rede zu den Juden</p>
+<p><reference osisRef="Acts.28.11-Acts.28.28">Apg. 28,11 - 28</reference>,29</p>
+<p>Zog nach Macedonien</p>
+<p><reference osisRef="1Tim.1.3">1. Tim. 1,3</reference></p>
+<p>Kreta</p>
+<p><reference osisRef="Titus.1.5">Tit 1,5</reference></p>
+<p>Milet, Korinth</p>
+<p><reference osisRef="2Tim.4.20">2. Tim. 4,20</reference></p>
+<p>Nikopolis</p>
+<p><reference osisRef="Titus.3.12">Tit 3,12</reference></p>
+<p>Rom</p>
+<p><reference osisRef="2Tim.4.16-2Tim.4.17">2. Tim. 4,16 - 17</reference></p>
+</div>
+<div osisID="Sonstiges">
+<title>Sonstiges</title>
+<title>Erlösung</title>
+<p>Das biblische Wort Erlösung enthält das Bild eines Sklaven, der zurück- oder freigekauft wird. Der Sklavenmarkt, auf dem Männer und Frauen gesund verkauft wurden, war in der römischen Welt zur Zeit Jesu ein alltäglicher Anblick.</p>
+<p>Wir gingen alle in der Irre</p>
+<p><reference osisRef="Isa.53.6">Jes 53,6</reference></p>
+<p>Sind allzumal Sünder</p>
+<p><reference osisRef="Rom.3.23">Röm 3,23</reference></p>
+<p>So wir sagen, wir haben nicht gesündigt</p>
+<p><reference osisRef="1John.1.8">1. Joh. 1,8</reference></p>
+<p>Sind alle abgewichen</p>
+<p><reference osisRef="Rom.3.12">Röm 3,12</reference></p>
+<p>Sind allesamt untüchtig</p>
+<p><reference osisRef="Ps.14.3">Ps. 14,3</reference></p>
+<p>Wer wird bestehen?</p>
+<p><reference osisRef="Ps.130.3">Ps. 130,3</reference></p>
+<p>Der Tod ist der Sünde Sold</p>
+<p><reference osisRef="Rom.6.23">Röm 6,23</reference></p>
+<p>Wer Sünde tut, ist der Sünde Knecht</p>
+<p><reference osisRef="John.8.34">Joh 8,34</reference></p>
+<p>Die Gottlosen haben keinen Frieden</p>
+<p><reference osisRef="Isa.57.20-Isa.57.57">Jes 57, 20 - 57</reference>,21</p>
+<p>Der Zorn Gottes ist über ihm</p>
+<p><reference osisRef="John.6.36">Joh 6,36</reference></p>
+<p>Verflucht, wer nicht bleibt in allem</p>
+<p><reference osisRef="Gal.3.10">Gal 3,10</reference></p>
+<p>Deren Teil wird sein in dem Pfuhl</p>
+<p>Off 21,8</p>
+<p>Für alle den Tod geschmeckt</p>
+<p>Heb 2,9</p>
+<p>Für uns alle dahingegeben</p>
+<p><reference osisRef="Rom.8.32">Röm 8,32</reference></p>
+<p>Der Herr warf unser aller Sünde auf ihn</p>
+<p><reference osisRef="Isa.53.6">Jes 53,6</reference></p>
+<p>Zur Versöhnung für unsere Sünden</p>
+<p><reference osisRef="1John.4.10">1. Joh. 4,10</reference></p>
+<p>Auch für die der ganzen Welt</p>
+<p><reference osisRef="1John.2.9">1. Joh. 2,9</reference></p>
+<p>Alle, die an ihn glauben, sind nicht verloren</p>
+<p><reference osisRef="John.3.16">Joh 3,16</reference></p>
+<p>Christus hat uns erlöst</p>
+<p><reference osisRef="Gal.3.13">Gal 3,13</reference></p>
+<p>Erlöst mit dem teuren Blut Christi</p>
+<p><reference osisRef="1Pet.1.19">1. Pet. 1,19</reference></p>
+<p>Unsere Sünden selbst hinaufgetragen</p>
+<p><reference osisRef="1Pet.2.24">1. Pet. 2,24</reference></p>
+<p>Durch ihn alles versöhnt</p>
+<p><reference osisRef="Col.1.19">Kol 1,19</reference></p>
+<p>Durch sein Blut Sündenvergebung</p>
+<p><reference osisRef="Eph.1.7">Eph 1,7</reference></p>
+<p>Es ist vollbracht</p>
+<p><reference osisRef="John.19.30">Joh 19,30</reference></p>
+<p>Laßt euch versöhnen</p>
+<p><reference osisRef="2Cor.5.20">2. Kor. 5,20</reference></p>
+<p>Wie viele ihn aufnahmen, denen gab er</p>
+<p><reference osisRef="John.1.12">Joh 1,12</reference></p>
+<p>Glaube an den Herrn Jesus Christus</p>
+<p><reference osisRef="Acts.16.31">Apg. 16,31</reference></p>
+<p>Wer an den Sohn glaubt, hat das ewige Leben</p>
+<p><reference osisRef="John.3.36">Joh 3,36</reference></p>
+<p>So man bekennt und von Herzen glaubt</p>
+<p><reference osisRef="Rom.10.10">Röm 10,10</reference></p>
+<p>Wer glaubt und getauft wird</p>
+<p><reference osisRef="Mark.16.16">Mk. 16,16</reference></p>
+<p>In keinem anderen Heil</p>
+<p><reference osisRef="Acts.4.12">Apg. 4,12</reference></p>
+<p>Nur ein Mittler</p>
+<p><reference osisRef="1Tim.2.5">1. Tim. 2,5</reference></p>
+<p>Christus, der uns vertritt</p>
+<p><reference osisRef="Rom.8.34">Röm 8,34</reference></p>
+<p>Wendet euch zu mir</p>
+<p><reference osisRef="Isa.45.21">Jes 45,21</reference></p>
+<p>Vergebung der Sünden durch ihn</p>
+<p><reference osisRef="Acts.13.38">Apg. 13,38</reference></p>
+<p>Der Weg zum Vater durch mich</p>
+<p><reference osisRef="John.14.6">Joh 14,6</reference></p>
+<p>Vater, vergib ihnen</p>
+<p><reference osisRef="Luke.23.34">Luk 23,34</reference></p>
+<p>Christus, für Gottlose gestorben</p>
+<p><reference osisRef="Rom.5.6">Röm 5,6</reference></p>
+<p>Wenn eure Sünde gleich blutrot ist</p>
+<p><reference osisRef="Isa.1.8">Jes 1,8</reference></p>
+<p>Selig zu machen, was verloren ist</p>
+<p><reference osisRef="Luke.19.10">Luk 19,10</reference></p>
+<p>Unter welchen ich der Vornehmste</p>
+<p><reference osisRef="1Tim.1.15">1. Tim. 1,15</reference></p>
+<p>Will solche aus euch machen, die</p>
+<p><reference osisRef="Ezek.36.27">Hes 36,27</reference></p>
+<p>Alle, die glauben, empfangen Vergebung</p>
+<p><reference osisRef="Acts.10.43">Apg. 10,43</reference></p>
+<p>Wen dürstet, der komme</p>
+<p><reference osisRef="John.7.37">Joh 7,37</reference></p>
+<p>Wohlan, alle, kommt her</p>
+<p><reference osisRef="Isa.55.1">Jes 55,1</reference></p>
+<p>Wer da will, der nehme</p>
+<p>Off 22,17</p>
+<p>Kommt her zu mir, alle</p>
+<p>Mat 11,28</p>
+<p>Wer kommt, wird nicht hinausgestoßen</p>
+<p><reference osisRef="John.6.37">Joh 6,37</reference></p>
+<p>Kehrt wieder, ich will euch helfen</p>
+<p><reference osisRef="Jer.3.22">Jer 3,22</reference></p>
+<p>Kehre dich zu mir, ich erlöse dich</p>
+<p><reference osisRef="Isa.44.22">Jes 44,22</reference></p>
+<p>Dieser Sohn war tot</p>
+<p><reference osisRef="Luke.15.13-Luke.15.15">Luk 15,13 - 15</reference>,24</p>
+<p>Er demütigte sich, da erhörte er</p>
+<p><reference osisRef="2Chr.33.12">2. Chr. 33,12</reference></p>
+<p>Bekehre dich, Israel, du bist gefallen</p>
+<p><reference osisRef="Hos.14.1-Hos.14.14">Hos 14,1 - 14</reference>,4</p>
+<p>Und ob jemand sündigt</p>
+<p><reference osisRef="1John.2.1">1. Joh. 2,1</reference></p>
+<title>Geistige Freiheit</title>
+<p>Freiheit im Hinzutreten</p>
+<p><reference osisRef="Eph.2.18">Eph 2,18</reference></p>
+<p>Heb 10,19</p>
+<p>Freiheit beim Beten</p>
+<p><reference osisRef="Rom.8.26">Röm 8,26</reference></p>
+<p><reference osisRef="1John.5.14-1John.5.15">1. Joh. 5,14-15</reference></p>
+<p>Freiheit in der Kindschaft</p>
+<p><reference osisRef="Rom.8.14-Rom.8.15">Röm 8,14-15</reference></p>
+<p><reference osisRef="Gal.4.5-Gal.4.6">Gal 4,5-6</reference></p>
+<p>Frei vom Gesetz und Tod</p>
+<p><reference osisRef="Rom.8.2">Röm 8,2</reference></p>
+<p>Frei von der Macht des Fleisches</p>
+<p><reference osisRef="Gal.5.16-Gal.5.18">Gal 5,16-18</reference></p>
+<p>Frei aus den Händen der Feinde</p>
+<p><reference osisRef="Luke.1.74">Luk 1,74</reference></p>
+<p>Frei vom Gefühl der Furcht</p>
+<p><reference osisRef="2Tim.1.7">2. Tim. 1,7</reference></p>
+<p><reference osisRef="Acts.4.29">Apg. 4,29</reference></p>
+<p><reference osisRef="1Cor.12.11">1. Kor. 12,11</reference></p>
+<p>Frei vom Gefühl der Untauglichkeit</p>
+<p><reference osisRef="Ps.51.12-Ps.51.13">Ps. 51,12-13</reference></p>
+<p><reference osisRef="1Cor.12.11">1. Kor. 12,11</reference></p>
+<p><reference osisRef="2Cor.3.5-2Cor.3.6">2. Kor. 3,5-6</reference></p>
+<p>Frei für die rechte Stellung</p>
+<p><reference osisRef="Eph.6.10">Eph 6,10</reference></p>
+<p>Frei in der rechten Stärke</p>
+<p><reference osisRef="Eph.3.16-Eph.3.17">Eph 3,16-17</reference></p>
+<p>Frei für den rechten Waffengebrauch</p>
+<p><reference osisRef="Eph.6.17">Eph 6,17</reference></p>
+<title>Klugheit</title>
+<p>Gott kann sie geben</p>
+<p><reference osisRef="2Chr.22.12">2. Chr. 22,12</reference></p>
+<p>Ihr Anfang ist Gottesfurcht</p>
+<p><reference osisRef="Ps.111.10">Ps. 111,10</reference></p>
+<p>Aus der Bibel kann man sie lernen</p>
+<p><reference osisRef="Prov.1.3">Spr 1,3</reference></p>
+<p>Sie ist besser als alle Güter</p>
+<p><reference osisRef="Prov.4.7">Spr 4,7</reference></p>
+<p>Sie wird allen angeboten</p>
+<p><reference osisRef="Prov.8.1">Spr 8,1</reference></p>
+<p>Niemand prahle mit ihr</p>
+<p><reference osisRef="Prov.12.23">Spr 12,23</reference></p>
+<p>Wehe, wer von ihrem Weg abirrt</p>
+<p><reference osisRef="Prov.21.16">Spr 21,16</reference></p>
+<p>Gott will die Unvorsichtigen sie lehren</p>
+<p><reference osisRef="Isa.32.4">Jes 32,4</reference></p>
+<p>Gott will die Ungläubigen zu ihr bekehren</p>
+<p><reference osisRef="Luke.1.17">Luk 1,17</reference></p>
+<p>Selbstkluge werden zuschanden werden</p>
+<p><reference osisRef="1Cor.3.19">1. Kor. 3,19</reference></p>
+<p>Gott will sie uns reichlich geben</p>
+<p><reference osisRef="Eph.1.8">Eph 1,8</reference></p>
+<title>Rechtfertigung</title>
+<p>Gott - ihr Urheber</p>
+<p><reference osisRef="Rom.3.26">Röm 3,26</reference></p>
+<p>Gnade - ihr Ursprung</p>
+<p><reference osisRef="Rom.3.24">Röm 3,24</reference></p>
+<p>Blut - ihr Grund</p>
+<p><reference osisRef="Rom.5.9">Röm 5,9</reference></p>
+<p>Auferstehung - ihre Besiegelung</p>
+<p><reference osisRef="Rom.4.25">Röm 4,25</reference></p>
+<p>Glaube - ihre Zueignung</p>
+<p><reference osisRef="Rom.5.1">Röm 5,1</reference></p>
+<p>Werke - ihr Beweis</p>
+<p><reference osisRef="Jas.2.24">Jak 2,24</reference></p>
+</div>
+<div osisID="Jung_St_Peter_zu_Strassburg">
+<title>Jung St. Peter zu Straßburg</title>
+<p>Ich hatte vor einigen Tagen das Vergnügen, in Straßburg die Kirche Jung St. Peter besichtigen zu können - das ist die Kirche, in der Wolfgang Capito die Reformation einführte und lange predigte. Sein Nachfolger war Paulus Fagius, der dann mit Martin Bucer nach England ging und dort starb.</p>
+<p>Es war für mich ein besonderes Erlebnis, weil ich mich mit der Reformation in Straßburg schon lange verbunden fühle. Die Kirche ist immer noch evangelisch, und der Mitarbeiter, der die Kirche betreute, gab mir eine Reihe interessanter Informationen über die Geschichte der Kirche.</p>
+<p>In den letzten Tagen habe ich für die Glaubensstimme das Buch „Die Jung St. Peter-Kirche in Straßburg“ von Jean-Philippe Lambs, einem Prediger an Jung St.-Peter von 1835 bis 1854, überarbeitet und aufgenommen.</p>
+<p>Der Erhalt von Jung St. Peter ist teuer, die Gemeinde ist auf jede Spende angewiesen. Daher möchte ich auch hier zu Spenden aufrufen. Es gibt die Möglichkeit, per Paypal für diese Kirche und ihre Erhaltung zu spenden:</p>
+<p>Spendenlink Paypal</p>
+<p>Die Homepage von Jung St.-Peter ist https://www.saintpierrelejeune.org/</p>
+<p>Ihr wisst, dass die Glaubensstimme - und auch die Bücher der Glaubensstimme - von Anfang an kostenlos waren. Das werden Sie auch bleiben. Manche fragen mich, ob ich Spenden annehme - das ist nicht der Fall. Aber jeder, der für Jung St.-Peter spendet, macht mir eine persönliche Freude, auch wenn ich es nicht erfahre.</p>
+<p>Euch allen wünsche ich Gottes reichen Segen.</p>
+<p>Andreas Janssen <lb/>Im Kreuzgewann 4 <lb/>69181 Leimen</p>
+<p>Natürlich suche ich immer noch Leute, die Zeit und Lust haben, mitzuarbeiten - wer also Interesse hat, melde sich bitte. Meine Email-Adresse ist: webmaster@glaubensstimme.de. Insbesondere suche ich Leute, die Texte abschreiben möchten, bestehende Texte korrigieren oder sprachlich überarbeiten möchten oder die Programmierkenntnisse haben und das Design der Glaubensstimme verschönern können.</p>
+</div>
+</osisText>
+</osis>

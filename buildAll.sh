@@ -17,8 +17,12 @@ shopt -s globstar
 ## build alpha genbooks
 for i in alpha/genbook/**/*.conf; do # Whitespace-safe and recursive
 	base_name=$(basename -s .conf ${i})
+	headline=$(head -n 1 $i)
+	headline=${headline:1:-1}
 	xml_file=${i%.conf}.xml
+	echo "====================="
     echo "Processing $base_name"
+    echo "Headline: $headline"
     mkdir -p build/alpha/sword/modules/genbook/rawgenbook/$base_name
     cp $i build/alpha/sword/mods.d
     # xml2gbs
@@ -30,17 +34,26 @@ for i in alpha/genbook/**/*.conf; do # Whitespace-safe and recursive
     cp "$img_dir"/*.png build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
     cp "$img_dir"/*.jpg build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
     cp "$img_dir"/*.jpeg build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    # copy graticule.tsv if present (map-atlas modules only): precomputed
+    # lat/lon calibration for Phos's Actors & Locations map feature, read
+    # from the module's own installed folder (see Phos's
+    # unit_mapindex.pas / GraticuleSeedForModule) -- ships and updates on
+    # this module's own release cycle instead of Phos's.
+    cp "$img_dir"/graticule.tsv build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
     # make zip genbook
     cd build/alpha/sword/
-    zip -r ${base_name:3}.zip mods.d/$base_name.conf modules/genbook/rawgenbook/$base_name/*
+    #zip -r ${base_name:3}.zip mods.d/$base_name.conf modules/genbook/rawgenbook/$base_name/*
+    zip -r ${headline}.zip mods.d/$base_name.conf modules/genbook/rawgenbook/$base_name/*
     cd -
     # move zip file
-    mv build/alpha/sword/${base_name:3}.zip build/alpha/sword/packages/
+    mv build/alpha/sword/${headline}.zip build/alpha/sword/packages/
 done
 
 # build alpha comments
 for i in alpha/comments/**/*.conf; do # Whitespace-safe and recursive
 	base_name=$(basename -s .conf ${i})
+	headline=$(head -n 1 $i)
+	headline=${headline:1:-1}
 	xml_file=${i%.conf}.xml
     echo "Processing $base_name"
     mkdir -p build/alpha/sword/modules/comments/zcom/$base_name
@@ -55,10 +68,10 @@ for i in alpha/comments/**/*.conf; do # Whitespace-safe and recursive
     cp alpha/comments/$base_name/*.jpeg build/alpha/sword/modules/comments/zcom/$base_name/
     # make zip genbook
     cd build/alpha/sword/
-    zip -r ${base_name}.zip mods.d/$base_name.conf modules/comments/zcom/$base_name/*
+    zip -r ${headline}.zip mods.d/$base_name.conf modules/comments/zcom/$base_name/*
     cd -
     # move zip file
-    mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
+    mv build/alpha/sword/${headline}.zip build/alpha/sword/packages/
 done
 
 cd $home 
@@ -66,6 +79,8 @@ cd $home
 # build alpha bible texts
 for i in alpha/texts/**/*.conf; do # Whitespace-safe and recursive
 	base_name=$(basename -s .conf ${i})
+	headline=$(head -n 1 $i)
+	headline=${headline:1:-1}
 	xml_file=${i%.conf}.xml
     echo "Processing $base_name"
     mkdir -p build/alpha/sword/modules/texts/ztext/$base_name
@@ -80,15 +95,17 @@ for i in alpha/texts/**/*.conf; do # Whitespace-safe and recursive
     cp alpha/texts/$base_name/*.jpeg build/alpha/sword/texts/ztext/$base_name/
     # make zip genbook
     cd build/alpha/sword/
-    zip -r ${base_name}.zip mods.d/$base_name.conf modules/texts/ztext/$base_name/*
+    zip -r ${headline}.zip mods.d/$base_name.conf modules/texts/ztext/$base_name/*
     cd -
     # move zip file
-    mv build/alpha/sword/$base_name.zip build/alpha/sword/packages/
+    mv build/alpha/sword/${headline}.zip build/alpha/sword/packages/
 done
 
 ## build alpha lexdict
 for i in alpha/lexdict/**/*.conf; do # Whitespace-safe and recursive
 	base_name=$(basename -s .conf ${i})
+	headline=$(head -n 1 $i)
+	headline=${headline:1:-1}
 	xml_file=${i%.conf}.xml
     echo "Processing $base_name"
     mkdir -p build/alpha/sword/modules/lexdict/rawld4/$base_name
@@ -103,10 +120,29 @@ for i in alpha/lexdict/**/*.conf; do # Whitespace-safe and recursive
     cp alpha/lexdict/$base_name/*.jpeg build/alpha/sword/modules/lexdict/rawld4/$base_name/
     # make zip file
     cd build/alpha/sword/
-    zip -r ${base_name:3}.zip mods.d/$base_name.conf modules/lexdict/rawld4/$base_name/*
+    zip -r ${headline}.zip mods.d/$base_name.conf modules/lexdict/rawld4/$base_name/*
     cd -
     # move zip file
-    mv build/alpha/sword/${base_name:3}.zip build/alpha/sword/packages/
+    mv build/alpha/sword/${headline}.zip build/alpha/sword/packages/
+done
+
+## build alpha reading plans (AndBible reading-plan modules: conf + .properties
+## only, no genbook/osis source -- nothing to run through xml2gbs/osis2mod/tei2mod)
+for i in alpha/readingplans/**/*.conf; do # Whitespace-safe and recursive
+	base_name=$(basename -s .conf ${i})
+	headline=$(head -n 1 $i)
+	headline=${headline:1:-1}
+	props_file=${i%.conf}.properties
+    echo "Processing $base_name"
+    mkdir -p build/alpha/sword/modules/texts/ztext/$base_name
+    cp $i build/alpha/sword/mods.d
+    cp $props_file build/alpha/sword/modules/texts/ztext/$base_name/
+    # make zip file
+    cd build/alpha/sword/
+    zip -r ${headline}.zip mods.d/$base_name.conf modules/texts/ztext/$base_name/*
+    cd -
+    # move zip file
+    mv build/alpha/sword/${headline}.zip build/alpha/sword/packages/
 done
 # build mods.d.tar.gz
 cd build/alpha/sword/

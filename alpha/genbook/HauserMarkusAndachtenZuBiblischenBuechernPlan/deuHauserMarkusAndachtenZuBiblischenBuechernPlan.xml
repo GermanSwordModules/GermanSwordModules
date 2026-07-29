@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="HauserMarkusAndachtenZuBiblischenBuechernPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="HauserMarkusAndachtenZuBiblischenBuechernPlan"><title>HauserMarkusAndachtenZuBiblischenBuechernPlan</title></work></header>
+<div osisID="Hauser_Markus_Andachten_zu_biblischen_Buechern">
+<title>Hauser, Markus – Andachten zu biblischen Büchern</title>
+<p>Dies ist ein Leseplan zu Hauser Markus: Hauser, Markus – Andachten zu biblischen Büchern. Der volle Text steht im Modul HauserMarkusAndachtenZuBiblischenBuechern.</p>
+</div>
+</osisText>
+</osis>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="RochatAugusteAndachtenPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="RochatAugusteAndachtenPlan"><title>RochatAugusteAndachtenPlan</title></work></header>
+<div osisID="Rochat_Auguste_Andachten">
+<title>Rochat, Auguste – Andachten</title>
+<p>Dies ist ein Leseplan zu Rochat Auguste: Rochat, Auguste – Andachten. Der volle Text steht im Modul RochatAugusteAndachten.</p>
+</div>
+</osisText>
+</osis>
