@@ -40,6 +40,16 @@ for i in alpha/genbook/**/*.conf; do # Whitespace-safe and recursive
     # unit_mapindex.pas / GraticuleSeedForModule) -- ships and updates on
     # this module's own release cycle instead of Phos's.
     cp "$img_dir"/graticule.tsv build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    # copy reading-plan companions if present (*Plan modules only): the
+    # .properties (AndBible) and _text.json (Phos) pair named by the conf's
+    # AndBibleProvidesReadingPlan / PhosReadingPlanText entries. Both are read
+    # straight out of the module's DataPath folder (see Phos's
+    # unit_readingplan.pas / LoadPlanFile + LoadTextCompanion), so they must
+    # ship inside the module dir alongside the compiled stub genbook. Their
+    # filenames carry no "deu" prefix even though the folder does -- the conf
+    # names them literally, so copy without renaming.
+    cp "$img_dir"/*.properties build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
+    cp "$img_dir"/*_text.json build/alpha/sword/modules/genbook/rawgenbook/$base_name/ 2>/dev/null || true
     # make zip genbook
     cd build/alpha/sword/
     #zip -r ${base_name:3}.zip mods.d/$base_name.conf modules/genbook/rawgenbook/$base_name/*
