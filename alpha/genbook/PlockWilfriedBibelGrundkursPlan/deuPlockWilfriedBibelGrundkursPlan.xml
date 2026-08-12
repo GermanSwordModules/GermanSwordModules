@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="PlockWilfriedBibelGrundkursPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="PlockWilfriedBibelGrundkursPlan"><title>PlockWilfriedBibelGrundkursPlan</title></work></header>
+<div osisID="Bibel-Grundkurs">
+<title>Wilfried Plock – Bibel-Grundkurs</title>
+<p>Dies ist ein Leseplan zu Wilfried Plock: Bibel-Grundkurs. Die elf Teile des Kurses ergeben elf Lesetage; gelesen werden jeweils die Bibelstellen, auf die die betreffende Lektion selbst verweist.</p>
+<p>Der vollständige Text der jeweiligen Lektion wird beim Lesen direkt mit angezeigt; er steht außerdem als eigenständiges Modul PlockWilfriedBibelGrundkurs zur Verfügung.</p>
+</div>
+</osisText>
+</osis>

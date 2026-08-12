@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="JantzenHerbertEheNachDerHeiligenSchriftPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="JantzenHerbertEheNachDerHeiligenSchriftPlan"><title>JantzenHerbertEheNachDerHeiligenSchriftPlan</title></work></header>
+<div osisID="Die Ehe nach der Heiligen Schrift">
+<title>Herbert Jantzen (mit Thomas Jettel) – Die Ehe nach der Heiligen Schrift</title>
+<p>Dies ist ein Leseplan zu Herbert Jantzen (mit Thomas Jettel): Die Ehe nach der Heiligen Schrift. Jeder Teil ergibt einen Lesetag; gelesen werden jeweils die Bibelstellen, auf die der betreffende Teil verweist.</p>
+<p>Der vollständige Text wird beim Lesen direkt mit angezeigt; er steht außerdem als eigenständiges Modul JantzenHerbertEheNachDerHeiligenSchrift zur Verfügung.</p>
+</div>
+</osisText>
+</osis>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osis xmlns="http://www.bibletechnologies.net/2003/OSIS/namespace" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<osisText osisIDWork="JantzenHerbertGalaterbriefPlan" osisRefWork="Bible" xml:lang="de">
+<header><work osisWork="JantzenHerbertGalaterbriefPlan"><title>JantzenHerbertGalaterbriefPlan</title></work></header>
+<div osisID="Der Galaterbrief">
+<title>Herbert Jantzen (mit Thomas Jettel) – Der Galaterbrief</title>
+<p>Dies ist ein Leseplan zu Herbert Jantzen (mit Thomas Jettel): Der Galaterbrief. Jeder Teil ergibt einen Lesetag; gelesen werden jeweils die Bibelstellen, auf die der betreffende Teil verweist.</p>
+<p>Der vollständige Text wird beim Lesen direkt mit angezeigt; er steht außerdem als eigenständiges Modul JantzenHerbertGalaterbrief zur Verfügung.</p>
+</div>
+</osisText>
+</osis>
